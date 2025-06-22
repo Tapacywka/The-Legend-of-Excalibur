@@ -5,7 +5,6 @@
   "extra_settings": {
     "show_fps": true,
     "show_coords": true,
-    "cloud_distance": 300,
     "recipe_toast": false,
     "tutorial_toast": false
   }

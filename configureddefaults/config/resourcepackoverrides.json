@@ -9,7 +9,8 @@
     "file/Fresh Animations.zip",
     "file/Fresh Extensions.zip",
     "file/Fresh Excalibur.zip",
-    "file/Fresh Moves.zip"
+    "file/Fresh Moves.zip",
+    "continuity:default"
   ],
   "default_overrides": {},
   "pack_overrides": {
@@ -67,11 +68,13 @@
     },
     "left_side_disabled": [
       "programmer_art",
-      "high_contrast"
+      "high_contrast",
+      "continuity:glass_pane_culling_fix"
     ],
     "right_side_disabled": [
       "fabric",
-      "mod_resources"
+      "mod_resources",
+      "continuity:default"
     ],
     "$$left_side_disabled": {
       "force_compatible": true,

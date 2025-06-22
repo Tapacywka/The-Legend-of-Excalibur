@@ -5,6 +5,7 @@ fovEffectScale:0.0
 fullscreen:true
 guiScale:3
 maxFps:260
+renderClouds:"false"
 simulationDistance:8
 screenEffectScale:0.2
 chatLinksPrompt:false
@@ -12,7 +13,7 @@ realmsNotifications:false
 darkMojangStudiosBackground:true
 hideSplashTexts:true
 narratorHotkey:false
-resourcePacks:["fabric","mod_resources","file/Excalibur.zip","file/Excalibur Clarent Edition.zip","file/Fresh Animations.zip","file/Fresh Extensions.zip","file/Fresh Excalibur.zip","file/Fresh Moves.zip"]
+resourcePacks:["fabric","mod_resources","file/Excalibur.zip","file/Excalibur Clarent Edition.zip","file/Fresh Animations.zip","file/Fresh Extensions.zip","file/Fresh Excalibur.zip","file/Fresh Moves.zip","continuity:default"]
 incompatibleResourcePacks:[]
 attackIndicator:0
 tutorialStep:none

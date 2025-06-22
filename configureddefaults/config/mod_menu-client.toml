@@ -2,14 +2,16 @@ mod_badges = [
 	"balm=library",
 	"cloth_config=library",
 	"connector=!library",
-	"connectorextras=!library"
+	"connectorextras=!library",
+	"continuity=!sinytra_fabric, sinytra_neoforge"
 ]
 
 mod_parents = [
+	"citresewn=citresewn_neopatcher",
 	"connector=sinytra1343",
 	"entity_texture_features=entity_model_features",
 	"iris=badhorsefix",
-	"sodium=sodium_extra, reeses_sodium_options"
+	"sodium=sodium_extra, reeses_sodium_options, sspb"
 ]
 
 [main]
@@ -42,6 +44,7 @@ mod_parents = [
 		"c2me_rewrites_chunkio",
 		"c2me_server_utils",
 		"c2me_threading_lighting",
+		"citresewn_defaults",
 		"conditional_mixin",
 		"configureddefaults",
 		"connectorextras_emi_bridge",
@@ -56,11 +59,14 @@ mod_parents = [
 		"fabric-api",
 		"java",
 		"kuma_api",
+		"lambdynlights_api",
 		"minecraft",
 		"modmenu",
 		"neoforge",
 		"placeholder_api",
-		"resourcepackoverrides"
+		"pride",
+		"resourcepackoverrides",
+		"spruceui"
 	]
 	hide_mod_links = true
 	hide_mod_license = true
