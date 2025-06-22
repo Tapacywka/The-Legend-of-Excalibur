@@ -7,6 +7,8 @@ mod_badges = [
 
 mod_parents = [
 	"connector=sinytra1343",
+	"entity_texture_features=entity_model_features",
+	"iris=badhorsefix",
 	"sodium=sodium_extra, reeses_sodium_options"
 ]
 

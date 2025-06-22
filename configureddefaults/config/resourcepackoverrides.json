@@ -3,7 +3,13 @@
   "failed_reloads_per_session": 5,
   "default_packs": [
     "fabric",
-    "mod_resources"
+    "mod_resources",
+    "file/Excalibur.zip",
+    "file/Excalibur Clarent Edition.zip",
+    "file/Fresh Animations.zip",
+    "file/Fresh Extensions.zip",
+    "file/Fresh Excalibur.zip",
+    "file/Fresh Moves.zip"
   ],
   "default_overrides": {},
   "pack_overrides": {
@@ -14,6 +20,42 @@
       "force_compatible": true,
       "fixed_position": true,
       "required": true
+    },
+    "file/Excalibur.zip": {
+      "title": "\"\u00A7fExcalibur\"",
+      "description": "\"\u00A77Medieval Fantasy Resourcepack\u00A7r                              \"",
+      "force_compatible": true,
+      "hidden": true
+    },
+    "file/Excalibur Clarent Edition.zip": {
+      "title": "\"\u00A7fExcalibur Clarent Edition\"",
+      "description": "\"\u00A77The additional features for Excalibur\u00A7r                              \"",
+      "force_compatible": true,
+      "hidden": true
+    },
+    "file/Fresh Animations.zip": {
+      "title": "\"\u00A7fFresh Animations\"",
+      "description": "\"\u00A77Makes your game look like the trailers\u00A7r                              \"",
+      "force_compatible": true,
+      "hidden": true
+    },
+    "file/Fresh Extensions.zip": {
+      "title": "\"\u00A7fFresh Extensions\"",
+      "description": "\"\u00A77The additional features for Fresh Animations\u00A7r                              \"",
+      "force_compatible": true,
+      "hidden": true
+    },
+    "file/Fresh Excalibur.zip": {
+      "title": "\"\u00A7fFresh Excalibur\"",
+      "description": "\"\u00A77Compat between Fresh Animations and Excalibur\u00A7r                              \"",
+      "force_compatible": true,
+      "hidden": true
+    },
+    "file/Fresh Moves.zip": {
+      "title": "\"\u00A7fFresh Moves\"",
+      "description": "\"\u00A77Animates your character via Fresh Animations\u00A7r                              \"",
+      "force_compatible": true,
+      "hidden": true
     },
     "file/[Majesty RPG] Beyond the Lands.zip": {
       "title": "\"\u00A7fBeyond the Lands\"",
