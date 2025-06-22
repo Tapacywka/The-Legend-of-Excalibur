@@ -1,0 +1,38 @@
+mod_badges = [
+	"connector=!library",
+	"connectorextras=!library"
+]
+
+mod_parents = [
+	"connector=sinytra1343",
+	"sodium=sodium_extra, reeses_sodium_options"
+]
+
+[main]
+	compact_list = true
+	mods_button_style = "REPLACE_REALMS"
+	mod_count_location = "NONE"
+	easter_eggs = false
+
+[hide]
+	show_libraries = true
+	hide_badge = ["client"]
+	hidden_mods = [
+		"fabric-api",
+		"java",
+		"minecraft",
+		"neoforge",
+		"placeholder_api",
+		"connectorextras_emi_bridge",
+		"connectorextras_energy_bridge",
+		"connectorextras_jei_bridge",
+		"connectorextras_kubejs_bridge",
+		"connectorextras_modmenu_bridge",
+		"connectorextras_pehkui_bridge",
+		"connectorextras_rei_bridge",
+		"connectorextras_terrablender_bridge",
+		"modmenu"
+	]
+	hide_mod_links = true
+	hide_mod_license = true
+	hide_mod_credits = true
