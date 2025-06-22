@@ -1,4 +1,4 @@
-filename = '[NEOFORGE] c2me v0.3.0-alpha.0.70.jar'
+filename = '[NEOFORGE] c2me v0.3.0-alpha.0.71.jar'
 name = 'Concurrent Chunk Management Engine (NeoForge)'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'alpha'
 
 [download]
-hash = '149fe37ade1a6af1ab4f7938a8a8df703b0c1cc00acc2306778cffe271bfda4eea543626b5d09333146e869f948cef911277396af7dead394adc580c9ede7e70'
+hash = '03814dafedc8147d07edbf23d780e3740a7b6d22407f1fd011fcce930b77d82273824d1d0fdd84ac8659c80117baabf937662bd2195cfaf3ceb9d93487d0a649'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/COlSi5iR/versions/rKU60Imo/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.70.jar'
+url = 'https://cdn.modrinth.com/data/COlSi5iR/versions/DfDona07/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.71.jar'
 
 [update.modrinth]
 mod-id = 'COlSi5iR'
-version = 'rKU60Imo'
+version = 'DfDona07'
