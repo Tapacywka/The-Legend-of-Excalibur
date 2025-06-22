@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "fabric",
+    "mod_resources"
+  ],
+  "default_overrides": {},
+  "pack_overrides": {
+    "vanilla": {
+      "title": "\"\u00A7fDefault\"",
+      "description": "\"\u00A77The default look and feel of Minecraft\u00A7r                              \"",
+      "default_position": "BOTTOM",
+      "force_compatible": true,
+      "fixed_position": true,
+      "required": true
+    },
+    "file/[Majesty RPG] Beyond the Lands.zip": {
+      "title": "\"\u00A7fBeyond the Lands\"",
+      "description": "\"\u00A77Contains additional resources for the modpack\u00A7r                              \"",
+      "default_position": "TOP",
+      "force_compatible": true,
+      "fixed_position": true,
+      "required": true
+    },
+    "left_side_disabled": [
+      "programmer_art",
+      "high_contrast"
+    ],
+    "right_side_disabled": [
+      "fabric",
+      "mod_resources"
+    ],
+    "$$left_side_disabled": {
+      "force_compatible": true,
+      "hidden": true
+    },
+    "$$right_side_disabled": {
+      "force_compatible": true,
+      "hidden": true
+    }
+  }
+}

@@ -12,7 +12,7 @@ realmsNotifications:false
 darkMojangStudiosBackground:true
 hideSplashTexts:true
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","mod_resources","file/[Majesty RPG] Beyond the Lands.zip"]
+resourcePacks:["fabric","mod_resources"]
 incompatibleResourcePacks:[]
 attackIndicator:0
 tutorialStep:none
@@ -22,10 +22,3 @@ hideBundleTutorial:true
 syncChunkWrites:false
 onboardAccessibility:false
 menuBackgroundBlurriness:0
-key_key.chat:key.keyboard.enter
-key_key.socialInteractions:key.keyboard.unknown
-key_key.saveToolbarActivator:key.keyboard.unknown
-key_key.loadToolbarActivator:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.t
-key_iris.keybind.shaderPackSelection:key.keyboard.y
