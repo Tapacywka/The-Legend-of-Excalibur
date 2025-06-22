@@ -1,0 +1,16 @@
+filename = '[PORTS] Krypton v0.2.17-pre.3.jar'
+name = 'Krypton FNP'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '6d6184d2cffba25b2138fd7d429f6668b713c46e5d13f42ab1ff3cc78dde5612dadc87bb089baa370542516339784c9656356af4e5bfc9edc98b0bfe3a4a6628'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JkxWVYwU/versions/NsEDB7cg/krypton-neoforge-1.21.1-0.2.17-pre.3.jar'
+
+[update.modrinth]
+mod-id = 'JkxWVYwU'
+version = 'NsEDB7cg'

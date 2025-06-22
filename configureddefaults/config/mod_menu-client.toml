@@ -1,5 +1,6 @@
 mod_badges = [
 	"balm=library",
+	"cloth_config=library",
 	"connector=!library",
 	"connectorextras=!library"
 ]
@@ -19,15 +20,28 @@ mod_parents = [
 	show_libraries = true
 	hide_badge = ["client"]
 	hidden_mods = [
+		"c2me_base",
+		"c2me_client_uncapvd",
+		"c2me_fixes_chunkio_threading_issues",
+		"c2me_fixes_general_threading_issues",
+		"c2me_fixes_worldgen_threading_issues",
+		"c2me_fixes_worldgen_vanilla_bugs",
+		"c2me_notickvd",
+		"c2me_opts_allocs",
+		"c2me_opts_chunkio",
+		"c2me_opts_dfc",
+		"c2me_opts_math",
+		"c2me_opts_natives_math",
+		"c2me_opts_scheduling",
+		"c2me_opts_worldgen_general",
+		"c2me_opts_worldgen_vanilla",
+		"c2me_rewrites_chunk_serializer",
+		"c2me_rewrites_chunk_system",
+		"c2me_rewrites_chunkio",
+		"c2me_server_utils",
+		"c2me_threading_lighting",
+		"conditional_mixin",
 		"configureddefaults",
-		"defaultoptions",
-		"fabric-api",
-		"java",
-		"kuma_api",
-		"minecraft",
-		"neoforge",
-		"placeholder_api",
-		"resourcepackoverrides",
 		"connectorextras_emi_bridge",
 		"connectorextras_energy_bridge",
 		"connectorextras_jei_bridge",
@@ -36,7 +50,15 @@ mod_parents = [
 		"connectorextras_pehkui_bridge",
 		"connectorextras_rei_bridge",
 		"connectorextras_terrablender_bridge",
-		"modmenu"
+		"defaultoptions",
+		"fabric-api",
+		"java",
+		"kuma_api",
+		"minecraft",
+		"modmenu",
+		"neoforge",
+		"placeholder_api",
+		"resourcepackoverrides"
 	]
 	hide_mod_links = true
 	hide_mod_license = true
