@@ -1,4 +1,4 @@
-filename = '[PORTS] Krypton v0.2.18.jar'
+filename = '[PORTS] Krypton v0.2.19.jar'
 name = 'Krypton FNP'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'fe5855514d27d2552123ceb62a017540362fac2b5ae6d1a72556b81cfbb3940abe18f8db5f139952a4cb29354843e69de8f441780b93a9a65ee00c4949b5e29b'
+hash = 'b3158f7260afa2fa701393901dc8741c4397dc8a058d5b450010580902fd4fe20cfcf7b0ec9220c66a0a03118d4952429465f580fad6039d349d33b2e6d989ec'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/JkxWVYwU/versions/us4DAHzc/krypton-neoforge-1.21.1-0.2.18.jar'
+url = 'https://cdn.modrinth.com/data/JkxWVYwU/versions/3hHcy4hV/krypton-neoforge-1.21.1-0.2.19.jar'
 
 [update.modrinth]
 mod-id = 'JkxWVYwU'
-version = 'us4DAHzc'
+version = '3hHcy4hV'

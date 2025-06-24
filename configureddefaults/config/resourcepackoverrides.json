@@ -7,8 +7,7 @@
     "file/Excalibur.zip",
     "file/Excalibur Clarent Edition.zip",
     "file/Fresh Animations.zip",
-    "file/Fresh Extensions.zip",
-    "file/Fresh Excalibur.zip",
+    "file/Excalibur Fresh Edition.zip",
     "file/Fresh Moves.zip",
     "continuity:default"
   ],
@@ -29,7 +28,7 @@
       "hidden": true
     },
     "file/Excalibur Clarent Edition.zip": {
-      "title": "\"\u00A7fExcalibur Clarent Edition\"",
+      "title": "\"\u00A7fExcalibur: Clarent Edition\"",
       "description": "\"\u00A77The additional features for Excalibur\u00A7r                              \"",
       "force_compatible": true,
       "hidden": true
@@ -40,14 +39,8 @@
       "force_compatible": true,
       "hidden": true
     },
-    "file/Fresh Extensions.zip": {
-      "title": "\"\u00A7fFresh Extensions\"",
-      "description": "\"\u00A77The additional features for Fresh Animations\u00A7r                              \"",
-      "force_compatible": true,
-      "hidden": true
-    },
-    "file/Fresh Excalibur.zip": {
-      "title": "\"\u00A7fFresh Excalibur\"",
+    "file/Excalibur Fresh Edition.zip": {
+      "title": "\"\u00A7fExcalibur: Fresh Edition\"",
       "description": "\"\u00A77Compat between Fresh Animations and Excalibur\u00A7r                              \"",
       "force_compatible": true,
       "hidden": true
