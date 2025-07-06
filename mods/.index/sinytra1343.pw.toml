@@ -1,5 +1,5 @@
 filename = '[PATCHES] Connector Swimming Bug Fix v2.0.0.jar'
-name = 'Sinytra Connector #1343 (fix)'
+name = 'Sinytra Connector #1343 (swimming fix)'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
