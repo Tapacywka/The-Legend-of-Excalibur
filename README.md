@@ -1,44 +1,50 @@
-## ⚔️ Majesty RPG: Beyond the Lands
+<p align="center">
+  <img src="https://i.imgur.com/8XBcun1.png" alt="majesty_banner" width="900" height="auto">
+</p>
 
-**Majesty RPG: Beyond the Lands** is a unique modpack that combines both [**NeoForge**](https://neoforged.net/) and [**Fabric**](https://fabricmc.net/) mods simultaneously using [**Sinytra Connector**](https://modrinth.com/mod/connector).
+<p align="center">
+  <img src="https://i.imgur.com/oOgrX7n.png" alt="majesty_logo" width="480" height="auto">
+</p>
 
-Get ready for:
-- A highly optimized, stable, and beautiful gameplay experience with support for both modding platforms.
-- Full visual parity with [**OptiFine**](https://optifine.net/home) — without its limitations or compatibility issues.
-- The perfect foundation for creating a vast medieval fantasy world with improved landscape generation, new dimensions, buildings, powerful bosses and rich adventures.
+<p align="center">
+  <a href="https://discord.gg/8qnHQAEGbC">
+    <img src="https://i.imgur.com/xU7g3Wg.png" alt="majesty_discord" width="64" height="auto">
+  </a>
+  <a href="https://github.com/Tapacywka/Majesty-RPG-Beyond-the-Lands">
+    <img src="https://i.imgur.com/w1LA9Sh.png" alt="majesty_github" width="64" height="auto">
+  </a>
+  <a href="https://modrinth.com/modpack/majesty-rpg-beyond-the-lands">
+    <img src="https://i.imgur.com/w4a5Ccf.png" alt="majesty_modrinth" width="64" height="auto">
+  </a>
+</p>
 
----
+## ⚔️ <font color="#ff9900">Majesty RPG: Beyond the Lands</font>
 
-## ✨ What Makes This Modpack Unique?
-
-- ✅ **NeoForge + Fabric working together** — you can run mods from both platforms in one seamless client.
-
-- ✅ **Maximum performance optimization** — includes the top performance mods to boost FPS and stability: [**Sodium**](https://modrinth.com/mod/sodium), [**Lithium**](https://modrinth.com/mod/lithium), [**Iris**](https://modrinth.com/mod/iris), [**Ferrite Core**](https://modrinth.com/mod/ferrite-core), [**Modern Fix**](https://modrinth.com/mod/modernfix), [**Immediately Fast**](https://modrinth.com/mod/immediatelyfast), [**More Culling**](https://modrinth.com/mod/moreculling), [**Scalable Lux**](https://modrinth.com/mod/scalablelux), [**Enhanced Block Entities**](https://modrinth.com/mod/ebe), [**Faster Random**](https://modrinth.com/mod/faster-random), [**Thread Tweak**](https://modrinth.com/mod/threadtweak), and more.
-
-- ✅ **Full OptiFine parity**, without the downsides: [**Animatica**](https://modrinth.com/mod/animatica), [**Continuity**](https://modrinth.com/mod/continuity), [**Entity Model Features**](https://modrinth.com/mod/entity-model-features), [**Entity Texture Features**](https://modrinth.com/mod/entitytexturefeatures), [**Fabric Sky Boxes**](https://modrinth.com/mod/nuit), [**Lamb Dynamic Lights**](https://modrinth.com/mod/lambdynamiclights), [**OptiGUI**](https://modrinth.com/mod/optigui), [**Polytone**](https://modrinth.com/mod/polytone), and more.
-
-- ✅ **A true Medieval Fantasy RPG experience** — the pack evolves around atmospheric exploration, mystical biomes, puzzle solving, treasure hunting and epic battles.
-
----
-
-## 🏰 Planned Features:
-
-- ✨ **New Dimensions & Legendary Structures**: `The Aether`, `Twilight Forest`, `Better End`, `Better Nether`.
-- 🏞️ **Next-Gen World Generation**: `Tectonic`, `Terralith`, `Repurposed Structures`, `Dungeons and Taverns`.
-- ⚔️ **Combat & RPG Progression**: `Better Combat`, `RPG Series Mods`, `More RPG Classes`, and more.
+**Majesty RPG: Beyond the Lands** is a unique modpack that combines [**NeoForge**](https://neoforged.net/) and [**Fabric**](https://fabricmc.net/) exclusives into one client thanks to the [**Sinytra Connector**](https://modrinth.com/mod/connector) and [**Forgified Fabric API**](https://modrinth.com/mod/forgified-fabric-api) mods.
 
 ---
 
-## 🎯 Who Is «Majesty RPG: Beyond the Lands» For?
+## ✨ <font color="#ff9900">What Makes This Modpack Unique?</font>
 
-- ✔️ Players who want a stable, visually stunning, high-performance modpack.  
-- ✔️ Medieval Fantasy RPG lovers and fans of exploring new mystical dimensions and biomes.  
-- ✔️ Players looking to combine the best exclusives of **NeoForge** and **Fabric** mods.  
-- ✔️ Resourcepacks and shaders users, or anyone wanting **OptiFine**-like visuals.
+- 🦊 **NeoForge +** 📜 **Fabric working together** — you can run mods from both platforms in one client.
+
+- 🛠️ **Maximum performance optimization** — includes the best performance mods to increase your FPS: [**Sodium**](https://modrinth.com/mod/sodium), [**Lithium**](https://modrinth.com/mod/lithium), [**Iris**](https://modrinth.com/mod/iris), [**Ferrite Core**](https://modrinth.com/mod/ferrite-core), [**Modern Fix**](https://modrinth.com/mod/modernfix), [**Immediately Fast**](https://modrinth.com/mod/immediatelyfast), [**More Culling**](https://modrinth.com/mod/moreculling), [**Scalable Lux**](https://modrinth.com/mod/scalablelux), [**Enhanced Block Entities**](https://modrinth.com/mod/ebe), [**Faster Random**](https://modrinth.com/mod/faster-random), [**Thread Tweak**](https://modrinth.com/mod/threadtweak), and more.
+
+- 🌅 **Full OptiFine parity without any downsides**: [**Animatica**](https://modrinth.com/mod/animatica), [**Continuity**](https://modrinth.com/mod/continuity), [**Entity Model Features**](https://modrinth.com/mod/entity-model-features), [**Entity Texture Features**](https://modrinth.com/mod/entitytexturefeatures), [**Fabric Sky Boxes**](https://modrinth.com/mod/nuit), [**Lamb Dynamic Lights**](https://modrinth.com/mod/lambdynamiclights), [**OptiGUI**](https://modrinth.com/mod/optigui), [**Polytone**](https://modrinth.com/mod/polytone), and more.
+
+- 🛡️ **A true Medieval Fantasy RPG experience** — the modpack evolves around atmospheric exploration, mystical biomes, quests, puzzle solving, treasure hunting and epic boss battles.
 
 ---
 
-## 💡 Additional Info
+## 🎯 <font color="#ff9900">Planned Features:</font>
 
-- This modpack is actively developed and will receive regular updates and new content mods.
-- Hybrid mod support is provided, but careful addition of mods is recommended for custom setups.
+- 🏞️ **New Dimensions & Legendary Structures**: `The Aether`, `Twilight Forest`, `Better End`, `Better Nether`.
+- 🏕️ **Next-Gen World Generation**: `Tectonic`, `Terralith`, `Repurposed Structures`, `Dungeons and Taverns`.
+- 🏹 **Combat & RPG Progression**: `Better Combat`, `RPG Series Mods`, `More RPG Classes`, and more.
+
+---
+
+## 💡 <font color="#ff9900">Additional Info</font>
+
+- 🛎️ This modpack is actively developed and will receive regular updates and new content mods.
+- ⚡ Hybrid mod support is provided, but careful addition of mods is recommended for custom setups.
