@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://discord.gg/8qnHQAEGbC">
-    <img src="https://i.imgur.com/xU7g3Wg.png" alt="majesty_discord" width="64" height="auto">
+    <img src="https://i.imgur.com/0RkRbGP.png" alt="majesty_discord" width="64" height="auto">
   </a>
   <a href="https://github.com/Tapacywka/Majesty-RPG-Beyond-the-Lands">
-    <img src="https://i.imgur.com/w1LA9Sh.png" alt="majesty_github" width="64" height="auto">
+    <img src="https://i.imgur.com/Q36h6IO.png" alt="majesty_github" width="64" height="auto">
   </a>
   <a href="https://modrinth.com/modpack/majesty-rpg-beyond-the-lands">
-    <img src="https://i.imgur.com/w4a5Ccf.png" alt="majesty_modrinth" width="64" height="auto">
+    <img src="https://i.imgur.com/RbiTIMC.png" alt="majesty_modrinth" width="64" height="auto">
   </a>
 </p>
 
