@@ -1,0 +1,78 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = title_screen
+  last_edited_time = 0
+  is_enabled = true
+  layout_index = 0
+  [loading_requirement_container_meta:582188e4-f321-4ccc-a19a-582d5b8449a7-0] = [groups:][instances:]
+}
+
+customization {
+  action = setscale
+  scale = 3.0
+}
+
+customization {
+  action = autoscale
+  basewidth = 1920
+  baseheight = 1080
+}
+
+element {
+  interactable = false
+  source = Minecraft {"placeholder":"mcversion"}%n%{"placeholder":"loadername"} {"placeholder":"loaderver"}%n%Fabric Loader 0.16.0%n%Fabric API 0.115.6
+  enable_scrolling = false
+  element_type = text_v2
+  instance_identifier = d7d4432f-d288-46c4-b390-be61b0fffa24-0
+  anchor_point = bottom-left
+  x = 0
+  y = -46
+  width = 200
+  height = 46
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = d132e0d8-06b0-469d-aab8-057a8533a0d7-0
+  [loading_requirement_container_meta:d132e0d8-06b0-469d-aab8-057a8533a0d7-0] = [groups:][instances:]
+}
+
+deep_element {
+  element_type = title_screen_branding
+  instance_identifier = deep:title_screen_branding
+  element_loading_requirement_container_identifier = 5a62ad43-1a23-4480-9cb4-d217ad64e760-0
+  [loading_requirement_container_meta:5a62ad43-1a23-4480-9cb4-d217ad64e760-0] = [groups:][instances:]
+  is_hidden = true
+}
+
+deep_element {
+  element_type = title_screen_realms_notification
+  instance_identifier = deep:title_screen_realms_notification
+  element_loading_requirement_container_identifier = 9806af84-b315-4880-9fa8-4097b2196b3a-0
+  [loading_requirement_container_meta:9806af84-b315-4880-9fa8-4097b2196b3a-0] = [groups:][instances:]
+  is_hidden = true
+}
+
+deep_element {
+  element_type = title_screen_forge_copyright
+  instance_identifier = deep:title_screen_forge_copyright
+  element_loading_requirement_container_identifier = 233bb352-76d3-4d28-9cd7-d9f14f047f98-0
+  [loading_requirement_container_meta:233bb352-76d3-4d28-9cd7-d9f14f047f98-0] = [groups:][instances:]
+  is_hidden = true
+}
+
+deep_element {
+  element_type = title_screen_forge_top
+  instance_identifier = deep:title_screen_forge_top
+  element_loading_requirement_container_identifier = 556a0cb0-5e65-4ded-a3c5-8235ab071433-0
+  [loading_requirement_container_meta:556a0cb0-5e65-4ded-a3c5-8235ab071433-0] = [groups:][instances:]
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = minecraft_splash_widget
+  element_loading_requirement_container_identifier = 1e0c7871-4a60-44df-8d46-5666ce3f7340-0
+  [loading_requirement_container_meta:1e0c7871-4a60-44df-8d46-5666ce3f7340-0] = [groups:][instances:]
+  is_hidden = true
+}

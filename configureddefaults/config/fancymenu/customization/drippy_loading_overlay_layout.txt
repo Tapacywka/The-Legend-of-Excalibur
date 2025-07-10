@@ -1,0 +1,14 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = drippy_loading_overlay
+  last_edited_time = 0
+  is_enabled = true
+  layout_index = 0
+  [loading_requirement_container_meta:055e7c84-3105-49c0-82a4-0a2868c7a75d-0] = [groups:][instances:]
+}
+
+menu_background {
+  color = #14181c
+  background_type = drippy_color_background
+}

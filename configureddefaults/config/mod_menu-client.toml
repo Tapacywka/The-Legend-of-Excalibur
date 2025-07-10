@@ -3,13 +3,17 @@ mod_badges = [
 	"cloth_config=library",
 	"connector=!library",
 	"connectorextras=!library",
-	"continuity=!sinytra_fabric, sinytra_neoforge"
+	"continuity=!sinytra_fabric, sinytra_neoforge",
+	"konkrete=library",
+	"melody=library",
+	"midnightlib=library"
 ]
 
 mod_parents = [
 	"citresewn=citresewn_neopatcher",
 	"connector=sinytra1343",
 	"entity_texture_features=entity_model_features",
+	"fancymenu=drippyloadingscreen, modernworldcreation, spiffyhud",
 	"iris=badhorsefix",
 	"sodium=sodium_extra, reeses_sodium_options, sspb"
 ]
