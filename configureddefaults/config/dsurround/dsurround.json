@@ -1,0 +1,15 @@
+{
+  "blockEffects": {
+    "waterRippleStyle": "NONE"
+  },
+  "particleTweaks": {
+    "suppressProjectileParticleTrails": true
+  },
+  "compassAndClockOptions": {
+    "enableClock": false,
+    "enableCompass": false
+  },
+  "otherOptions": {
+    "playRandomSoundOnStartup": false
+  }
+}

@@ -1,0 +1,16 @@
+filename = '[NEOFORGE] Particle Rain v4.0.0-alpha.2.jar'
+name = 'Particle Rain'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'fa2248fc4b3507584a1dab557a11bd21fdbb7e6631bd60f20cf6be977c80475a274f9ca88ed9a57d571ec5fa78b7d4e0ea9c6a4e912aaceda2012ce20ce20f41'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nrikgvxm/versions/mhruDX1E/particlerain-4.0.0-alpha-2%2B1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'nrikgvxm'
+version = 'mhruDX1E'

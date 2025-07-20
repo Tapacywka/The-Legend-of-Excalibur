@@ -1,4 +1,5 @@
 mod_badges = [
+	"architectury=library",
 	"balm=library",
 	"cloth_config=library",
 	"connector=!library",
@@ -6,7 +7,8 @@ mod_badges = [
 	"continuity=!sinytra_fabric, sinytra_neoforge",
 	"konkrete=library",
 	"melody=library",
-	"midnightlib=library"
+	"midnightlib=library",
+	"yet_another_config_lib_v3=library"
 ]
 
 mod_parents = [
@@ -62,6 +64,7 @@ mod_parents = [
 		"defaultoptions",
 		"fabric-api",
 		"java",
+		"kirin",
 		"kuma_api",
 		"lambdynlights_api",
 		"minecraft",
