@@ -6,3 +6,4 @@ key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.toggleShaders:key.keyboard.t:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.y:NONE
 key_key.optigui.inspect:key.keyboard.unknown:NONE
+key_key.presencefootsteps.settings:key.keyboard.unknown:NONE
