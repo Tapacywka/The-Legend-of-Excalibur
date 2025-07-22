@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/oOgrX7n.png" alt="majesty_logo" width="480" height="auto">
-</p>
-
-<p align="center">
   <a href="https://discord.gg/8qnHQAEGbC">
     <img src="https://i.imgur.com/0RkRbGP.png" alt="majesty_discord" width="64" height="auto">
   </a>
