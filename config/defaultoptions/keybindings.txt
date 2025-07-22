@@ -5,5 +5,8 @@ key_key.loadToolbarActivator:key.keyboard.unknown:NONE
 key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.toggleShaders:key.keyboard.t:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.y:NONE
+key_key.fbp.open_settings:key.keyboard.unknown:NONE
+key_key.fbp.freeze_particles:key.keyboard.unknown:NONE
+key_key.fbp.add_to_blacklist:key.keyboard.unknown:NONE
 key_key.optigui.inspect:key.keyboard.unknown:NONE
 key_key.presencefootsteps.settings:key.keyboard.unknown:NONE

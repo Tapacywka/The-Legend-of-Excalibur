@@ -4,12 +4,13 @@
   "default_packs": [
     "fabric",
     "mod_resources",
+    "continuity:default",
+    "mod/subtle_effects:resourcepacks/biome_color_water_particles",
     "file/Excalibur.zip",
     "file/Excalibur Clarent Edition.zip",
     "file/Fresh Animations.zip",
     "file/Excalibur Fresh Edition.zip",
-    "file/Fresh Moves.zip",
-    "continuity:default"
+    "file/Fresh Moves.zip"
   ],
   "default_overrides": {},
   "pack_overrides": {
@@ -51,8 +52,8 @@
       "force_compatible": true,
       "hidden": true
     },
-    "file/[Majesty RPG] Beyond the Lands.zip": {
-      "title": "\"\u00A7fBeyond the Lands\"",
+    "file/Majesty RPG.zip": {
+      "title": "\"\u00A7fMajesty RPG\"",
       "description": "\"\u00A77Contains additional resources for the modpack\u00A7r                              \"",
       "default_position": "TOP",
       "force_compatible": true,
@@ -67,7 +68,8 @@
     "right_side_disabled": [
       "fabric",
       "mod_resources",
-      "continuity:default"
+      "continuity:default",
+      "mod/subtle_effects:resourcepacks/biome_color_water_particles"
     ],
     "$$left_side_disabled": {
       "force_compatible": true,

@@ -5,7 +5,9 @@ mod_badges = [
 	"connector=!library",
 	"connectorextras=!library",
 	"continuity=!sinytra_fabric, sinytra_neoforge",
+	"fzzy_config=library",
 	"konkrete=library",
+	"kotlinforforge=library",
 	"melody=library",
 	"midnightlib=library",
 	"yet_another_config_lib_v3=library"
@@ -16,7 +18,7 @@ mod_parents = [
 	"connector=sinytra1343",
 	"entity_texture_features=entity_model_features",
 	"fancymenu=drippyloadingscreen, modernworldcreation, spiffyhud",
-	"iris=badhorsefix",
+	"iris=badhorsefix, irisblockcompat",
 	"sodium=sodium_extra, reeses_sodium_options, sspb"
 ]
 
