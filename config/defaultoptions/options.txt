@@ -11,7 +11,7 @@ screenEffectScale:0.2
 chatLinksPrompt:false
 realmsNotifications:false
 narratorHotkey:false
-resourcePacks:["fabric","mod_resources","continuity:default","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Excalibur.zip","file/Excalibur Clarent Edition.zip","file/Fresh Animations.zip","file/Excalibur Fresh Edition.zip","file/Fresh Moves.zip"]
+resourcePacks:["fabric","mod_resources","continuity:default","minecraft:supporteatinganimation","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Excalibur.zip","file/Excalibur Clarent Edition.zip","file/Fresh Animations.zip","file/Excalibur Fresh Edition.zip","file/Fresh Moves.zip"]
 incompatibleResourcePacks:[]
 attackIndicator:0
 tutorialStep:none

@@ -1,0 +1,26 @@
+configVersion = 2
+
+[general]
+	enableInThirdPerson = false
+	turningRollAccumulation = 1.2
+	turningRollIntensity = 3.0
+	turningRollSmoothing = 1.1
+	cameraSwayIntensity = 1.0
+	cameraSwayFrequency = 0.2
+	cameraSwayFadeInDelay = 0.0
+
+[walking]
+	strafingRollFactor = 15.0
+	horizontalVelocitySmoothingFactor = 2.0
+
+[swimming]
+	horizontalVelocitySmoothingFactor = 2.0
+
+[flying]
+	horizontalVelocitySmoothingFactor = 2.0
+
+[mounts]
+	horizontalVelocitySmoothingFactor = 2.0
+
+[vehicles]
+	horizontalVelocitySmoothingFactor = 2.0

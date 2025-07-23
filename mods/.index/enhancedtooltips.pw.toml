@@ -1,0 +1,16 @@
+filename = '[PORTS] Enhanced Tooltips v1.7.1.jar'
+name = 'EnhancedTooltips'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '71d9a4a9c5d0784f6183136ec0563ffca93163ff0aa6feecf9d5e6cd661865f315830d9fe67a9d4df280863d50592c0ebc1cf2c21fb99421c8629076b8232284'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8H6RXl2q/versions/kJclxhTn/EnhancedTooltips-1.7.1%2Bneoforge.1.21.1.jar'
+
+[update.modrinth]
+mod-id = '8H6RXl2q'
+version = 'kJclxhTn'

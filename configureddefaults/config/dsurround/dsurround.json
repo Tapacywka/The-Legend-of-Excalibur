@@ -2,12 +2,18 @@
   "blockEffects": {
     "waterRippleStyle": "NONE"
   },
+  "footstepAccents": {
+    "enableAccents": false
+  },
   "particleTweaks": {
     "suppressProjectileParticleTrails": true
   },
   "compassAndClockOptions": {
     "enableClock": false,
     "enableCompass": false
+  },
+  "fogOptions": {
+    "enableFogEffects": false
   },
   "otherOptions": {
     "playRandomSoundOnStartup": false

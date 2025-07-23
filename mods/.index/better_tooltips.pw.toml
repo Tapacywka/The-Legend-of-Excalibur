@@ -1,0 +1,16 @@
+filename = '[PORTS] Better Tooltips v1.0.3.jar'
+name = 'Better Tooltips'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f9f84903c7c5945deed7c4d59a1e5f3a6c6f3625140b81b719e56341a08d49af8b333aacdcffd7bcb5528a59f7207e73afbf121609db793778726e158f614d65'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z7rKZJ8k/versions/cnt6F6VI/better_tooltips-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'Z7rKZJ8k'
+version = 'cnt6F6VI'

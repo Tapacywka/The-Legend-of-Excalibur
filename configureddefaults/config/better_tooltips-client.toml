@@ -1,0 +1,6 @@
+[positioning]
+	useYACLTooltipPositioner = true
+	preventVanillaClamping = false
+
+[content_manipulation]
+	wrapText = "REMAINING_WIDTH"

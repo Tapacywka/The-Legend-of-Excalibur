@@ -5,6 +5,7 @@
     "fabric",
     "mod_resources",
     "continuity:default",
+    "minecraft:supporteatinganimation",
     "mod/subtle_effects:resourcepacks/biome_color_water_particles",
     "file/Excalibur.zip",
     "file/Excalibur Clarent Edition.zip",
@@ -69,6 +70,7 @@
       "fabric",
       "mod_resources",
       "continuity:default",
+      "minecraft:supporteatinganimation",
       "mod/subtle_effects:resourcepacks/biome_color_water_particles"
     ],
     "$$left_side_disabled": {

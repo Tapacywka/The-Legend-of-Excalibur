@@ -1,0 +1,11 @@
+{
+  "mobs": {
+    "horseArmorTooltip": false,
+    "wolfArmorTooltip": false,
+    "bucketTooltip": false,
+    "spawnEggTooltip": false
+  },
+  "heldItemTooltip": {
+    "mode": "OFF"
+  }
+}

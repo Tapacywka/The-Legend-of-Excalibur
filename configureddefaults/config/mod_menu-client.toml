@@ -10,6 +10,9 @@ mod_badges = [
 	"kotlinforforge=library",
 	"melody=library",
 	"midnightlib=library",
+	"mru=library",
+	"octolib=library",
+	"puzzleslib=library",
 	"yet_another_config_lib_v3=library"
 ]
 
@@ -19,7 +22,8 @@ mod_parents = [
 	"entity_texture_features=entity_model_features",
 	"fancymenu=drippyloadingscreen, modernworldcreation, spiffyhud",
 	"iris=badhorsefix, irisblockcompat",
-	"sodium=sodium_extra, reeses_sodium_options, sspb"
+	"sodium=sodium_extra, reeses_sodium_options, sspb",
+	"sounds=more_sounds"
 ]
 
 [main]

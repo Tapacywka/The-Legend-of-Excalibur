@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_right": [
       {
-        "text": "Majesty RPG: Beyond the Lands (v1.0.0-build.13)",
+        "text": "Majesty RPG: Beyond the Lands (v1.0.0-build.14)",
         "clickEvent": {
           "action": "open_url",
           "value": "https://modrinth.com/modpack/majesty-rpg-beyond-the-lands"

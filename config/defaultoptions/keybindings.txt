@@ -2,6 +2,8 @@ key_key.chat:key.keyboard.enter:NONE
 key_key.socialInteractions:key.keyboard.unknown:NONE
 key_key.saveToolbarActivator:key.keyboard.unknown:NONE
 key_key.loadToolbarActivator:key.keyboard.unknown:NONE
+key_key.better_tooltips.scroll_key:key.keyboard.unknown:NONE
+key_key.better_tooltips.horizontal_scroll_key:key.keyboard.unknown:NONE
 key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.toggleShaders:key.keyboard.t:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.y:NONE
@@ -10,3 +12,5 @@ key_key.fbp.freeze_particles:key.keyboard.unknown:NONE
 key_key.fbp.add_to_blacklist:key.keyboard.unknown:NONE
 key_key.optigui.inspect:key.keyboard.unknown:NONE
 key_key.presencefootsteps.settings:key.keyboard.unknown:NONE
+key_key.raised.options:key.keyboard.unknown:NONE
+key_gnetum.config.keyMapping:key.keyboard.unknown:NONE

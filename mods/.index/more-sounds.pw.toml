@@ -1,0 +1,16 @@
+filename = '[NEOFORGE] Sounds Addons v0.1.1.jar'
+name = 'More Sounds'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'de02c13a92cb7b7ce0aee73b40b48f9410e8dccf9fc57f25c2846c315d2a3d4e995eeb29ce7fc2b79746f215d2f3e1cfe03fd1bc5607a2c2e1e87bfa322c78d4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8jvcOd6S/versions/2v4RpMY7/more_sounds-0.1.1-beta.jar'
+
+[update.modrinth]
+mod-id = '8jvcOd6S'
+version = '2v4RpMY7'
