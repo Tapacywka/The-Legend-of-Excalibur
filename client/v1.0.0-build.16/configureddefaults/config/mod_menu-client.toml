@@ -1,0 +1,89 @@
+mod_badges = [
+	"architectury=library",
+	"balm=library",
+	"cloth_config=library",
+	"connector=!library",
+	"connectorextras=!library",
+	"continuity=!sinytra_fabric, sinytra_neoforge",
+	"fzzy_config=library",
+	"konkrete=library",
+	"kotlinforforge=library",
+	"melody=library",
+	"midnightlib=library",
+	"mru=library",
+	"octolib=library",
+	"puzzleslib=library",
+	"yet_another_config_lib_v3=library"
+]
+
+mod_parents = [
+	"citresewn=citresewn_neopatcher",
+	"connector=sinytra1343",
+	"entity_texture_features=entity_model_features",
+	"fancymenu=drippyloadingscreen, modernworldcreation, spiffyhud",
+	"iris=badhorsefix, irisblockcompat",
+	"sodium=sodium_extra, reeses_sodium_options, sspb",
+	"sounds=more_sounds"
+]
+
+[main]
+	compact_list = true
+	mods_button_style = "REPLACE_REALMS"
+	mod_count_location = "NONE"
+	easter_eggs = false
+
+[hide]
+	show_libraries = true
+	hide_badge = ["client"]
+	hidden_mods = [
+		"c2me_base",
+		"c2me_client_uncapvd",
+		"c2me_fixes_chunkio_threading_issues",
+		"c2me_fixes_general_threading_issues",
+		"c2me_fixes_worldgen_threading_issues",
+		"c2me_fixes_worldgen_vanilla_bugs",
+		"c2me_notickvd",
+		"c2me_opts_allocs",
+		"c2me_opts_chunkio",
+		"c2me_opts_dfc",
+		"c2me_opts_math",
+		"c2me_opts_natives_math",
+		"c2me_opts_scheduling",
+		"c2me_opts_worldgen_general",
+		"c2me_opts_worldgen_vanilla",
+		"c2me_rewrites_chunk_serializer",
+		"c2me_rewrites_chunk_system",
+		"c2me_rewrites_chunkio",
+		"c2me_server_utils",
+		"c2me_threading_lighting",
+		"citresewn_defaults",
+		"conditional_mixin",
+		"configureddefaults",
+		"connectorextras_emi_bridge",
+		"connectorextras_energy_bridge",
+		"connectorextras_jei_bridge",
+		"connectorextras_kubejs_bridge",
+		"connectorextras_modmenu_bridge",
+		"connectorextras_pehkui_bridge",
+		"connectorextras_rei_bridge",
+		"connectorextras_terrablender_bridge",
+		"defaultoptions",
+		"fabric-api",
+		"java",
+		"kirin",
+		"kuma_api",
+		"lambdynlights_api",
+		"minecraft",
+		"modmenu",
+		"neoforge",
+		"placeholder_api",
+		"pride",
+		"resourcepackoverrides",
+		"spruceui",
+		"transition",
+		"trender",
+		"yumi_mc_libraries"
+	]
+	hide_mod_links = true
+	hide_mod_license = true
+	hide_mod_credits = true
