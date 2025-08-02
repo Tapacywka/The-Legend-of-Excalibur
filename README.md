@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://discord.gg/8qnHQAEGbC">
-    <img src="https://i.imgur.com/0RkRbGP.png" alt="majesty_discord" width="64" height="auto">
-  </a>
-  <a href="https://github.com/tapacywka/majesty-rpg">
-    <img src="https://i.imgur.com/Q36h6IO.png" alt="majesty_github" width="64" height="auto">
+    <img src="https://i.imgur.com/xU7g3Wg.png" alt="majesty_discord" width="64" height="auto">
   </a>
   <a href="https://modrinth.com/modpack/majesty-rpg">
-    <img src="https://i.imgur.com/RbiTIMC.png" alt="majesty_modrinth" width="64" height="auto">
+    <img src="https://i.imgur.com/w4a5Ccf.png" alt="majesty_modrinth" width="64" height="auto">
+  </a>
+  <a href="https://github.com/tapacywka/majesty-rpg">
+    <img src="https://i.imgur.com/4u25zKP.png" alt="majesty_github" width="64" height="auto">
   </a>
 </p>
 
@@ -24,19 +24,19 @@
 
 - 🦊 **NeoForge +** 📜 **Fabric working together** — you can run mods from both platforms in one client.
 
-- 🛠️ **Maximum performance optimization** — includes the best performance mods to increase your FPS: [**Sodium**](https://modrinth.com/mod/sodium), [**Lithium**](https://modrinth.com/mod/lithium), [**Iris**](https://modrinth.com/mod/iris), [**Ferrite Core**](https://modrinth.com/mod/ferrite-core), [**Modern Fix**](https://modrinth.com/mod/modernfix), [**Immediately Fast**](https://modrinth.com/mod/immediatelyfast), [**More Culling**](https://modrinth.com/mod/moreculling), [**Scalable Lux**](https://modrinth.com/mod/scalablelux), [**Enhanced Block Entities**](https://modrinth.com/mod/ebe), [**Faster Random**](https://modrinth.com/mod/faster-random), [**Thread Tweak**](https://modrinth.com/mod/threadtweak), and more.
+- 🛠️ **Maximum performance optimization** — includes the best performance mods to increase your FPS: [**Sodium**](https://modrinth.com/mod/sodium), [**Lithium**](https://modrinth.com/mod/lithium), [**Iris**](https://modrinth.com/mod/iris), [**Ferrite Core**](https://modrinth.com/mod/ferrite-core), [**Modern Fix**](https://modrinth.com/mod/modernfix), [**Immediately Fast**](https://modrinth.com/mod/immediatelyfast), [**More Culling**](https://modrinth.com/mod/moreculling), [**Scalable Lux**](https://modrinth.com/mod/scalablelux), [**Enhanced Block Entities**](https://modrinth.com/mod/ebe), [**Faster Random**](https://modrinth.com/mod/faster-random), and more.
 
 - 🌅 **Full OptiFine parity without any downsides**: [**Animatica**](https://modrinth.com/mod/animatica), [**Continuity**](https://modrinth.com/mod/continuity), [**Entity Model Features**](https://modrinth.com/mod/entity-model-features), [**Entity Texture Features**](https://modrinth.com/mod/entitytexturefeatures), [**Lamb Dynamic Lights**](https://modrinth.com/mod/lambdynamiclights), [**OptiBoxes**](https://modrinth.com/mod/optiboxes), [**OptiGUI**](https://modrinth.com/mod/optigui), [**Polytone**](https://modrinth.com/mod/polytone), and more.
 
-- 🛡️ **A true Medieval Fantasy RPG experience** — the modpack evolves around atmospheric exploration, mystical biomes, quests, puzzle solving, treasure hunting and epic boss battles.
+- 🛡️ **A true Medieval Fantasy RPG experience** — the modpack evolves around atmospheric exploration, mystical biomes, quests, puzzle solving, treasure hunting and epic boss fights.
 
 ---
 
 ## 🎯 <font color="#ff9900">Planned Features:</font>
 
-- 🏞️ **New Dimensions & Legendary Structures**: `The Aether`, `Twilight Forest`, `Better End`, `Better Nether`.
-- 🏕️ **Next-Gen World Generation**: `Tectonic`, `Terralith`, `Repurposed Structures`, `Dungeons and Taverns`.
-- 🏹 **Combat & RPG Progression**: `Better Combat`, `RPG Series Mods`, `More RPG Classes`, and more.
+- 🏞️ **New Dimensions & Legendary Structures**: `Better End`, `Better Nether`, `The Aether`, `Twilight Forest`.
+- 🏕️ **Next-Gen World Generation**: `Dungeons and Taverns`, `Lithosphere`, `Still Life`, `Towns and Towers`.
+- 🏹 **Combat & RPG Progression**: `Better Combat`, `More RPG Classes`, `Pufferfish's Skills`, `RPG Series Mods`.
 
 ---
 
