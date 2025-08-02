@@ -2,15 +2,15 @@ configVersion = 2
 
 [general]
 	enableInThirdPerson = false
-	turningRollAccumulation = 1.2
-	turningRollIntensity = 3.0
-	turningRollSmoothing = 1.1
-	cameraSwayIntensity = 1.0
+	turningRollAccumulation = 1.0
+	turningRollIntensity = 2.0
+	turningRollSmoothing = 1.0
+	cameraSwayIntensity = 0.5
 	cameraSwayFrequency = 0.2
-	cameraSwayFadeInDelay = 0.0
+	cameraSwayFadeInDelay = 3.0
 
 [walking]
-	strafingRollFactor = 15.0
+	strafingRollFactor = 10.0
 	horizontalVelocitySmoothingFactor = 2.0
 
 [swimming]
