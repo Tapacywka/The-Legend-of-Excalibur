@@ -34,9 +34,14 @@
 
 ## 🎯 <font color="#ff9900">Planned Features:</font>
 
-- 🏞️ **New Dimensions & Legendary Structures**: `Better End`, `Better Nether`, `The Aether`, `Twilight Forest`.
+- ⚙️ **Basic stable core**: the key to success for future modpack content updates.
+  - *(Planned in `v1.0.0-release`)*
 - 🏕️ **Next-Gen World Generation**: `Dungeons and Taverns`, `Lithosphere`, `Still Life`, `Towns and Towers`.
+  - *(Planned in `v1.1.0-release`)*
+- 🏞️ **New Dimensions & Legendary Structures**: `Better End`, `Better Nether`, `The Aether`, `Twilight Forest`.
+  - *(Planned in `v1.2.0-release`)*
 - 🏹 **Combat & RPG Progression**: `Better Combat`, `More RPG Classes`, `Pufferfish's Skills`, `RPG Series Mods`.
+  - *(Planned in `v1.3.0-release`)*
 
 ---
 
