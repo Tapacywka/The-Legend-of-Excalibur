@@ -19,7 +19,6 @@ mod_badges = [
 mod_parents = [
 	"citresewn=citresewn_neopatcher",
 	"connector=sinytra1343",
-	"entity_texture_features=entity_model_features",
 	"fancymenu=drippyloadingscreen, modernworldcreation, spiffyhud",
 	"iris=badhorsefix, irisblockcompat",
 	"sodium=sodium_extra, reeses_sodium_options, sspb",

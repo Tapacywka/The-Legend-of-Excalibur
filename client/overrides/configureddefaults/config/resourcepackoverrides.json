@@ -54,7 +54,13 @@
       "force_compatible": true,
       "hidden": true
     },
-    "file/[Majesty RPG] Beyond the Lands.zip": {
+    "file/Dramatic Skys.zip": {
+      "title": "\"\u00A7fDramatic Skys\"",
+      "description": "\"\u00A77Sky with realistic clouds and lighting\u00A7r                              \"",
+      "force_compatible": true,
+      "hidden": true
+    },
+    "file/[Majesty RPG] Beyond the Lands v1.0.0-rc.1.zip": {
       "title": "\"\u00A7fBeyond the Lands\"",
       "description": "\"\u00A77Contains additional resources for the modpack\u00A7r                              \"",
       "default_position": "TOP",
@@ -72,8 +78,7 @@
       "mod_resources",
       "continuity:default",
       "minecraft:supporteatinganimation",
-      "mod/subtle_effects:resourcepacks/biome_color_water_particles",
-      "file/Dramatic Skys.zip"
+      "mod/subtle_effects:resourcepacks/biome_color_water_particles"
     ],
     "$$left_side_disabled": {
       "force_compatible": true,
