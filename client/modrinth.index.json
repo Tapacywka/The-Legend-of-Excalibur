@@ -246,18 +246,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/DWuwk8aA/versions/ilmJNHHz/optiboxes-1.2%2Bmc1.21.1-9c442bf.jar"
+        "https://cdn.modrinth.com/data/DWuwk8aA/versions/uognwnlb/optiboxes-1.3%2Bmc1.21.1-e025fa5.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 450861,
+      "fileSize": 452484,
       "hashes": {
-        "sha1": "7189a3e05aea6e9d63524255ec4cc52f9703ab3b",
-        "sha512": "dc11e14bc3535bdacf72d92b8e3096c5e59645e37aba2592200f8e11468319abf09ca12cc66a3c0e41bcbef1a95510fd95d635c422763f45f38f4b89e2633118"
+        "sha1": "30f8bdee94df492c91a9615c27e70d5d74f601d6",
+        "sha512": "1c84da210593eba4cc6ab4155b1b0ecbdac219198f3b7f3794e2ca0615f2e638d7ef7a817ee0a3f21d249c4a38cc58a3fee0f24cca48baaa7ffac62a21bc075d"
       },
-      "path": "mods/[FABRIC] OptiBoxes v1.2.0.jar"
+      "path": "mods/[FABRIC] OptiBoxes v1.3.0.jar"
     },
     {
       "downloads": [
@@ -351,18 +351,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/c3onkd5k/versions/XzTclZgt/AsyncParticles-3.3.1%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/c3onkd5k/versions/I98qnGgb/AsyncParticles-3.3.4%2B1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 1247712,
+      "fileSize": 1255909,
       "hashes": {
-        "sha1": "9a4c3cb23d347a67157cc4c4256ef65cd3a3c359",
-        "sha512": "11c932b552644b381fb7bd6ac1b64a332d1e7a48431e4d788e94ee2112fd6272c2849d16aa0da63a07ebcecfd5053cf8f5d40d93e0b8f383f8991c7567ede2be"
+        "sha1": "f18f402d1af6e3416df5b095e1c43868faa514df",
+        "sha512": "72bd687fd540a291408730d4589069e120d240d39832e0c4f0b86997e4eac4fb50b69b4b8e94331db105bad9a36c70af4ec9604c3e3fbbfee6b8ad4e58f01df6"
       },
-      "path": "mods/[NEOFORGE] Async Particles v3.3.1.jar"
+      "path": "mods/[NEOFORGE] Async Particles v3.3.4.jar"
     },
     {
       "downloads": [
@@ -816,18 +816,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/nCQRBEiR/versions/CiwoldjO/raised-neoforge-1.21.1-5.0.0.jar"
+        "https://cdn.modrinth.com/data/nCQRBEiR/versions/A9o5RReR/raised-neoforge-1.21.1-5.0.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 89186,
+      "fileSize": 89169,
       "hashes": {
-        "sha1": "37c3f4f66cb44c0b22dab78d8d5cb79807ad71d9",
-        "sha512": "d6bbeed939346ab051a811c9cdb616d685b656aa8376c49e5ea8001235ce53c812fbf055c37775eaf5e8928a457fa263b51751bb53165daf43efc4fa245393a7"
+        "sha1": "3a94ae071013af456619f0680755247b591fc94b",
+        "sha512": "3c5b97f901e6452909c485d680761292e43b1234ee22752d1c75756be8470ff8678b5273860805b823aec50ecb37f1684e04ebd11b6281055fab9e1db4c73ba8"
       },
-      "path": "mods/[NEOFORGE] Raised v5.0.0.jar"
+      "path": "mods/[NEOFORGE] Raised v5.0.1.jar"
     },
     {
       "downloads": [
@@ -996,33 +996,33 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/4q8UOK1d/versions/f9d2scQa/SubtleEffects-neoforge-1.21.1-1.11.0.jar"
+        "https://cdn.modrinth.com/data/4q8UOK1d/versions/1F9HgTm5/SubtleEffects-neoforge-1.21.1-1.12.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1806411,
+      "fileSize": 2897448,
       "hashes": {
-        "sha1": "a7b0ab4d57e311d15551c5c6b5263f01ace4031f",
-        "sha512": "55e8517e4498f78c15c410167aa8a37d388e382b031718f734f756f6d73eeb990be4e5e9495305ab225e51c4e8f54fb6af60df3c576062b01f5962ed9c3c4f05"
+        "sha1": "a693ce22f83efaf9b6daf8144bcb519a034b5b06",
+        "sha512": "0125c3990d4d396e072d620e51bc51e77ef85bf746a597a6c328bfb252fc156341dfc02ebe06dc67215e23f15fcad332b3d869371c70c579bb87247f016541aa"
       },
-      "path": "mods/[NEOFORGE] Subtle Effects v1.11.0.jar"
+      "path": "mods/[NEOFORGE] Subtle Effects v1.12.1.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/kYuIpRLv/versions/zsDnL76N/waveycapes-neoforge-1.6.1.1-mc1.21.jar"
+        "https://cdn.modrinth.com/data/kYuIpRLv/versions/dNN7McGp/waveycapes-neoforge-1.6.2-mc1.21.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 752096,
+      "fileSize": 751824,
       "hashes": {
-        "sha1": "707d8df289f401934b98788fad2ad34236bce61c",
-        "sha512": "e0a4128668f73b9496ae35d97d4ff44f62172079d91544b7b87f24ea53921f52721e89aaaf0757afee843009fded054f7ef8e1473efa3ea146b050a682f9b8cc"
+        "sha1": "8fae5274a568b5eb6213217d7762e782304b0bdb",
+        "sha512": "7efd1b9b0512d77a612eae65679ac847601c57ada9517bf5ea95da6f46047097de89b51bd18c6c45e3ff6802ea790116b28af9a9105cea04f947b07f5a1fa4b0"
       },
-      "path": "mods/[NEOFORGE] Wavey Capes v1.6.1.1.jar"
+      "path": "mods/[NEOFORGE] Wavey Capes v1.6.2.jar"
     },
     {
       "downloads": [
@@ -1071,18 +1071,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/hYykXjDp/versions/wFIc6GXf/fzzy_config-0.7.1%2B1.21%2Bneoforge.jar"
+        "https://cdn.modrinth.com/data/hYykXjDp/versions/ZWbJxzBB/fzzy_config-0.7.2%2B1.21%2Bneoforge.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2206689,
+      "fileSize": 2261392,
       "hashes": {
-        "sha1": "646cb73ff1b33aa4fd08c9fb4b7d92496f81f6f9",
-        "sha512": "8f911352f36bb7bbe293daa292fd44a3baf5510e02363a31c8614e32276d6075b082828c91bfca36f216955d343932da8c879da0184bc9c9b9f14b6f604abefd"
+        "sha1": "c6461086edbb70354ae91a4a559d3adc7188c787",
+        "sha512": "ae1d5c32323066cdf018cf714362181adcea37cdc0408914e1598963b0457ad3001f5da599006e1a434a838324859d622f5cc438998ec334cab173efd3b64f00"
       },
-      "path": "mods/[NEOFORGE] [LIBS] Fzzy Config v0.7.1.jar"
+      "path": "mods/[NEOFORGE] [LIBS] Fzzy Config v0.7.2.jar"
     },
     {
       "downloads": [
@@ -1176,18 +1176,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/QAGBst4M/versions/AcwAgaYA/PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar"
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/qSpAmWns/PuzzlesLib-v21.1.37-1.21.1-NeoForge.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1076281,
+      "fileSize": 1076349,
       "hashes": {
-        "sha1": "d290ef52d4977a6fd33d9ba1ec40e12914e59dce",
-        "sha512": "83a97eca3da73d713da8e07da62e8c73fd573d4b73d60fe2e714ef73dd8d00fc737b34c8c253d5e0997708349af33e73d64b71b26791a52a5d9700b2c87ab49d"
+        "sha1": "62ef02f0caadb05df884659a090a56c67063702a",
+        "sha512": "5320c766e154c629c98d86131c53e717fb32b27e5bde877067cafbeff337fabcd9d7a8d320a8f5a4fb8dfa210118a37fba2d094149deb07e08937111eef78036"
       },
-      "path": "mods/[NEOFORGE] [LIBS] Puzzles Lib v21.1.36.jar"
+      "path": "mods/[NEOFORGE] [LIBS] Puzzles Lib v21.1.37.jar"
     },
     {
       "downloads": [
@@ -1569,5 +1569,5 @@
   "game": "minecraft",
   "name": "Majesty RPG: Beyond the Lands",
   "summary": "Medieval Fantasy RPG modpack based on the Sinytra Connector.",
-  "versionId": "v1.0.0-rc.1"
+  "versionId": "v1.0.0-rc.2"
 }
