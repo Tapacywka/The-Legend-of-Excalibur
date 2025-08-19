@@ -1,0 +1,39 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**14**):
+  - [**FABRIC**] [**Better World Loading**](https://modrinth.com/mod/better-world-loading) `v1.1`.
+  - [**FABRIC**] [**Hold My Items**](https://modrinth.com/mod/hold-my-items) `v4.3`.
+  - [**FABRIC**] [**Main Menu Credits**](https://modrinth.com/mod/main-menu-credits) `v1.2.0`.
+  - [**FABRIC**] [**More Cursors**](https://modrinth.com/mod/morecursors) `v1.1.4`.
+  - [**NEOFORGE**] [**LIBS**] [**Konkrete**](https://modrinth.com/mod/konkrete) `v1.9.9`.
+  - [**NEOFORGE**] [**LIBS**] [**Melody**](https://modrinth.com/mod/melody) `v1.0.10`.
+  - [**NEOFORGE**] [**LIBS**] [**Midnight Lib**](https://modrinth.com/mod/midnightlib) `v1.6.9`.
+  - [**NEOFORGE**] [**Drippy Loading Screen**](https://modrinth.com/mod/drippy-loading-screen) `v3.0.12`.
+  - [**NEOFORGE**] [**Fancy Menu**](https://modrinth.com/mod/fancymenu) `v3.6.2`.
+  - [**NEOFORGE**] [**Modern World Creation**](https://modrinth.com/mod/modern-world-creation) `v2.0.1`.
+  - [**NEOFORGE**] [**Not Enough Animations**](https://modrinth.com/mod/not-enough-animations) `v1.10.1`.
+  - [**NEOFORGE**] [**Skin Layers 3D**](https://modrinth.com/mod/3dskinlayers) `v1.8.1`.
+  - [**NEOFORGE**] [**Spiffy HUD**](https://modrinth.com/mod/spiffyhud) `v3.0.0`.
+  - [**NEOFORGE**] [**Wavey Capes**](https://modrinth.com/mod/wavey-capes) `v1.6.1.1`.
+---
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.190`.
+- The following mods have been updated (**4**):
+  - [**NEOFORGE**] [**Async Particles**](https://modrinth.com/mod/asyncparticles) `v3.1.0-beta.4`.
+  - [**NEOFORGE**] [**Bad Optimizations**](https://modrinth.com/mod/badoptimizations) `v2.3.0`.
+  - [**NEOFORGE**] [**Immediately Fast**](https://modrinth.com/mod/immediatelyfast) `v1.6.6`.
+  - [**NEOFORGE**] [**Polytone**](https://modrinth.com/mod/polytone) `v3.5.2`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+- The following config files have been tweaked (**9**):
+  - config/defaultoptions/`options.txt`.
+  - configureddefaults/config/fancymenu/`customizablemenus.txt`.
+  - configureddefaults/config/fancymenu/`options.txt`.
+  - configureddefaults/config/`isxander-main-menu-credits.json`.
+  - configureddefaults/config/`midnightlib.json`.
+  - configureddefaults/config/`mod_menu-client.toml`.
+  - configureddefaults/config/`notenoughanimations.json`.
+  - configureddefaults/config/`skinlayers.json`.
+  - configureddefaults/config/`waveycapes.json`.
+---
+## <font color="#0099ff">Fixed</font>
+- Fixed bugs related to the [**Polytone**](https://modrinth.com/mod/polytone) mod *(see [#4](https://github.com/Tapacywka/Majesty-RPG-Beyond-the-Lands/issues/4))*.

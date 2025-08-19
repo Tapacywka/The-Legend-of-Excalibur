@@ -1,0 +1,19 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**1**):
+  - [**FABRIC**] [**OptiBoxes**](https://modrinth.com/mod/optiboxes) `v1.0`.
+---
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.186`.
+- The following mods have been updated (**2**):
+  - [**NEOFORGE**] [**Async Particles**](https://modrinth.com/mod/asyncparticles) `v3.1.0-beta.2`.
+  - [**NEOFORGE**] [**Polytone**](https://modrinth.com/mod/polytone) `v3.3.11`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+---
+## <font color="#ff0000">Removed</font>
+- The following mods have been removed (**2**):
+  - [**Fabric Sky Boxes**](https://modrinth.com/mod/nuit).
+  - [**Fabric Sky Boxes: Interop**](https://modrinth.com/mod/nuit-interop).
+---
+## <font color="#0099ff">Fixed</font>
+- Fixed bugs related to the [**FSB**](https://modrinth.com/mod/nuit) and [**FSB: Interop**](https://modrinth.com/mod/nuit-interop) mods *(see [#2](https://github.com/Tapacywka/Majesty-RPG-Beyond-the-Lands/issues/2))*.

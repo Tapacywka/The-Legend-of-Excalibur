@@ -1,0 +1,31 @@
+- The first public <font color="#FF496E">**alpha**</font> release is here! **٩(｡•́‿•̀｡)۶**
+- This release is based on:
+  - [**NeoForge Loader**](https://projects.neoforged.net/neoforged/neoforge) `v21.1.180`.
+  - [**Fabric Loader**](https://fabricmc.net/) `v0.16.0`.
+  - [**Fabric API**](https://modrinth.com/mod/fabric-api) `v0.115.6`.
+---
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**10**):
+  - [**CORE**] [**Connector**](https://modrinth.com/mod/connector) `v2.0.0-beta.8`.
+  - [**CORE**] [**Connector: Extras**](https://modrinth.com/mod/connector-extras) `v1.12.1`.
+  - [**CORE**] [**Forgified Fabric API**](https://modrinth.com/mod/forgified-fabric-api) `v2.1.1`.
+  - [**NEOFORGE**] [**Iris**](https://modrinth.com/mod/iris) `v1.8.12`.
+  - [**NEOFORGE**] [**Lithium**](https://modrinth.com/mod/lithium) `v0.15.0`.
+  - [**NEOFORGE**] [**Sodium**](https://modrinth.com/mod/sodium) `v0.6.13`.
+  - [**NEOFORGE**] [**Sodium: Extra**](https://modrinth.com/mod/sodium-extra) `v0.6.0`.
+  - [**NEOFORGE**] [**Sodium: Options**](https://modrinth.com/mod/reeses-sodium-options) `v1.8.3`.
+  - [**PATCHES**] [**Connector: Swimming Bug Fix**](https://github.com/unilock/sinytra1343?tab=readme-ov-file) `v2.0.0`.
+  - [**PORTS**] [**Better Modlist**](https://modrinth.com/mod/better-modlist) `v1.1.18`.
+- The following resourcepacks have been added (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+---
+## <font color="#ff9900">Changed</font>
+- The following config files have been tweaked (**8**):
+  - config/`connector.json`.
+  - config/`fml.toml`.
+  - config/`iris.properties`.
+  - config/`lithium.properties`.
+  - config/`mod_menu-client.toml`.
+  - config/`sodium-extra-options.json`.
+  - config/`sodium-options.json`.
+  - `options.txt`.

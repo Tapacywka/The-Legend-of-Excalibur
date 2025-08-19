@@ -1,3 +1,5 @@
+slimeTrails = false
+
 [dustClouds]
 playerRunning = false
 mobRunning = false

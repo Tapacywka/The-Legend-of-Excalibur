@@ -1,0 +1,32 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**7**):
+  - [**FABRIC**] [**Presence Footsteps**](https://modrinth.com/mod/presence-footsteps) `v1.11.0`.
+  - [**NEOFORGE**] [**LIBS**] [**Architectury API**](https://modrinth.com/mod/architectury-api) `v13.0.8`.
+  - [**NEOFORGE**] [**LIBS**] [**Yet Another Config Lib**](https://modrinth.com/mod/yacl) `v3.7.1`.
+  - [**NEOFORGE**] [**Dynamic Surroundings**](https://modrinth.com/mod/dynamicsurroundingsfabric) `v0.4.2`.
+  - [**NEOFORGE**] [**Particle Rain**](https://modrinth.com/mod/particle-rain) `v4.0.0-alpha.2`.
+  - [**NEOFORGE**] [**Smooth Skies**](https://modrinth.com/mod/smooth-skies) `v2.10.4`.
+  - [**NEOFORGE**] [**Sound Physics: Remastered**](https://modrinth.com/mod/sound-physics-remastered) `v1.4.12`.
+---
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.193`.
+- The following mods have been updated (**9**):
+  - [**NEOFORGE**] [**LIBS**] [**Balm**](https://modrinth.com/mod/balm) `v21.0.48`.
+  - [**NEOFORGE**] [**LIBS**] [**Midnight Lib**](https://modrinth.com/mod/midnightlib) `v1.7.5`.
+  - [**NEOFORGE**] [**Async Particles**](https://modrinth.com/mod/asyncparticles) `v3.3.0-alpha.2`.
+  - [**NEOFORGE**] [**Entity Culling**](https://modrinth.com/mod/entityculling) `v1.8.2`.
+  - [**NEOFORGE**] [**Fancy Menu**](https://modrinth.com/mod/fancymenu) `v3.6.4`.
+  - [**NEOFORGE**] [**Flerovium**](https://modrinth.com/mod/flerovium) `v1.0.7`.
+  - [**NEOFORGE**] [**Modern Fix**](https://modrinth.com/mod/modernfix) `v5.24.3`.
+  - [**NEOFORGE**] [**Polytone**](https://modrinth.com/mod/polytone) `v3.5.3`.
+  - [**NEOFORGE**] [**Skin Layers 3D**](https://modrinth.com/mod/3dskinlayers) `v1.8.2`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+- The following config files have been tweaked (**7**):
+  - config/defaultoptions/`keybindings.txt`.
+  - config/defaultoptions/`options.txt`.
+  - configureddefaults/config/dsurrond/`dsurrond.json`.
+  - configureddefaults/config/presencefootsteps/`userconfig.json`.
+  - configureddefaults/config/`isxander-main-menu-credits.json`.
+  - configureddefaults/config/`mod_menu-client.toml`.
+  - configureddefaults/config/`smoothskies.json`.

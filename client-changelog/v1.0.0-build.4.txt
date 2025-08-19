@@ -1,0 +1,21 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**2**):
+  - [**NEOFORGE**] [**Entity Model Features**](https://modrinth.com/mod/entity-model-features) `v2.4.1`.
+  - [**NEOFORGE**] [**Entity Texture Features**](https://modrinth.com/mod/entitytexturefeatures) `v6.2.9`.
+- The following resourcepacks have been added (**6**):
+  - [**Excalibur**](https://modrinth.com/resourcepack/excal) `v1.21.5`.
+  - [**Excalibur: Clarent Edition**](https://modrinth.com/resourcepack/clarent) `v215.5.b`.
+  - [**Fresh Animations**](https://modrinth.com/resourcepack/fresh-animations) `v1.9.2`.
+  - [**Fresh Excalibur**](https://modrinth.com/resourcepack/excalibur-fresh-animations) `v215.4.b`.
+  - [**Fresh Extensions**](https://modrinth.com/resourcepack/fresh-animations-extensions) `v1.4.0`.
+  - [**Fresh Moves**](https://modrinth.com/resourcepack/tras-fresh-player) `v3.1`.
+---
+## <font color="#ff9900">Changed</font>
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+- The following config files have been tweaked (**5**):
+  - config/defaultoptions/`options.txt`.
+  - configureddefaults/config/`entity_model_features.json`.
+  - configureddefaults/config/`entity_texture_features.json`.
+  - configureddefaults/config/`mod_menu-client.toml`.
+  - configureddefaults/config/`resourcepackoverrides.json`.

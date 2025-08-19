@@ -1,0 +1,46 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**26**):
+  - [**FABRIC**] [**Enhanced Block Entities**](https://modrinth.com/mod/ebe) `v0.10.2`.
+  - [**FABRIC**] [**Fast Quit**](https://modrinth.com/mod/fastquit) `v3.0.0`.
+  - [**FABRIC**] [**Faster Random**](https://modrinth.com/mod/faster-random) `v5.1.0`.
+  - [**FABRIC**] [**Language Reload**](https://modrinth.com/mod/language-reload) `v1.7.4`.
+  - [**FABRIC**] [**Thread Tweak**](https://modrinth.com/mod/threadtweak) `v0.1.5`.
+  - [**NEOFORGE**] [**LIBS**] [**Cloth Config API**](https://modrinth.com/mod/cloth-config) `v15.0.140`.
+  - [**NEOFORGE**] [**Alternate Current**](https://modrinth.com/mod/alternate-current) `v1.9.0`.
+  - [**NEOFORGE**] [**Async Particles**](https://modrinth.com/mod/asyncparticles) `v3.1.0-alpha.5`.
+  - [**NEOFORGE**] [**Bad Optimizations**](https://modrinth.com/mod/badoptimizations) `v2.2.2`.
+  - [**NEOFORGE**] [**Borderless Window**](https://modrinth.com/mod/borderless-window) `v1.7.3`.
+  - [**NEOFORGE**] [**c2me**](https://modrinth.com/mod/c2me-neoforge) `v0.3.0-alpha.0.70`.
+  - [**NEOFORGE**] [**Dynamic FPS**](https://modrinth.com/mod/dynamic-fps) `v3.9.5`.
+  - [**NEOFORGE**] [**Entity Culling**](https://modrinth.com/mod/entityculling) `v1.7.4`.
+  - [**NEOFORGE**] [**Ferrite Core**](https://modrinth.com/mod/ferrite-core) `v7.0.2`.
+  - [**NEOFORGE**] [**Flerovium**](https://modrinth.com/mod/flerovium) `v1.0.6`.
+  - [**NEOFORGE**] [**Immediately Fast**](https://modrinth.com/mod/immediatelyfast) `v1.6.5`.
+  - [**NEOFORGE**] [**Modern Fix**](https://modrinth.com/mod/modernfix) `v5.23.1`.
+  - [**NEOFORGE**] [**More Culling**](https://modrinth.com/mod/moreculling) `v1.0.6`.
+  - [**NEOFORGE**] [**Noisium**](https://modrinth.com/mod/noisium) `v2.3.0`.
+  - [**NEOFORGE**] [**Remove Reloading Screen**](https://modrinth.com/mod/rrls) `v5.0.10`.
+  - [**NEOFORGE**] [**Server Core**](https://modrinth.com/mod/servercore) `v1.5.10`.
+  - [**PATCHES**] [**Bad Horse Fix**](https://modrinth.com/mod/bad-horse-fix) `v3.0.0`.
+  - [**PATCHES**] [**Model Gap Fix**](https://modrinth.com/mod/modelfix) `v1.10`.
+  - [**PORTS**] [**Krypton**](https://modrinth.com/mod/krypton-fnp) `v0.2.17-pre.3`.
+  - [**PORTS**] [**Mixin Trace: Reforged**](https://modrinth.com/mod/mixintrace-reforged) `v1.0.0`.
+  - [**PORTS**] [**Scalable Lux**](https://modrinth.com/mod/scalablelux) `v0.1.0-beta.2`.
+---
+## <font color="#ff9900">Changed</font>
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+- The following config files have been tweaked (**13**):
+  - configureddefaults/config/`badoptimizations.txt`.
+  - configureddefaults/config/`c2me.toml`.
+  - configureddefaults/config/`dynamic_fps.json`.
+  - configureddefaults/config/`entityculling.json`.
+  - configureddefaults/config/`fastquit.toml`.
+  - configureddefaults/config/`ferritecore-mixin.toml`.
+  - configureddefaults/config/`immediatelyfast.json`.
+  - configureddefaults/config/`mod_menu-client.toml`.
+  - configureddefaults/config/`modernfix-mixins.properties`.
+  - configureddefaults/config/`moreculling.toml`.
+  - configureddefaults/config/`rrls.toml`.
+  - configureddefaults/config/`sodium-options.json`.
+  - configureddefaults/config/`threadtweak.json`.

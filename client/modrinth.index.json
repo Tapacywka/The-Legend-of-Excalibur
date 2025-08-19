@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "minecraft": "1.21.1",
-    "neoforge": "21.1.197"
+    "neoforge": "21.1.201"
   },
   "files": [
     {
@@ -186,6 +186,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Sa21v4ED/versions/mPjrtt9N/kium-1.0.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 201015,
+      "hashes": {
+        "sha1": "a41de51aaaae4abfba6a2e1d7a5ded6dd8af5f5a",
+        "sha512": "65a8f1f20e3abfabd47fc25ec4223bfaf04a130b222f7bcbdf4f16b83953db8a707f2fb4fc9e99aee60658ddf379300c88dba00eda87220a9a288d6a37d04580"
+      },
+      "path": "mods/[FABRIC] Kium Optimizer v1.0.2.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/yBW8D80W/versions/f44TfMoS/lambdynamiclights-4.1.5%2B1.21.1.jar"
       ],
       "env": {
@@ -246,18 +261,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/DWuwk8aA/versions/uognwnlb/optiboxes-1.3%2Bmc1.21.1-e025fa5.jar"
+        "https://cdn.modrinth.com/data/DWuwk8aA/versions/ipMSJF5L/optiboxes-1.4%2Bmc1.21.1-9eba186.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 452484,
+      "fileSize": 452399,
       "hashes": {
-        "sha1": "30f8bdee94df492c91a9615c27e70d5d74f601d6",
-        "sha512": "1c84da210593eba4cc6ab4155b1b0ecbdac219198f3b7f3794e2ca0615f2e638d7ef7a817ee0a3f21d249c4a38cc58a3fee0f24cca48baaa7ffac62a21bc075d"
+        "sha1": "f45cd6c44b50f752c113348c12aa9e42405d6c63",
+        "sha512": "0fe37a7bde5aa02708a0e57955b09d27876eaec8ca0ca6cab84fb6496eaf3e51f0a11ebae128e7df819ef823cb114e3840340917129164e25acddda9e1cf623b"
       },
-      "path": "mods/[FABRIC] OptiBoxes v1.3.0.jar"
+      "path": "mods/[FABRIC] OptiBoxes v1.4.0.jar"
     },
     {
       "downloads": [
@@ -321,18 +336,33 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-1.13.4%2Bkotlin.2.2.0.jar"
+        "https://cdn.modrinth.com/data/trr0scVt/versions/on1U2T4V/SmoothScrollingRefurbished%2B1.21-1.1.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 10570,
+      "hashes": {
+        "sha1": "357bc636280fde788787ac58030d45295b8ef3ba",
+        "sha512": "0784b31e8a37ac0b5fb6379b003c456b98da8a0945e78ab3bbc75d46b72d214006f53e400a634ab18424f37e81d01fcefd391609f5c323c6f8a78ed0b474f86c"
+      },
+      "path": "mods/[FABRIC] Smooth Scrolling Refurbished v1.1.4.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 7387359,
+      "fileSize": 7422276,
       "hashes": {
-        "sha1": "2120226cd81107dd52eaf5a9a4607035ff26100c",
-        "sha512": "26b6b4499bf872ebc2c666227b2ed721ce0e33a8e8b19632971250e5cb6e0b9f35aef15a07ce53cf4755285d9d38c4e05a5f1357bad544d44b9e30b87c0a0055"
+        "sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
+        "sha512": "bae89ea5e71895f5a760def61359bb90a715832d998aec8141902410c503533fc42631e033109fcc9cdb3f869c58da9b89e9efc3b3ef112cbafe27059de9239e"
       },
-      "path": "mods/[FABRIC] [LIBS] Fabric Language Kotlin v1.13.4.jar"
+      "path": "mods/[FABRIC] [LIBS] Fabric Language Kotlin v1.13.5.jar"
     },
     {
       "downloads": [
@@ -351,18 +381,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/c3onkd5k/versions/I98qnGgb/AsyncParticles-3.3.4%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/c3onkd5k/versions/t30k6bNj/AsyncParticles-3.3.5%2B1.21.1.jar"
       ],
       "env": {
         "client": "required",
-        "server": "unsupported"
+        "server": "required"
       },
-      "fileSize": 1255909,
+      "fileSize": 1259133,
       "hashes": {
-        "sha1": "f18f402d1af6e3416df5b095e1c43868faa514df",
-        "sha512": "72bd687fd540a291408730d4589069e120d240d39832e0c4f0b86997e4eac4fb50b69b4b8e94331db105bad9a36c70af4ec9604c3e3fbbfee6b8ad4e58f01df6"
+        "sha1": "4b6f92496515bc0c41bb6fc0f9c4629da1ed38a9",
+        "sha512": "43d8696196f83f47e1f4aa9d8ff1aef622d356622a4d8f044155cda2931f8a585b917a57d49e44df4b254cfd08de5e9e6ba6777583463c7d9d7785a3508fa2ac"
       },
-      "path": "mods/[NEOFORGE] Async Particles v3.3.4.jar"
+      "path": "mods/[NEOFORGE] Async Particles v3.3.5.jar"
     },
     {
       "downloads": [
@@ -621,18 +651,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/9wv7LuMc/versions/SDyGyZUX/ImmersiveUI-NEOFORGE-0.3.0.jar"
+        "https://cdn.modrinth.com/data/9wv7LuMc/versions/wtmSnIFo/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 220979,
+      "fileSize": 217081,
       "hashes": {
-        "sha1": "9f445accda961f140b965ede6b9cb63b996538f3",
-        "sha512": "aa38510467f6d2856f79d9d5f0bd7e1db3d943b6db86bdbdfb5cb0fddf1da530d0368b02ef0360a059229b45b3c9905cdadaee723db02e5623e182bed37e0a89"
+        "sha1": "5e9dda03c6142400b95dc3114675e07c943d554d",
+        "sha512": "bff82f778fc42a88a4b5d98759498ad85f086b23527e51f5c4c717a2fe9d1bcfa583f38ae12ff2d4403580c734cdfcef2daedbe19cb470bdea203f0595a687a7"
       },
-      "path": "mods/[NEOFORGE] Immersive UI v0.3.0.jar"
+      "path": "mods/[NEOFORGE] Immersive UI v0.3.3.jar"
     },
     {
       "downloads": [
@@ -726,6 +756,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/1s5x833P/versions/RNPO2oLr/neruina-3.0.2%2B1.21.1-neoforge.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 835519,
+      "hashes": {
+        "sha1": "63af8b7d1ca8f15941f9e0ec7d838e2fe1d4f9da",
+        "sha512": "1b502971505c698bd79ed342b5a8d9723c8dfeee736fc6b3071b3a91784b0b0cea56bf822833c742c8049124b907f94b6ff3e2f3994717934fe9943a230829a4"
+      },
+      "path": "mods/[NEOFORGE] Neruina v3.0.2.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/qQyHxfxd/versions/ZV8eL55E/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
       ],
       "env": {
@@ -801,18 +846,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/B0109WgG/polytone-1.21-3.5.4.jar"
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/7XQzQ6wF/polytone-1.21-3.5.5.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 814678,
+      "fileSize": 815794,
       "hashes": {
-        "sha1": "170d96817b8107c038e68efd810752739253b6d0",
-        "sha512": "09f9dae30ff57371c35248f7bfb85ac9f4606e81d36d85288451e3d6965f1457e2f91e1ea595177dd2669fc13919c0ba62c1d22f77f75647e6ebd0018616037f"
+        "sha1": "d580a8ce4c9938b3f89b8f0cafe89555b381d3d6",
+        "sha512": "7e1e03d23e1a0aeb04c4c9539d089c72b971d31be16a7b3409b6aecc68de7d2d94586621c395dffcc07ec30aba1fe71fdd77c08a43473e56068ad8c9adae0ec0"
       },
-      "path": "mods/[NEOFORGE] Polytone v3.5.4.jar"
+      "path": "mods/[NEOFORGE] Polytone v3.5.5.jar"
     },
     {
       "downloads": [
@@ -861,18 +906,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/zV5r3pPn/versions/8hVaBkzL/skinlayers3d-neoforge-1.8.2-mc1.21.jar"
+        "https://cdn.modrinth.com/data/zV5r3pPn/versions/BeFsM0V8/skinlayers3d-neoforge-1.9.0-mc1.21.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 873119,
+      "fileSize": 876523,
       "hashes": {
-        "sha1": "4a9597806d9f2ab83f6b78d87da71f5ee7db2094",
-        "sha512": "b93f5fc61cd7d162465483641a58fc77d5615b409f78ff949eeb375795c4e57d7db5af50a89af7ee2e5f885a1c6b5146e003b898d2374e82156a0b3aae737c5c"
+        "sha1": "ec046d736a67626d774cae3cf6d37133eaccfbd4",
+        "sha512": "804e24078fd61220e4dddf5f975f9f47b2b99a7ce1149083f83a045f6c63bb9f88390e57a234f4bb8d3c2b38be141ab1004b17cd9005a39a155522ee0ced4906"
       },
-      "path": "mods/[NEOFORGE] Skin Layers 3D v1.8.2.jar"
+      "path": "mods/[NEOFORGE] Skin Layers 3D v1.9.0.jar"
     },
     {
       "downloads": [
@@ -1071,6 +1116,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/lGffrQ3O/versions/vjQ7GkhW/configurable-3.2.2%2B1.21.1-neoforge.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 126962,
+      "hashes": {
+        "sha1": "1ec08f1423ea49db269d216931af179049c00710",
+        "sha512": "736747b3b4dfa5d70587e307d243b3768d0edd6ca02bf32964fc957df108b3df8c5bb3d47e54560cb31dae164df7127e0a328d88cce4816e229023e9f08d6908"
+      },
+      "path": "mods/[NEOFORGE] [LIBS] Configurable v3.2.2.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/hYykXjDp/versions/ZWbJxzBB/fzzy_config-0.7.2%2B1.21%2Bneoforge.jar"
       ],
       "env": {
@@ -1161,33 +1221,33 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/RH2KUdKJ/versions/b1bY4oKd/OctoLib-NEOFORGE-0.5.0.1.jar"
+        "https://cdn.modrinth.com/data/RH2KUdKJ/versions/XMZB2Xe6/OctoLib-NEOFORGE-0.6.0.3%2B1.21.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 423212,
+      "fileSize": 507454,
       "hashes": {
-        "sha1": "54fa72c19b1a162ef4f69561b5529d6e7abbcb78",
-        "sha512": "65abdc523833288dc3b14429befe0c68a188572d01049671aa9d186757bce447015852b4898ddd656959d91d903d508767ec07bab070ba2767bb6a66b058c756"
+        "sha1": "9ec459d091b0c7711310fce92a438652077c1e5c",
+        "sha512": "cb78de64b211b8a539f779e27598b24c595ebc482dd7b4695543af0219ea78930f07646de06f701eb300e82f5b0a22fcbd78c64124177ef850ab214ca9cbbd0c"
       },
-      "path": "mods/[NEOFORGE] [LIBS] Octo Lib v0.5.0.1.jar"
+      "path": "mods/[NEOFORGE] [LIBS] Octo Lib v0.6.0.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/QAGBst4M/versions/qSpAmWns/PuzzlesLib-v21.1.37-1.21.1-NeoForge.jar"
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/wzY6RY3b/PuzzlesLib-v21.1.38-1.21.1-NeoForge.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1076349,
+      "fileSize": 1080651,
       "hashes": {
-        "sha1": "62ef02f0caadb05df884659a090a56c67063702a",
-        "sha512": "5320c766e154c629c98d86131c53e717fb32b27e5bde877067cafbeff337fabcd9d7a8d320a8f5a4fb8dfa210118a37fba2d094149deb07e08937111eef78036"
+        "sha1": "76b7d441697514c490b5665e7d1b36537dc7ccc7",
+        "sha512": "37fef6e0895122df2b842a98c043415bbcd9c2f17f04e5d734f2c390ca0c10bf0b9460272fc7bafbd36de36d06887b632e09e12d6b54c37b77c0b1e6bfd8f8cc"
       },
-      "path": "mods/[NEOFORGE] [LIBS] Puzzles Lib v21.1.37.jar"
+      "path": "mods/[NEOFORGE] [LIBS] Puzzles Lib v21.1.38.jar"
     },
     {
       "downloads": [
@@ -1356,18 +1416,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/JkxWVYwU/versions/3hHcy4hV/krypton-neoforge-1.21.1-0.2.19.jar"
+        "https://cdn.modrinth.com/data/JkxWVYwU/versions/ppmRjkMj/krypton-neoforge-1.21.1-0.2.20.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1041833,
+      "fileSize": 1038899,
       "hashes": {
-        "sha1": "9869e1337b455724ae28847c206cc02c8486581d",
-        "sha512": "b3158f7260afa2fa701393901dc8741c4397dc8a058d5b450010580902fd4fe20cfcf7b0ec9220c66a0a03118d4952429465f580fad6039d349d33b2e6d989ec"
+        "sha1": "e589a5dce804ee63ce6f1888f10208e549135fea",
+        "sha512": "45377dce9a48f09f42f676510e6a41a49828d91238961289ce1c9a55c5501aba85c1a0421112213597858c4a5e45bd4f58cb534c86d209dcc6020809b70915e8"
       },
-      "path": "mods/[PORTS] Krypton v0.2.19.jar"
+      "path": "mods/[PORTS] Krypton v0.2.20.jar"
     },
     {
       "downloads": [
@@ -1548,26 +1608,11 @@
         "sha512": "3ce31ae8c7242ae335de70df10f8147420a64ca372585c195d0b300f9e8c5b923f1e5bf2b8dddfcc741a0ce8e0235e079540101632837624787da84e9b52d72f"
       },
       "path": "shaderpacks/BSL.zip"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/izsIPI7a/versions/bxUuQgbG/MakeUp-UltraFast-9.3a.zip"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 379487,
-      "hashes": {
-        "sha1": "e82a67e5b979753757711de6e8919bef315ccc4b",
-        "sha512": "5d7c33844fa90cfa6f812c4eb353d331f0f419c8620f066a9786b911faecd46b19b93c0833828d78c1ca7cb81602fa617800ce9a0cd6f3aa0f65f3ba6e7907b2"
-      },
-      "path": "shaderpacks/MUUF.zip"
     }
   ],
   "formatVersion": 1,
   "game": "minecraft",
   "name": "Majesty RPG: Beyond the Lands",
   "summary": "Medieval Fantasy RPG modpack based on the Sinytra Connector.",
-  "versionId": "v1.0.0-rc.2"
+  "versionId": "v1.0.0-release"
 }

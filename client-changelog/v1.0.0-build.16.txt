@@ -1,0 +1,18 @@
+## <font color="#00ff00">Added</font>
+- The following resourcepacks have been added (**1**):
+  - [**Dramatic Skys**](https://modrinth.com/resourcepack/dramatic-skys) `v1.5.3.35`.
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.197`.
+- The following mods have been updated (**4**):
+  - [**FABRIC**] [**Lamb Dynamic Lights**](https://modrinth.com/mod/lambdynamiclights) `v4.1.5`.
+  - [**NEOFORGE**] [**Async Particles**](https://modrinth.com/mod/asyncparticles) `v3.3.0-beta.3`.
+  - [**NEOFORGE**] [**Flerovium**](https://modrinth.com/mod/flerovium) `v1.0.10`.
+  - [**NEOFORGE**] [**Fog**](https://modrinth.com/mod/fog) `v1.9.3`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+- The following config files have been tweaked (**5**):
+  - config/defaultoptions/`options.txt`.
+  - configureddefaults/config/`iris.properties`.
+  - configureddefaults/config/`isxander-main-menu-credits.json`.
+  - configureddefaults/config/`mod_menu-client.toml`.
+  - configureddefaults/config/`resourcepackoverrides.json`.

@@ -1,0 +1,13 @@
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.182`.
+- The following mods have been updated (**5**):
+  - [**NEOFORGE**] [**Bad Optimizations**](https://modrinth.com/mod/badoptimizations) `v2.2.3`.
+  - [**NEOFORGE**] [**c2me**](https://modrinth.com/mod/c2me-neoforge) `v0.3.0-alpha.0.71`.
+  - [**NEOFORGE**] [**Entity Culling**](https://modrinth.com/mod/entityculling) `v1.8.0`.
+  - [**PORTS**] [**Better Modlist**](https://modrinth.com/mod/better-modlist) `v1.1.19`.
+  - [**PORTS**] [**Krypton**](https://modrinth.com/mod/krypton-fnp) `v0.2.18`.
+- The following resourcepacks have been updated (**2**):
+  - [**Excalibur**](https://modrinth.com/resourcepack/excal) `v1.21.6`.
+  - [**Excalibur: Clarent Edition**](https://modrinth.com/resourcepack/clarent) `v216.1.b`.
+- The following config files have been tweaked (**1**):
+  - configureddefaults/config/`mod_menu-client.toml`.

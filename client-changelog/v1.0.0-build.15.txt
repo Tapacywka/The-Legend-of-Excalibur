@@ -1,0 +1,17 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**2**):
+  - [**FABRIC**] [**Particle Effects**](https://modrinth.com/mod/particle-effects) `v1.0.5`.
+  - [**FABRIC**] [**Particle Tweaks**](https://modrinth.com/mod/particle-tweaks) `v2.0`.
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.194`.
+- The following mods have been updated (**5**):
+  - [**NEOFORGE**] [**Particle Rain**](https://modrinth.com/mod/particle-rain) `v4.0.0-alpha.3`.
+  - [**NEOFORGE**] [**Polytone**](https://modrinth.com/mod/polytone) `v3.5.4`.
+  - [**NEOFORGE**] [**Sound Physics: Remastered**](https://modrinth.com/mod/sound-physics-remastered) `v1.4.15`.
+  - [**NEOFORGE**] [**Sounds**](https://modrinth.com/mod/sound) `v2.4.13.1`.
+  - [**TECHNICAL**] [**Default Options**](https://modrinth.com/mod/default-options) `v21.1.4`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+- The following config files have been tweaked (**2**):
+  - configureddefaults/config/`isxander-main-menu-credits.json`.
+  - configureddefaults/config/`resourcepackoverrides.json`.

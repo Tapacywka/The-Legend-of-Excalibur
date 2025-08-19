@@ -1,6 +1,11 @@
 {
   "version": 1,
   "overrides": {
+    "kium": {
+      "depends": {
+        "minecraft": "*"
+      }
+    },
     "lambdynlights": {
       "recommends": {
         "modmenu": "*"

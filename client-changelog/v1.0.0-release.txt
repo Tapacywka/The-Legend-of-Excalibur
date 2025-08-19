@@ -1,0 +1,145 @@
+- Version `v1.0.0` <font color="#1BD96A">**release**</font> is finally here! **٩(｡•́‿•̀｡)۶**
+- This release is based on:
+  - [**NeoForge Loader**](https://projects.neoforged.net/neoforged/neoforge) `v21.1.201`.
+  - [**Fabric Loader**](https://fabricmc.net/) `v0.16.0`.
+  - [**Fabric API**](https://modrinth.com/mod/fabric-api) `v0.115.6`.
+  ---
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**102**):
+  - [**CORE**] **Connector**.
+  - [**CORE**] **Connector: Extras**.
+  - [**CORE**] **Forgified Fabric API**.
+  - [**FABRIC**] [**LIBS**] **Fabric Language Kotlin**.
+  - [**FABRIC**] **Animatica**.
+  - [**FABRIC**] **Better World Loading**.
+  - [**FABRIC**] **CIT Resewn**.
+  - [**FABRIC**] **Eating Animation**.
+  - [**FABRIC**] **Enhanced Block Entities**.
+  - [**FABRIC**] **Fast Quit**.
+  - [**FABRIC**] **Faster Random**.
+  - [**FABRIC**] **Hold My Items**.
+  - [**FABRIC**] **Immersive Hotbar**.
+  - [**FABRIC**] **Kium Optimizer**.
+  - [**FABRIC**] **Lamb Dynamic Lights**.
+  - [**FABRIC**] **Language Reload**.
+  - [**FABRIC**] **Main Menu Credits**.
+  - [**FABRIC**] **More Cursors**.
+  - [**FABRIC**] **OptiBoxes**.
+  - [**FABRIC**] **OptiGUI**.
+  - [**FABRIC**] **Particle Effects**.
+  - [**FABRIC**] **Particle Tweaks**.
+  - [**FABRIC**] **Presence Footsteps**.
+  - [**FABRIC**] **Smooth Scrolling Refurbished**.
+  - [**NEOFORGE**] [**LIBS**] **Architectury API**.
+  - [**NEOFORGE**] [**LIBS**] **Balm**.
+  - [**NEOFORGE**] [**LIBS**] **Cloth Config API**.
+  - [**NEOFORGE**] [**LIBS**] **Configurable**.
+  - [**NEOFORGE**] [**LIBS**] **Fzzy Config**.
+  - [**NEOFORGE**] [**LIBS**] **Konkrete**.
+  - [**NEOFORGE**] [**LIBS**] **Kotlin for Forge**.
+  - [**NEOFORGE**] [**LIBS**] **Melody**.
+  - [**NEOFORGE**] [**LIBS**] **Midnight Lib**.
+  - [**NEOFORGE**] [**LIBS**] **MRU**.
+  - [**NEOFORGE**] [**LIBS**] **Octo Lib**.
+  - [**NEOFORGE**] [**LIBS**] **Puzzles Lib**.
+  - [**NEOFORGE**] [**LIBS**] **Yet Another Config Lib**.
+  - [**NEOFORGE**] **Alternate Current**.
+  - [**NEOFORGE**] **Async Particles**.
+  - [**NEOFORGE**] **Bad Optimizations**.
+  - [**NEOFORGE**] **Borderless Window**.
+  - [**NEOFORGE**] **c2me**.
+  - [**NEOFORGE**] **Camera Overhaul**.
+  - [**NEOFORGE**] **Chunks Fade In**.
+  - [**NEOFORGE**] **Continuity**.
+  - [**NEOFORGE**] **Drippy Loading Screen**.
+  - [**NEOFORGE**] **Dynamic FPS**.
+  - [**NEOFORGE**] **Dynamic Surroundings**.
+  - [**NEOFORGE**] **Entity Culling**.
+  - [**NEOFORGE**] **Entity Model Features**.
+  - [**NEOFORGE**] **Entity Texture Features**.
+  - [**NEOFORGE**] **Fancy Block Particles**.
+  - [**NEOFORGE**] **Fancy Menu**.
+  - [**NEOFORGE**] **Ferrite Core**.
+  - [**NEOFORGE**] **Flerovium**.
+  - [**NEOFORGE**] **Gnetum**.
+  - [**NEOFORGE**] **Immediately Fast**.
+  - [**NEOFORGE**] **Immersive UI**.
+  - [**NEOFORGE**] **Iris**.
+  - [**NEOFORGE**] **Leave My Bars Alone**.
+  - [**NEOFORGE**] **Lithium**.
+  - [**NEOFORGE**] **Modern Fix**.
+  - [**NEOFORGE**] **Modern World Creation**.
+  - [**NEOFORGE**] **More Culling**.
+  - [**NEOFORGE**] **Neruina**.
+  - [**NEOFORGE**] **No Chat Reports**.
+  - [**NEOFORGE**] **Noisium**.
+  - [**NEOFORGE**] **Not Enough Animations**.
+  - [**NEOFORGE**] **Overflowing Bars**.
+  - [**NEOFORGE**] **Particle Rain**.
+  - [**NEOFORGE**] **Polytone**.
+  - [**NEOFORGE**] **Raised**.
+  - [**NEOFORGE**] **Remove Reloading Screen**.
+  - [**NEOFORGE**] **Server Core**.
+  - [**NEOFORGE**] **Skin Layers 3D**.
+  - [**NEOFORGE**] **Sodium**.
+  - [**NEOFORGE**] **Sodium: Extra**.
+  - [**NEOFORGE**] **Sodium: Options**.
+  - [**NEOFORGE**] **Sodium: Shadowy Path Blocks**.
+  - [**NEOFORGE**] **Sound Physics: Remastered**.
+  - [**NEOFORGE**] **Sounds**.
+  - [**NEOFORGE**] **Sounds: Addons**.
+  - [**NEOFORGE**] **Spiffy HUD**.
+  - [**NEOFORGE**] **Subtle Effects**.
+  - [**NEOFORGE**] **Wavey Capes**.
+  - [**PATCHES**] **Bad Horse Fix**.
+  - [**PATCHES**] **CIT Resewn: NeoPatcher**.
+  - [**PATCHES**] **Connector: Swimming Bug Fix**.
+  - [**PATCHES**] **Iris: Block Compat**.
+  - [**PATCHES**] **Model Gap Fix**.
+  - [**PORTS**] **Better Modlist**.
+  - [**PORTS**] **Better Tooltips**.
+  - [**PORTS**] **Enhanced Tooltips**.
+  - [**PORTS**] **Explosive Enhancement Reforged**.
+  - [**PORTS**] **Falling Leaves Reforged**.
+  - [**PORTS**] **Krypton**.
+  - [**PORTS**] **Mixin Trace Reforged**.
+  - [**PORTS**] **Scalable Lux**.
+  - [**PORTS**] **Smooth Swapping**.
+  - [**TECHNICAL**] **Configured Defaults**.
+  - [**TECHNICAL**] **Default Options**.
+  - [**TECHNICAL**] **Resource Pack Overrides**.
+- The following resourcepacks have been added (**7**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+  - **Dramatic Skys**.
+  - **Excalibur**.
+  - **Excalibur: Clarent Edition**.
+  - **Excalibur: Fresh Edition**.
+  - **Fresh Animations**.
+  - **Fresh Moves**.
+- The following shaderpacks have been added (**1**):
+  - **BSL**.
+- The following compatibility patches have been added (**4**):
+  - [**Excalibur**] **Better ModList Compat**.
+  - [**Excalibur**] **Modern World Creation Compat**.
+  - [**Excalibur**] **Overflowing Bars Compat**.
+  - [**Excalibur**] **Raised Compat**.
+---
+## <font color="#ff9900">Changed</font>
+- Added `license.txt` to the [**Majesty RPG**] **Beyond the Lands**.
+- Added `README.txt` to the [**Majesty RPG**] **Beyond the Lands**.
+---
+## <font color="#ff0000">Removed</font>
+- The following mods have been removed (**5**):
+  - **Fabric Sky Boxes**.
+  - **Fabric Sky Boxes: Interop**.
+  - **Fog**.
+  - **Smooth Skies**.
+  - **Thread Tweak**.
+- The following resourcepacks have been removed (**1**):
+  - **Fresh Extensions**.
+- The following shaderpacks have been removed (**1**):
+  - **MUUF**.
+---
+## <font color="#0099ff">Fixed</font>
+- All GitHub issues have been resolved.
+  - *(see [**#1**](https://github.com/Tapacywka/Majesty-RPG/issues/1), [**#2**](https://github.com/Tapacywka/Majesty-RPG/issues/2), [**#3**](https://github.com/Tapacywka/Majesty-RPG/issues/3), [**#4**](https://github.com/Tapacywka/Majesty-RPG/issues/4), [**#5**](https://github.com/Tapacywka/Majesty-RPG/issues/5) for details)*

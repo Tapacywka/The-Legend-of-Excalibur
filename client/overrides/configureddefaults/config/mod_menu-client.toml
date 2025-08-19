@@ -2,6 +2,7 @@ mod_badges = [
 	"architectury=library",
 	"balm=library",
 	"cloth_config=library",
+	"configurable=library",
 	"connector=!library",
 	"connectorextras=!library",
 	"continuity=!sinytra_fabric, sinytra_neoforge",

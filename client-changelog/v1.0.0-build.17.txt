@@ -1,0 +1,33 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**1**):
+  - [**NEOFORGE**] [**No Chat Reports**](https://modrinth.com/mod/no-chat-reports) `v2.9.1`.
+## <font color="#ff9900">Changed</font>
+- The following mods have been updated (**1**):
+  - [**NEOFORGE**] [**Async Particles**](https://modrinth.com/mod/asyncparticles) `v3.3.1`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+    - *(The `license.txt` has been changed to **MIT**)*
+- The following config files have been tweaked (**9**):
+  - configureddefaults/config/fancymenu/`options.txt`.
+  - configureddefaults/config/NoChatReports/`NCR-Client.json`.
+  - configureddefaults/config/NoChatReports/`NCR-Common.json`.
+  - configureddefaults/config/NoChatReports/`NCR-Encryption.json`.
+  - configureddefaults/config/`cameraoverhaul.toml`.
+  - configureddefaults/config/`entityculling.json`.
+  - configureddefaults/config/`isxander-main-menu-credits.json`.
+  - configureddefaults/config/`resourcepackoverrides.json`.
+  - configureddefaults/shaderpacks/`BSL.zip.txt`.
+- The following texture files have been tweaked (**2**):
+  - config/fancymenu/assets/`favicon-16x16.png`.
+  - config/fancymenu/assets/`favicon-32x32.png`.
+- The following config files have been removed (**4**):
+  - configureddefaults/config/fog/`config.json`.
+  - configureddefaults/config/`c2me.toml`.
+  - configureddefaults/config/`smoothskies.json`.
+  - configureddefaults/config/`threadtweak.json`.
+---
+## <font color="#ff0000">Removed</font>
+- The following mods have been removed (**3**):
+  - [**Fog**](https://modrinth.com/mod/fog).
+  - [**Smooth Skies**](https://modrinth.com/mod/smooth-skies).
+  - [**Thread Tweak**](https://modrinth.com/mod/threadtweak).

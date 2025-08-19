@@ -1,0 +1,27 @@
+## <font color="#00ff00">Added</font>
+- The following shaderpacks have been added (**1**):
+  - [**BSL**](https://modrinth.com/shader/bsl-shaders) `v10.0`.
+- Added `License.txt` to the [**Majesty RPG**] **Beyond the Lands**.
+---
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.184`.
+- The following mods have been updated (**3**):
+  - [**FABRIC**] [**LIBS**] [**Fabric Language Kotlin**](https://modrinth.com/mod/fabric-language-kotlin) `v1.13.4`.
+  - [**NEOFORGE**] [**Async Particles**](https://modrinth.com/mod/asyncparticles) `v3.1.0-beta.1`.
+  - [**PORTS**] [**Krypton**](https://modrinth.com/mod/krypton-fnp) `v0.2.19`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+- The following config files have been tweaked (**5**):
+  - config/defaultoptions/`options.txt`.
+  - configureddefaults/config/`fsb-interop.json`.
+  - configureddefaults/config/`iris.properties`.
+  - configureddefaults/config/`resourcepackoverrides.json`.
+  - configureddefaults/shaderpacks/`BSL.zip.txt`.
+- [**Fresh Excalibur**](https://modrinth.com/resourcepack/excalibur-fresh-animations) has been renamed to **Excalibur: Fresh Edition**.
+---
+## <font color="#ff0000">Removed</font>
+- The following resourcepacks have been removed (**1**):
+  - [**Fresh Extensions**](https://modrinth.com/resourcepack/fresh-animations-extensions) *(see [#1](https://github.com/Tapacywka/Majesty-RPG-Beyond-the-Lands/issues/1))*.
+---
+## <font color="#0099ff">Fixed</font>
+- Fixed a bug that caused the sky to display two suns or moons at the same time if shaders were enabled *(see [#2](https://github.com/Tapacywka/Majesty-RPG-Beyond-the-Lands/issues/2))*.

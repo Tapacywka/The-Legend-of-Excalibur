@@ -1,0 +1,40 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**17**):
+  - [**FABRIC**] [**Eating Animation**](https://modrinth.com/mod/eating-animation) `v1.9.72`.
+  - [**FABRIC**] [**Immersive Hotbar**](https://modrinth.com/mod/immersive-hotbar) `v1.0.4`.
+  - [**NEOFORGE**] [**LIBS**] [**MRU**](https://modrinth.com/mod/mru) `v1.0.19`.
+  - [**NEOFORGE**] [**LIBS**] [**Octo Lib**](https://modrinth.com/mod/octo-lib) `v0.5.0.1`.
+  - [**NEOFORGE**] [**LIBS**] [**Puzzles Lib**](https://modrinth.com/mod/puzzles-lib) `v21.1.36`.
+  - [**NEOFORGE**] [**Camera Overhaul**](https://modrinth.com/mod/cameraoverhaul) `v2.0.4`.
+  - [**NEOFORGE**] [**Chunks Fade In**](https://modrinth.com/mod/chunks-fade-in) `v2.0.3`.
+  - [**NEOFORGE**] [**Fog**](https://modrinth.com/mod/fog) `v1.9.2`.
+  - [**NEOFORGE**] [**Immersive UI**](https://modrinth.com/mod/immersive-ui) `v0.3.0`.
+  - [**NEOFORGE**] [**Leave My Bars Alone**](https://modrinth.com/mod/leave-my-bars-alone) `v21.1.2`.
+  - [**NEOFORGE**] [**Overflowing Bars**](https://modrinth.com/mod/overflowing-bars) `v21.1.1`.
+  - [**NEOFORGE**] [**Raised**](https://modrinth.com/mod/raised) `v5.0.0`.
+  - [**NEOFORGE**] [**Sounds**](https://modrinth.com/mod/sound) `v2.4.12`.
+  - [**NEOFORGE**] [**Sounds: Addons**](https://modrinth.com/mod/more-sounds) `v0.1.1`.
+  - [**PORTS**] [**Better Tooltips**](https://modrinth.com/mod/better_tooltips) `v1.0.3`.
+  - [**PORTS**] [**Enhanced Tooltips**](https://modrinth.com/mod/enhancedtooltips) `v1.7.1`.
+  - [**PORTS**] [**Smooth Swapping**](https://modrinth.com/mod/smooth-swapping) `v0.9.3`.
+## <font color="#ff9900">Changed</font>
+- The following mods have been updated (**1**):
+  - [**TECHNICAL**] [**Default Options**](https://modrinth.com/mod/default-options) `v21.1.3`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+- The following config files have been tweaked (**15**):
+  - config/defaultoptions/`keybindings.txt`.
+  - config/defaultoptions/`options.txt`.
+  - configureddefaults/config/dsurround/`dsurround.json`.
+  - configureddefaults/config/fog/`config.json`.
+  - configureddefaults/config/sounds/`mod_utils.json`.
+  - configureddefaults/config/`better_tooltips-client.toml`.
+  - configureddefaults/config/`cameraoverhaul.toml`.
+  - configureddefaults/config/`chunksfadein.properties`.
+  - configureddefaults/config/`enhancedtooltips.json5`.
+  - configureddefaults/config/`immersive-hotbar.json5`.
+  - configureddefaults/config/`isxander-main-menu-credits.json`.
+  - configureddefaults/config/`mod_menu-client.toml`.
+  - configureddefaults/config/`resourcepackoverrides.json`.
+  - configureddefaults/config/`smoothskies.json`.
+  - configureddefaults/config/`smoothswapping.json`.

@@ -1,0 +1,22 @@
+## <font color="#00ff00">Added</font>
+- The following compatibility patches have been added (**4**):
+  - [**Excalibur | Better ModList Compat**](https://modrinth.com/resourcepack/excalibur-better-modlist-compat) `v1.0`.
+  - [**Excalibur | Modern World Creation Compat**](https://modrinth.com/resourcepack/excalibur-modern-world-creation-compat) `v1.0`.
+  - [**Excalibur | Overflowing Bars Compat**](https://modrinth.com/resourcepack/excalibur-overflowing-bars-compat) `v1.1`.
+  - [**Excalibur | Raised Compat**](https://modrinth.com/resourcepack/excalibur-raised-compat) `v1.0`.
+---
+## <font color="#ff9900">Changed</font>
+- The following mods have been updated (**7**):
+  - [**FABRIC**] [**OptiBoxes**](https://modrinth.com/mod/optiboxes) `v1.3.0`.
+  - [**NEOFORGE**] [**LIBS**] [**Fzzy Config**](https://modrinth.com/mod/fzzy-config) `v0.7.2`.
+  - [**NEOFORGE**] [**LIBS**] [**Puzzles Lib**](https://modrinth.com/mod/puzzles-lib) `v21.1.37`.
+  - [**NEOFORGE**] [**Async Particles**](https://modrinth.com/mod/asyncparticles) `v3.3.4`.
+  - [**NEOFORGE**] [**Raised**](https://modrinth.com/mod/raised) `v5.0.1`.
+  - [**NEOFORGE**] [**Subtle Effects**](https://modrinth.com/mod/subtle-effects) `v1.12.1`.
+  - [**NEOFORGE**] [**Wavey Capes**](https://modrinth.com/mod/wavey-capes) `v1.6.2`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+    - *(The `README.txt` has been added)*
+- The following config files have been tweaked (**1**):
+  - configureddefaults/config/`isxander-main-menu-credits.json`.
+  - configureddefaults/config/`resourcepackoverrides.json`.

@@ -1,0 +1,8 @@
+## <font color="#ff9900">Changed</font>
+- The following mods have been updated (**1**):
+  - [**FABRIC**] [**OptiBoxes**](https://modrinth.com/mod/optiboxes) `v1.2`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+---
+## <font color="#0099ff">Fixed</font>
+- Fixed bugs related to the [**OptiBoxes**](https://modrinth.com/mod/optiboxes) mod *(see [#3](https://github.com/Tapacywka/Majesty-RPG-Beyond-the-Lands/issues/3))*.

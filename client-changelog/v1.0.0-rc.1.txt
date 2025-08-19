@@ -1,0 +1,27 @@
+- The first public <font color="#FFA347">**beta**</font> release is here! **٩(｡•́‿•̀｡)۶**
+- This release is based on:
+  - [**NeoForge Loader**](https://projects.neoforged.net/neoforged/neoforge) `v21.1.197`.
+  - [**Fabric Loader**](https://fabricmc.net/) `v0.16.0`.
+  - [**Fabric API**](https://modrinth.com/mod/fabric-api) `v0.115.6`.
+- All subsequent **Release Candidates** will only include various fixes and updates to mods/resourcepacks/shaderpacks.
+  - New content will appear after the full `v1.0.0` release.
+---
+## <font color="#00ff00">Added</font>
+- The following shaderpacks have been added (**1**):
+  - [**MUUF**](https://modrinth.com/shader/makeup-ultra-fast-shaders) `v9.3a`.
+---
+## <font color="#ff9900">Changed</font>
+- The following mods have been updated (**1**):
+  - [**NEOFORGE**] [**LIBS**] [**Balm**](https://modrinth.com/mod/balm) `v21.0.49`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+- The following config files have been tweaked (**6**):
+  - config/defaultoptions/`options.txt`.
+  - configureddefaults/config/`iris.properties`.
+  - configureddefaults/config/`isxander-main-menu-credits.json`.
+  - configureddefaults/config/`mod_menu-client.toml`.
+  - configureddefaults/config/`resourcepackoverrides.json`.
+  - configureddefaults/shaderpacks/`MUUF.zip.txt`.
+---
+## <font color="#0099ff">Fixed</font>
+- Fixed all compatibility issues between [**Excalibur**](https://modrinth.com/resourcepack/excal) and [**OptiBoxes**](https://modrinth.com/mod/optiboxes).

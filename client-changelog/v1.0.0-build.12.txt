@@ -1,0 +1,24 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**7**):
+  - [**NEOFORGE**] [**LIBS**] [**Fzzy Config**](https://modrinth.com/mod/fzzy-config) `v0.7.1`.
+  - [**NEOFORGE**] [**LIBS**] [**Kotlin for Forge**](https://modrinth.com/mod/kotlin-for-forge) `v5.9.0`.
+  - [**NEOFORGE**] [**Fancy Block Particles**](https://modrinth.com/mod/fbp-renewed) `v21.1.4.1`.
+  - [**NEOFORGE**] [**Subtle Effects**](https://modrinth.com/mod/subtle-effects) `v1.11.0`.
+  - [**PATCHES**] [**Iris: Block Compat**](https://www.curseforge.com/minecraft/mc-mods/iris-block-compat) `v1.1.0`.
+  - [**PORTS**] [**Explosive Enhancement: Reforged**](https://modrinth.com/mod/explosive-enhancement-forge) `v1.1.2`.
+  - [**PORTS**] [**Falling Leaves: Reforged**](https://modrinth.com/mod/fallingleavesforge) `v2.5.1`.
+## <font color="#ff9900">Changed</font>
+- The following mods have been updated (**1**):
+  - [**NEOFORGE**] [**Async Particles**](https://modrinth.com/mod/asyncparticles) `v3.3.0-beta.1`.
+- The following resourcepacks have been updated (**1**):
+  - [**Majesty RPG**] **Beyond the Lands**.
+- The following config files have been tweaked (**9**):
+  - config/defaultoptions/`keybindings.txt`.
+  - config/defaultoptions/`options.txt`.
+  - configureddefaults/config/fbp/`config.json`.
+  - configureddefaults/config/subtle_effects/`entities.toml`.
+  - configureddefaults/config/`explosiveenhancement.toml`.
+  - configureddefaults/config/`isxander-main-menu-credits.json`.
+  - configureddefaults/config/`mod_menu-client.toml`.
+  - configureddefaults/config/`resourcepackoverrides.json`.
+  - configureddefaults/config/`smoothskies.json`.
