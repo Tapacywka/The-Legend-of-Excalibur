@@ -34,14 +34,26 @@
 
 ## 🎯 <font color="#ff9900">Planned Features:</font>
 
-- ⚙️ ~~**Basic stable core**: the key to success for future modpack content updates.~~
-  - *(Released in `v1.0.0-release`)*
-- 🏕️ **Next-Gen World Generation**: `Dungeons and Taverns`, `Lithosphere`, `Still Life`, `Towns and Towers`.
-  - *(Planned in `v1.1.0-release`)*
-- 🏞️ **New Dimensions & Legendary Structures**: `Better End`, `Better Nether`, `The Aether`, `Twilight Forest`.
-  - *(Planned in `v1.2.0-release`)*
-- 🏹 **Combat & RPG Progression**: `Better Combat`, `More RPG Classes`, `Pufferfish's Skills`, `RPG Series Mods`.
-  - *(Planned in `v1.3.0-release`)*
+- ⚙️ ~~**Basic stable core**~~ ✅ *(released in `v1.0.0-release`)*
+- 🏕️ **Next-Gen World Generation** 🔄 *(planned in `v1.1.0-release`)*
+  - `Terralith` ✅
+  - `Nullscape`✅
+  - `Amplified Nether` ✅
+  - `Dungeons and Taverns` 🔄
+  - `Towns and Towers` 🔄
+  - `Luki's Grand Capitals` ✅
+  - `Structory` ✅
+- 🏞️ **New Dimensions & Legendary Structures** ⏳ *(planned in `v1.2.0-release`)*
+  - `The Aether` ⏳
+  - `Twilight Forest` ⏳
+  - `Deeper and Darker` ⏳
+  - `Bosses' Rise` ⏳
+- 🏹 **Combat & RPG Progression** ⏳ *(planned in `v1.3.0-release`)*
+  - `Better Combat` ⏳
+  - `RPG Series Mods` ⏳
+  - `More RPG Classes` ⏳
+  - `Pufferfish's Skills` ⏳
+- 🏰 **And much more! Stay tuned!**
 
 ---
 
