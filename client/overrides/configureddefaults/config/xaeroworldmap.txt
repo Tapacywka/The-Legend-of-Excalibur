@@ -1,0 +1,9 @@
+updateNotification:false
+footsteps:false
+flowers:false
+coordinates:false
+hoveredBiome:false
+displayZoom:false
+openMapAnimation:false
+zoomButtons:false
+minimapRadar:false

@@ -1,7 +1,6 @@
 {
   "quality": {
-    "weather_quality": "FAST",
-    "enable_vignette": false
+    "weather_quality": "FAST"
   },
   "advanced": {
     "cpu_render_ahead_limit": 5

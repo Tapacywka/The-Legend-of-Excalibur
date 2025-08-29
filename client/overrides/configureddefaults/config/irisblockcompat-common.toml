@@ -1,0 +1,1 @@
+excludeBlocks = ["#minecraft:saplings", "minecraft:melon", "minecraft:pumpkin", "minecraft:carved_pumpkin", "minecraft:jack_o_lantern", "minecraft:chorus_plant", "minecraft:chorus_flower", "minecraft:moss_carpet"]

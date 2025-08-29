@@ -1,4 +1,19 @@
 {
+  "general": {
+    "rarityTooltip": false,
+    "itemBadges": false
+  },
+  "popUpAnimation": {
+		"enabled": false
+	},
+	"border": {
+    "borderColor": "ITEM_NAME"
+  },
+  "foodAndDrinks": {
+    "hungerTooltip": false,
+    "saturationTooltip": false,
+    "effectsTooltip": "OFF"
+  },
   "mobs": {
     "horseArmorTooltip": false,
     "wolfArmorTooltip": false,

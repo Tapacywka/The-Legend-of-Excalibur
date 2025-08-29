@@ -8,7 +8,49 @@ layout-meta {
   [loading_requirement_container_meta:055e7c84-3105-49c0-82a4-0a2868c7a75d-0] = [groups:][instances:]
 }
 
+customization {
+  action = setscale
+  scale = 3.0
+}
+
+customization {
+  action = autoscale
+  basewidth = 1920
+  baseheight = 1080
+}
+
 menu_background {
-  color = #14181c
+  color = #382E27
   background_type = drippy_color_background
+}
+
+element {
+  bar_texture = [source:local]/config/fancymenu/assets/loading_bar_progress.png
+  background_texture = [source:local]/config/fancymenu/assets/loading_bar_empty.png
+  progress_source = {"placeholder":"game_loading_progress"}
+  element_type = progress_bar
+  #instance_identifier = fe7a55d1-9c33-4470-887b-0a65c99c879d-1756351421984
+  anchor_point = mid-centered
+  x = -200
+  y = -50
+  width = 400
+  height = 100
+  element_loading_requirement_container_identifier = 055e7c84-3105-49c0-82a4-0a2868c7a75d-0
+  [loading_requirement_container_meta:055e7c84-3105-49c0-82a4-0a2868c7a75d-0] = [groups:][instances:]
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = progress_bar
+  element_loading_requirement_container_identifier = 055e7c84-3105-49c0-82a4-0a2868c7a75d-0
+  [loading_requirement_container_meta:055e7c84-3105-49c0-82a4-0a2868c7a75d-0] = [groups:][instances:]
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mojang_logo
+  element_loading_requirement_container_identifier = 055e7c84-3105-49c0-82a4-0a2868c7a75d-0
+  [loading_requirement_container_meta:055e7c84-3105-49c0-82a4-0a2868c7a75d-0] = [groups:][instances:]
+  is_hidden = true
 }

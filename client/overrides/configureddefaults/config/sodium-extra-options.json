@@ -4,7 +4,6 @@
   },
   "extra_settings": {
     "show_fps": true,
-    "show_coords": true,
     "recipe_toast": false,
     "tutorial_toast": false
   }

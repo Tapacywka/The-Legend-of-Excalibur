@@ -5,13 +5,15 @@
     "fabric",
     "mod_resources",
     "continuity:default",
-    "minecraft:supporteatinganimation",
+    "lambdabettergrass:default",
+    "eatinganimations_compat",
     "mod/subtle_effects:resourcepacks/biome_color_water_particles",
     "file/Excalibur.zip",
-    "file/Excalibur Clarent Edition.zip",
+    "file/Excalibur - Clarent Edition.zip",
     "file/Fresh Animations.zip",
-    "file/Excalibur Fresh Edition.zip",
+    "file/Excalibur - Fresh Edition.zip",
     "file/Fresh Moves.zip",
+    "file/Environmental Water.zip",
     "file/Dramatic Skys.zip"
   ],
   "default_overrides": {},
@@ -30,7 +32,7 @@
       "force_compatible": true,
       "hidden": true
     },
-    "file/Excalibur Clarent Edition.zip": {
+    "file/Excalibur - Clarent Edition.zip": {
       "title": "\"\u00A7fExcalibur: Clarent Edition\"",
       "description": "\"\u00A77The additional features for Excalibur\u00A7r                              \"",
       "force_compatible": true,
@@ -42,7 +44,7 @@
       "force_compatible": true,
       "hidden": true
     },
-    "file/Excalibur Fresh Edition.zip": {
+    "file/Excalibur - Fresh Edition.zip": {
       "title": "\"\u00A7fExcalibur: Fresh Edition\"",
       "description": "\"\u00A77Compat between Excalibur and Fresh Animations\u00A7r                              \"",
       "force_compatible": true,
@@ -54,13 +56,19 @@
       "force_compatible": true,
       "hidden": true
     },
+    "file/Environmental Water.zip": {
+      "title": "\"\u00A7fEnvironmental Water\"",
+      "description": "\"\u00A77Makes water hues and underwater fog colors biome-dependent\u00A7r                              \"",
+      "force_compatible": true,
+      "hidden": true
+    },
     "file/Dramatic Skys.zip": {
       "title": "\"\u00A7fDramatic Skys\"",
       "description": "\"\u00A77Sky with realistic clouds and lighting\u00A7r                              \"",
       "force_compatible": true,
       "hidden": true
     },
-    "file/[Majesty RPG] Beyond the Lands.zip": {
+    "file/Majesty RPG - Beyond the Lands.zip": {
       "title": "\"\u00A7fBeyond the Lands\"",
       "description": "\"\u00A77Contains additional resources for the modpack\u00A7r                              \"",
       "default_position": "TOP",
@@ -77,7 +85,8 @@
       "fabric",
       "mod_resources",
       "continuity:default",
-      "minecraft:supporteatinganimation",
+      "lambdabettergrass:default",
+      "eatinganimations_compat",
       "mod/subtle_effects:resourcepacks/biome_color_water_particles"
     ],
     "$$left_side_disabled": {

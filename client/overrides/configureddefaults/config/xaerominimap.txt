@@ -1,0 +1,7 @@
+updateNotification:false
+lockNorth:true
+compassLocation:0
+playerArrowOpacity:99
+entityRadar:false
+infoDisplay:biome:true:15:-1
+module;id=xaerominimap:minimap;active=true;x=0;y=9;centered=false;fromRight=false;fromBottom=false;flippedVer=false;flippedHor=false;

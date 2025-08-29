@@ -5,9 +5,11 @@ configVersion = 2
 	turningRollAccumulation = 1.0
 	turningRollIntensity = 2.0
 	turningRollSmoothing = 1.0
-	cameraSwayIntensity = 0.5
-	cameraSwayFrequency = 0.2
-	cameraSwayFadeInDelay = 3.0
+	cameraSwayIntensity = 0.0
+	cameraSwayFrequency = 0.0
+	cameraSwayFadeInDelay = 0.0
+	cameraSwayFadeInLength = 0.0
+	cameraSwayFadeOutLength = 0.0
 
 [walking]
 	strafingRollFactor = 10.0

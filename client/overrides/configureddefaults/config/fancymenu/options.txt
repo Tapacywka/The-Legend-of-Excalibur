@@ -8,6 +8,7 @@ S:custom_window_icon_32 = '/config/fancymenu/assets/favicon-32x32.png';
 S:custom_window_title = 'Majesty RPG: Beyond the Lands';
 
 ##[ui]
+F:ui_scale = '2.0';
 B:enable_ui_text_shadow = 'true';
 
 ##[tutorial]

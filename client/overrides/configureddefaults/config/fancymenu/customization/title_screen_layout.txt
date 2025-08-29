@@ -24,14 +24,12 @@ element {
   source = Minecraft {"placeholder":"mcversion"}%n%{"placeholder":"loadername"} {"placeholder":"loaderver"}%n%Fabric Loader 0.16.0%n%Fabric API 0.115.6
   enable_scrolling = false
   element_type = text_v2
-  instance_identifier = d7d4432f-d288-46c4-b390-be61b0fffa24-0
+  #instance_identifier = d7d4432f-d288-46c4-b390-be61b0fffa24-0
   anchor_point = bottom-left
   x = 0
   y = -46
   width = 200
   height = 46
-  stretch_x = false
-  stretch_y = false
   stay_on_screen = false
   element_loading_requirement_container_identifier = d132e0d8-06b0-469d-aab8-057a8533a0d7-0
   [loading_requirement_container_meta:d132e0d8-06b0-469d-aab8-057a8533a0d7-0] = [groups:][instances:]

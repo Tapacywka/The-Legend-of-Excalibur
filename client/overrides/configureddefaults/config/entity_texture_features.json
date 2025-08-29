@@ -1,3 +1,7 @@
 {
+  "illegalPathSupportMode": "Entity",
+  "skinFeaturesEnabled": false,
+  "skinTransparencyMode": "ALL",
+  "skinFeaturesEnableTransparency": false,
   "configButtonLoc": "OFF"
 }

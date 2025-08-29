@@ -1,0 +1,10 @@
+{
+  "mapVanillaElements": {
+    "xaerohud:hud": {
+      "enabled": {
+        "value": "OFF"
+      },
+      "pass": 1
+    }
+  }
+}
