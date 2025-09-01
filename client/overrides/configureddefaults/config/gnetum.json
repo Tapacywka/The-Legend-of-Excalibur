@@ -5,6 +5,12 @@
         "value": "OFF"
       },
       "pass": 1
+    },
+    "minecraft:hotbar": {
+      "enabled": {
+        "value": "OFF"
+      },
+      "pass": 1
     }
   }
 }

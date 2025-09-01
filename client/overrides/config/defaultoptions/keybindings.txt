@@ -15,13 +15,7 @@ key_key.chat:key.keyboard.enter:NONE
 key_key.fbp.add_to_blacklist:key.keyboard.unknown:NONE
 key_key.fbp.freeze_particles:key.keyboard.unknown:NONE
 key_key.fbp.open_settings:key.keyboard.unknown:NONE
-key_key.jade.config:key.keyboard.unknown:NONE
-key_key.jade.narrate:key.keyboard.unknown:NONE
-key_key.jade.show_details:key.keyboard.unknown:NONE
-key_key.jade.show_overlay:key.keyboard.unknown:NONE
-key_key.jade.show_recipes:key.keyboard.unknown:NONE
-key_key.jade.show_uses:key.keyboard.unknown:NONE
-key_key.jade.toggle_liquid:key.keyboard.unknown:NONE
+key_key.firstperson.toggle:key.keyboard.unknown:NONE
 key_key.loadToolbarActivator:key.keyboard.unknown:NONE
 key_key.optigui.inspect:key.keyboard.unknown:NONE
 key_key.presencefootsteps.settings:key.keyboard.unknown:NONE

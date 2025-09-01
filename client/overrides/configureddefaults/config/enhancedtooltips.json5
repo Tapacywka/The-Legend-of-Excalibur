@@ -4,9 +4,9 @@
     "itemBadges": false
   },
   "popUpAnimation": {
-		"enabled": false
-	},
-	"border": {
+    "enabled": false
+  },
+  "border": {
     "borderColor": "ITEM_NAME"
   },
   "foodAndDrinks": {

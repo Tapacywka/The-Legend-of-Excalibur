@@ -5,7 +5,7 @@ B:show_customization_overlay = 'false';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_16 = '/config/fancymenu/assets/favicon-16x16.png';
 S:custom_window_icon_32 = '/config/fancymenu/assets/favicon-32x32.png';
-S:custom_window_title = 'Majesty RPG: Beyond the Lands';
+S:custom_window_title = 'The Legend of Excalibur';
 
 ##[ui]
 F:ui_scale = '2.0';

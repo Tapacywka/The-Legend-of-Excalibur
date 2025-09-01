@@ -2,10 +2,10 @@
   "main_menu": {
     "bottom_right": [
       {
-        "text": "Majesty RPG: Beyond the Lands (v1.1.0-build.1)",
+        "text": "The Legend of Excalibur (v1.1.0-build.1)",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://modrinth.com/modpack/majesty-rpg"
+          "value": "https://modrinth.com/modpack/The-Legend-of-Excalibur"
         }
       }
     ]

@@ -1,0 +1,9 @@
+{
+  "xOffset": 16,
+  "sneakXOffset": 16,
+  "sitXOffset": 16,
+  "renderStuckFeatures": false,
+  "vanillaHandsMode": "ALL",
+  "dynamicMode": false,
+  "vanillaHandsSkipSwimming": false
+}
