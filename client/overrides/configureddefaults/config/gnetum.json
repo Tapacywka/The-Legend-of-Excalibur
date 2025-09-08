@@ -1,12 +1,24 @@
 {
   "mapVanillaElements": {
-    "xaerohud:hud": {
+    "minecraft:experience_bar": {
+      "enabled": {
+        "value": "OFF"
+      },
+      "pass": 2
+    },
+    "minecraft:jump_meter": {
+      "enabled": {
+        "value": "OFF"
+      },
+      "pass": 2
+    },
+    "minecraft:hotbar": {
       "enabled": {
         "value": "OFF"
       },
       "pass": 1
     },
-    "minecraft:hotbar": {
+    "xaerohud:hud": {
       "enabled": {
         "value": "OFF"
       },

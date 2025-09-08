@@ -4,5 +4,8 @@
   },
   "drip": {
     "puddle": false
+  },
+  "animations": {
+    "enabled": false
   }
 }

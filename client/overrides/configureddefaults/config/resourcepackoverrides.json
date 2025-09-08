@@ -13,6 +13,11 @@
     "file/Fresh Animations.zip",
     "file/Excalibur - Fresh Edition.zip",
     "file/Fresh Moves.zip",
+    "file/Excalibur - Accessories Compat.zip",
+    "file/Excalibur - Better ModList Compat.zip",
+    "file/Excalibur - Modern World Creation Compat.zip",
+    "file/Excalibur - Overflowing Bars Compat.zip",
+    "file/Excalibur - Raised Compat.zip",
     "file/Environmental Water.zip",
     "file/Dramatic Skys.zip"
   ],
@@ -58,7 +63,7 @@
     },
     "file/Environmental Water.zip": {
       "title": "\"\u00A7fEnvironmental Water\"",
-      "description": "\"\u00A77Makes water hues and underwater fog colors biome-dependent\u00A7r                              \"",
+      "description": "\"\u00A77Makes water hues color biome-dependent\u00A7r                              \"",
       "force_compatible": true,
       "hidden": true
     },
@@ -87,7 +92,12 @@
       "continuity:default",
       "lambdabettergrass:default",
       "eatinganimations_compat",
-      "mod/subtle_effects:resourcepacks/biome_color_water_particles"
+      "mod/subtle_effects:resourcepacks/biome_color_water_particles",
+      "file/Excalibur - Accessories Compat.zip",
+      "file/Excalibur - Better ModList Compat.zip",
+      "file/Excalibur - Modern World Creation Compat.zip",
+      "file/Excalibur - Overflowing Bars Compat.zip",
+      "file/Excalibur - Raised Compat.zip"
     ],
     "$$left_side_disabled": {
       "force_compatible": true,

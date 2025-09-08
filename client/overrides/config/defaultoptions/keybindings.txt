@@ -1,3 +1,4 @@
+key_accessories.key.open_accessories_screen:key.keyboard.i:NONE
 key_gnetum.config.keyMapping:key.keyboard.unknown:NONE
 key_gui.xaero_enlarge_map:key.keyboard.unknown:NONE
 key_gui.xaero_instant_waypoint:key.keyboard.unknown:NONE
@@ -9,6 +10,10 @@ key_gui.xaero_waypoints_key:key.keyboard.unknown:NONE
 key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.y:NONE
 key_iris.keybind.toggleShaders:key.keyboard.t:NONE
+key_key.beltborne_lanterns.open_config:key.keyboard.unknown:NONE
+key_key.beltborne_lanterns.open_debug:key.keyboard.unknown:NONE
+key_key.beltborne_lanterns.toggle_debug:key.keyboard.unknown:NONE
+key_key.beltborne_lanterns.toggle_lantern:key.keyboard.unknown:NONE
 key_key.better_tooltips.horizontal_scroll_key:key.keyboard.unknown:NONE
 key_key.better_tooltips.scroll_key:key.keyboard.unknown:NONE
 key_key.chat:key.keyboard.enter:NONE

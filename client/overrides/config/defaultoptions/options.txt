@@ -3,6 +3,7 @@ biomeBlendRadius:5
 enableVsync:false
 fovEffectScale:0.0
 fullscreen:true
+gamma:0.0
 guiScale:3
 maxFps:260
 renderClouds:"false"
@@ -11,7 +12,7 @@ screenEffectScale:0.2
 chatLinksPrompt:false
 realmsNotifications:false
 narratorHotkey:false
-resourcePacks:["fabric","mod_resources","continuity:default","lambdabettergrass:default","eatinganimations_compat","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Excalibur.zip","file/Excalibur - Clarent Edition.zip","file/Fresh Animations.zip","file/Excalibur - Fresh Edition.zip","file/Fresh Moves.zip","file/Environmental Water.zip","file/Dramatic Skys.zip"]
+resourcePacks:["fabric","mod_resources","continuity:default","lambdabettergrass:default","eatinganimations_compat","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Excalibur.zip","file/Excalibur - Clarent Edition.zip","file/Fresh Animations.zip","file/Excalibur - Fresh Edition.zip","file/Fresh Moves.zip","file/Excalibur - Accessories Compat.zip","file/Excalibur - Better ModList Compat.zip","file/Excalibur - Modern World Creation Compat.zip","file/Excalibur - Overflowing Bars Compat.zip","file/Excalibur - Raised Compat.zip","file/Environmental Water.zip","file/Dramatic Skys.zip"]
 incompatibleResourcePacks:[]
 attackIndicator:0
 tutorialStep:none
