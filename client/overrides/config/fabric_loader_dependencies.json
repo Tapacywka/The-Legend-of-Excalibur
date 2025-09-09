@@ -10,6 +10,11 @@
       "-recommends": {
         "modmenu": "*"
       }
+    },
+    "nohotbarlooping": {
+      "-recommends": {
+        "cloth-config-api": "*"
+      }
     }
   }
 }

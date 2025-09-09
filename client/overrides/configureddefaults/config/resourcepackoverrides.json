@@ -6,6 +6,7 @@
     "mod_resources",
     "continuity:default",
     "lambdabettergrass:default",
+    "atmosfera:dungeons",
     "eatinganimations_compat",
     "mod/subtle_effects:resourcepacks/biome_color_water_particles",
     "file/Excalibur.zip",
@@ -18,6 +19,7 @@
     "file/Excalibur - Modern World Creation Compat.zip",
     "file/Excalibur - Overflowing Bars Compat.zip",
     "file/Excalibur - Raised Compat.zip",
+    "file/Enhanced Visuals - Pixelated.zip",
     "file/Environmental Water.zip",
     "file/Dramatic Skys.zip"
   ],
@@ -30,48 +32,6 @@
       "force_compatible": true,
       "fixed_position": true,
       "required": true
-    },
-    "file/Excalibur.zip": {
-      "title": "\"\u00A7fExcalibur\"",
-      "description": "\"\u00A77Medieval Fantasy Resourcepack\u00A7r                              \"",
-      "force_compatible": true,
-      "hidden": true
-    },
-    "file/Excalibur - Clarent Edition.zip": {
-      "title": "\"\u00A7fExcalibur: Clarent Edition\"",
-      "description": "\"\u00A77The additional features for Excalibur\u00A7r                              \"",
-      "force_compatible": true,
-      "hidden": true
-    },
-    "file/Fresh Animations.zip": {
-      "title": "\"\u00A7fFresh Animations\"",
-      "description": "\"\u00A77Makes your game look like the trailers\u00A7r                              \"",
-      "force_compatible": true,
-      "hidden": true
-    },
-    "file/Excalibur - Fresh Edition.zip": {
-      "title": "\"\u00A7fExcalibur: Fresh Edition\"",
-      "description": "\"\u00A77Compat between Excalibur and Fresh Animations\u00A7r                              \"",
-      "force_compatible": true,
-      "hidden": true
-    },
-    "file/Fresh Moves.zip": {
-      "title": "\"\u00A7fFresh Moves\"",
-      "description": "\"\u00A77Animates your character via Fresh Animations\u00A7r                              \"",
-      "force_compatible": true,
-      "hidden": true
-    },
-    "file/Environmental Water.zip": {
-      "title": "\"\u00A7fEnvironmental Water\"",
-      "description": "\"\u00A77Makes water hues color biome-dependent\u00A7r                              \"",
-      "force_compatible": true,
-      "hidden": true
-    },
-    "file/Dramatic Skys.zip": {
-      "title": "\"\u00A7fDramatic Skys\"",
-      "description": "\"\u00A77Sky with realistic clouds and lighting\u00A7r                              \"",
-      "force_compatible": true,
-      "hidden": true
     },
     "file/The Legend of Excalibur.zip": {
       "title": "\"\u00A7fThe Legend of Excalibur\"",
@@ -91,13 +51,22 @@
       "mod_resources",
       "continuity:default",
       "lambdabettergrass:default",
+      "atmosfera:dungeons",
       "eatinganimations_compat",
       "mod/subtle_effects:resourcepacks/biome_color_water_particles",
+      "file/Excalibur.zip",
+      "file/Excalibur - Clarent Edition.zip",
+      "file/Fresh Animations.zip",
+      "file/Excalibur - Fresh Edition.zip",
+      "file/Fresh Moves.zip",
       "file/Excalibur - Accessories Compat.zip",
       "file/Excalibur - Better ModList Compat.zip",
       "file/Excalibur - Modern World Creation Compat.zip",
       "file/Excalibur - Overflowing Bars Compat.zip",
-      "file/Excalibur - Raised Compat.zip"
+      "file/Excalibur - Raised Compat.zip",
+      "file/Enhanced Visuals - Pixelated.zip",
+      "file/Environmental Water.zip",
+      "file/Dramatic Skys.zip"
     ],
     "$$left_side_disabled": {
       "force_compatible": true,

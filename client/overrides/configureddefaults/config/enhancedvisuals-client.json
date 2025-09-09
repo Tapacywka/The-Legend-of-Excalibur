@@ -1,0 +1,31 @@
+{
+  "handlers": {
+    "explosion": {
+      "dustDuration": {
+        "min": 10,
+        "max": 100
+      }
+    },
+    "sand": {
+      "duration": {
+        "min": 10,
+        "max": 100
+      }
+    },
+    "damage": {
+      "bloodDuration": {
+        "min": 10,
+        "max": 100
+      }
+    },
+    "heartbeat": {
+      "useHealthPercentage": true
+    },
+    "rain": {
+      "duration": {
+        "min": 10,
+        "max": 100
+      }
+    }
+  }
+}

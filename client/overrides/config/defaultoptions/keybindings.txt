@@ -27,3 +27,4 @@ key_key.presencefootsteps.settings:key.keyboard.unknown:NONE
 key_key.raised.options:key.keyboard.unknown:NONE
 key_key.saveToolbarActivator:key.keyboard.unknown:NONE
 key_key.socialInteractions:key.keyboard.unknown:NONE
+key_nohotbarlooping.keybinding.name:key.keyboard.unknown:NONE

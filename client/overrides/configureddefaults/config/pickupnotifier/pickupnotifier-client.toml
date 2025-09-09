@@ -1,0 +1,4 @@
+[display]
+	screen_corner = "TOP_LEFT"
+	offset_y = 160
+	scale = 5

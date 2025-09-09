@@ -12,7 +12,7 @@ screenEffectScale:0.2
 chatLinksPrompt:false
 realmsNotifications:false
 narratorHotkey:false
-resourcePacks:["fabric","mod_resources","continuity:default","lambdabettergrass:default","eatinganimations_compat","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Excalibur.zip","file/Excalibur - Clarent Edition.zip","file/Fresh Animations.zip","file/Excalibur - Fresh Edition.zip","file/Fresh Moves.zip","file/Excalibur - Accessories Compat.zip","file/Excalibur - Better ModList Compat.zip","file/Excalibur - Modern World Creation Compat.zip","file/Excalibur - Overflowing Bars Compat.zip","file/Excalibur - Raised Compat.zip","file/Environmental Water.zip","file/Dramatic Skys.zip"]
+resourcePacks:["fabric","mod_resources","continuity:default","lambdabettergrass:default","atmosfera:dungeons","eatinganimations_compat","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Excalibur.zip","file/Excalibur - Clarent Edition.zip","file/Fresh Animations.zip","file/Excalibur - Fresh Edition.zip","file/Fresh Moves.zip","file/Excalibur - Accessories Compat.zip","file/Excalibur - Better ModList Compat.zip","file/Excalibur - Modern World Creation Compat.zip","file/Excalibur - Overflowing Bars Compat.zip","file/Excalibur - Raised Compat.zip","file/Enhanced Visuals - Pixelated.zip","file/Environmental Water.zip","file/Dramatic Skys.zip"]
 incompatibleResourcePacks:[]
 attackIndicator:0
 tutorialStep:none
@@ -22,13 +22,3 @@ hideBundleTutorial:true
 syncChunkWrites:false
 onboardAccessibility:false
 menuBackgroundBlurriness:0
-soundCategory_master:0.5
-soundCategory_music:0.5
-soundCategory_record:0.5
-soundCategory_weather:0.5
-soundCategory_block:0.5
-soundCategory_hostile:0.5
-soundCategory_neutral:0.5
-soundCategory_player:0.5
-soundCategory_ambient:0.5
-soundCategory_voice:0.5
