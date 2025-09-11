@@ -29,7 +29,7 @@
   - `Luki's Grand Capitals` ✅
   - `Nullscape`✅
   - `Terralith` ✅
-  - `Towns and Towers` ⏳
+  - `Towns and Towers` 🔄
 
 - 🏞️ **New Dimensions & Legendary Structures**
   - `Deeper and Darker` ⏳
@@ -37,11 +37,11 @@
   - `The Twilight Forest` ⏳
 
 - 🏹 **Combat & RPG Progression**
-  - `Better Combat` ⏳
-  - `Bosses' Rise` 🔄
-  - `More RPG Classes` ⏳
+  - `Better Combat` 🔄
+  - `Bosses' Rise` ⏳
+  - `More RPG Classes` 🔄
   - `Pufferfish's Skills` ⏳
-  - `RPG Series Mods` ⏳
+  - `RPG Series Mods` 🔄
 
 - 🏰 **And much more! Stay tuned!**
 
