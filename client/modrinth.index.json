@@ -156,6 +156,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/AP8rDDLS/versions/QvoJWaYG/HMI%204.3%20-%201.21.%281%29.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 105906,
+      "hashes": {
+        "sha1": "19ff289fa00d338092458265f3ed24a92a9ada5f",
+        "sha512": "7af95a63fae4010ee5123c90231a54dc2b4a4409eaee752d311568eb007619bfaefb9787d3d0d72c122f034422262b3ae6494e72e9bdaeb06046f6b5a962a433"
+      },
+      "path": "mods/[FABRIC] Hold My Items v4.3.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/hsPB5xMD/versions/jd4iTEmV/immersive-hotbar-1.0.4-1.21-1.21.1.jar"
       ],
       "env": {
@@ -351,18 +366,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 7422276,
+      "fileSize": 7479598,
       "hashes": {
-        "sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
-        "sha512": "bae89ea5e71895f5a760def61359bb90a715832d998aec8141902410c503533fc42631e033109fcc9cdb3f869c58da9b89e9efc3b3ef112cbafe27059de9239e"
+        "sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
+        "sha512": "1d1d70bd4662ec1fcba57c9f16c3bceb185e8986119f266594f37d145d6d19772e5d6a50dcfec315e600c9eafd32f2b5f86bab72ae1954891297cde7fce62e9b"
       },
-      "path": "mods/[FABRIC] [LIBRARY] Fabric Language Kotlin v1.13.5.jar"
+      "path": "mods/[FABRIC] [LIBRARY] Fabric Language Kotlin v1.13.6.jar"
     },
     {
       "downloads": [
@@ -411,18 +426,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NUFDZAKS/versions/91K6OuTU/beltborne_lanterns-1.1.0-neoforge%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/NUFDZAKS/versions/L3VcsM5f/beltborne_lanterns-1.2.0-neoforge%2B1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 131307,
+      "fileSize": 133923,
       "hashes": {
-        "sha1": "f5f0732acde8511ca02667b59a49947199c01ead",
-        "sha512": "322775712ebda22cfd926c528943aecabce0ceb3cdc93f92e033c178e5f70c3ac741bbe46e658ca3eee304dd0bf0b47682216edbfd3fc6eb62b6f9a5449aa089"
+        "sha1": "a641698eb2fe00ff8a043c9da9f6427e5b98c261",
+        "sha512": "333a932a517cc0a7a5f7dc714e70cbbb1b3ef0b6946e7b7ff5d7d5ce1ee40a53df63e0af53519b09a5097d5837f25cd6cb382f9c9a1029d0734aab186eba0307"
       },
-      "path": "mods/[NEOFORGE] Beltborne Lanterns v1.1.0.jar"
+      "path": "mods/[NEOFORGE] Beltborne Lanterns v1.2.0.jar"
     },
     {
       "downloads": [
@@ -1026,18 +1041,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/3qAYkBMB/versions/VCg1q62i/polytone-1.21-3.5.6.jar"
+        "https://cdn.modrinth.com/data/3qAYkBMB/versions/YQG5Uvpe/polytone-1.21-3.5.7.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 818218,
+      "fileSize": 819846,
       "hashes": {
-        "sha1": "fdef11bcc021b755a167185b424a80afeddc5a8f",
-        "sha512": "5501cead6ee0a59130f91999e4875770383c8ef8c261c29d81b728f542c0bb6b1093a910b442d1361f14095f54e28f67626b8414f21560a62c93dfdf2673f537"
+        "sha1": "caae3efbb6c8e5931dce414bb3d0525154cb5517",
+        "sha512": "00a288a672a9d8801c2c30e656c4bc5bef4f5389d83e0348a2fd117502acd845ac8ebb150610605226a74528aadf0c7c68ea1aaaf0c0cc339115935f9ddccb69"
       },
-      "path": "mods/[NEOFORGE] Polytone v3.5.6.jar"
+      "path": "mods/[NEOFORGE] Polytone v3.5.7.jar"
     },
     {
       "downloads": [
@@ -1596,18 +1611,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/geZ7ilkE/versions/yIWSgfZ9/bl_accessories_layer-1.0.0-neoforge%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/geZ7ilkE/versions/mDQ9GCHE/bl_accessories_layer-1.0.1-neoforge%2B1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 35564,
+      "fileSize": 36331,
       "hashes": {
-        "sha1": "1a20e9cfa0f18daa0b02d31c2305899e0449ba14",
-        "sha512": "13ab4b68d413836a1d6cfac0603af15b8bcf2726bfb65ab8e670d0999d04e1faedea49b34fd4700459631599e3f4015a2252bf3c92fcf915cd3a6a786a8ad440"
+        "sha1": "c985158ba98337b86e518003a4e39edf0d19d3db",
+        "sha512": "559938eb4e6d788942ff6599bbc648e9b2d7c52c5a4e5a588d0e5bc646c9c16d00a19b8917ac0ef19017df929dadc4585a8673081d8754f0d05e45e9689d4939"
       },
-      "path": "mods/[PATCHES] Accessories - Beltborne Lanterns Layer v1.0.0.jar"
+      "path": "mods/[PATCHES] Accessories - Beltborne Lanterns Layer v1.0.1.jar"
     },
     {
       "downloads": [
@@ -1821,18 +1836,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/JkxWVYwU/versions/CMsFddh5/krypton_fnp-neoforge-1.21.1-0.2.22.jar"
+        "https://cdn.modrinth.com/data/JkxWVYwU/versions/P4TGV7np/krypton_fnp-neoforge-1.21.1-0.2.23.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1410273,
+      "fileSize": 1414788,
       "hashes": {
-        "sha1": "5abb17a12eae560535d6b5c7c6c2803cc3769539",
-        "sha512": "d235079ffc7fc76d27b04818a576d7b8e7eee402cc4c470906c45b77bd1286c52190651dde725d2241d518528e2891550c8500a1c37e07713126831b9baef00d"
+        "sha1": "87c30d4541e7336054838865b25c918a1006d590",
+        "sha512": "a23730b17d654a6861657fc81bc942b8aa6ee1833945d08e71d1a3c691e48e7ef6ade96c412c271fa9722b158131d0b67831e956f43c499b8afbbf080e329967"
       },
-      "path": "mods/[PORTS] Krypton - Reforged v0.2.22.jar"
+      "path": "mods/[PORTS] Krypton - Reforged v0.2.23.jar"
     },
     {
       "downloads": [
@@ -2319,5 +2334,5 @@
   "game": "minecraft",
   "name": "The Legend of Excalibur",
   "summary": "Immerse yourself in a fantasy medieval world: magic, knights, dragons, and perilous adventures await!",
-  "versionId": "v1.1.0-build.4"
+  "versionId": "v1.1.0-rc.1"
 }
