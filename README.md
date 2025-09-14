@@ -20,9 +20,7 @@
 ## 🎯 <font color="#ff9900">Planned Features:</font>
 
 - *(What do these icons mean? ✅ - Done | 🔄 - In progress | ⏳ - Will appear later)*
-
 - ⚙️ ~~**Basic stable core**~~ ✅ *(released in `v1.0.0-release`)*
-
 - 🏕️ **Next-Gen World Generation**
   - `Amplified Nether` ✅
   - `Dungeons and Taverns` ⏳
@@ -30,19 +28,16 @@
   - `Nullscape`✅
   - `Terralith` ✅
   - `Towns and Towers` 🔄
-
 - 🏞️ **New Dimensions & Legendary Structures**
   - `Deeper and Darker` ⏳
   - `The Aether` 🔄
   - `The Twilight Forest` ⏳
-
 - 🏹 **Combat & RPG Progression**
   - `Better Combat` 🔄
   - `Bosses' Rise` ⏳
   - `More RPG Classes` 🔄
   - `Pufferfish's Skills` ⏳
   - `RPG Series Mods` 🔄
-
 - 🏰 **And much more! Stay tuned!**
 
 ---
