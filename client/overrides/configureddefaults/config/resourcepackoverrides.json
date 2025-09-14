@@ -14,14 +14,12 @@
     "file/Fresh Animations.zip",
     "file/Excalibur - Fresh Edition.zip",
     "file/Fresh Moves.zip",
-    "file/Excalibur - Accessories Compat.zip",
+    "file/Excalibur - Accessories & Curios Compat.zip",
     "file/Excalibur - Better ModList Compat.zip",
     "file/Excalibur - Modern World Creation Compat.zip",
     "file/Excalibur - Overflowing Bars Compat.zip",
     "file/Excalibur - Raised Compat.zip",
-    "file/Enhanced Visuals - Pixelated.zip",
-    "file/Environmental Water.zip",
-    "file/Dramatic Skys.zip"
+    "file/Enhanced Visuals - Pixelated.zip"
   ],
   "default_overrides": {},
   "pack_overrides": {
@@ -59,14 +57,12 @@
       "file/Fresh Animations.zip",
       "file/Excalibur - Fresh Edition.zip",
       "file/Fresh Moves.zip",
-      "file/Excalibur - Accessories Compat.zip",
+      "file/Excalibur - Accessories & Curios Compat.zip",
       "file/Excalibur - Better ModList Compat.zip",
       "file/Excalibur - Modern World Creation Compat.zip",
       "file/Excalibur - Overflowing Bars Compat.zip",
       "file/Excalibur - Raised Compat.zip",
-      "file/Enhanced Visuals - Pixelated.zip",
-      "file/Environmental Water.zip",
-      "file/Dramatic Skys.zip"
+      "file/Enhanced Visuals - Pixelated.zip"
     ],
     "$$left_side_disabled": {
       "force_compatible": true,

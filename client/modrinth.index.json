@@ -66,6 +66,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/CPo6Ht5f/versions/MetJtnJ5/asahi-1.3.0%2B1.20.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 13598,
+      "hashes": {
+        "sha1": "7e015c4f22e350c4a3931e4a81c3c136b0dce1f8",
+        "sha512": "4c0bcc543d5fcdc754351b0512fa4b64c61c3ff86541845c54fe826a31d32854f9c72d2405866386fecb78f332b0e729d06e1f6c9f6c74435f45a1670c150aae"
+      },
+      "path": "mods/[FABRIC] Asahi v1.3.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/28G1xpgF/versions/2OF1UoOd/atmosfera-2.2.0%2Bmc1.21.1.jar"
       ],
       "env": {
@@ -160,7 +175,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 105906,
       "hashes": {
@@ -426,18 +441,33 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NUFDZAKS/versions/L3VcsM5f/beltborne_lanterns-1.2.0-neoforge%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/NUFDZAKS/versions/eHAcx5AE/beltborne_lanterns-1.2.1-neoforge%2B1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 133923,
+      "fileSize": 133616,
       "hashes": {
-        "sha1": "a641698eb2fe00ff8a043c9da9f6427e5b98c261",
-        "sha512": "333a932a517cc0a7a5f7dc714e70cbbb1b3ef0b6946e7b7ff5d7d5ce1ee40a53df63e0af53519b09a5097d5837f25cd6cb382f9c9a1029d0734aab186eba0307"
+        "sha1": "5a20294194dc604df2db659088ed6f4f03535e52",
+        "sha512": "5d6460be32d302bdf469630142777aa25ac1426beb77953cb339333334b5d88e998421e69a34f4fb7b5563dcc3c21538d4ebf85d990820dfc84f3a6cf7155bfa"
       },
-      "path": "mods/[NEOFORGE] Beltborne Lanterns v1.2.0.jar"
+      "path": "mods/[NEOFORGE] Beltborne Lanterns v1.2.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/5srFLIaK/versions/U0BTwXtf/better-clouds-1.7.17%2B1.21.1-neoforge.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 780376,
+      "hashes": {
+        "sha1": "3b545234fca34056554922bf2ce4d037cf6837de",
+        "sha512": "fe9d1eae5dceecc140b3f820c36d99f2ccbaf9248d6162dd092200e39de1757a3440f4d449854e3bc66b03fcc9c3b60aed726677d71562a71c62ed23b2882c9e"
+      },
+      "path": "mods/[NEOFORGE] Better Clouds v1.7.17.jar"
     },
     {
       "downloads": [
@@ -1356,18 +1386,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/OsZiaDHq/versions/fqPlmIeP/CreativeCore_NEOFORGE_v2.13.11_mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/OsZiaDHq/versions/M0hcwEit/CreativeCore_NEOFORGE_v2.13.12_mc1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1198832,
+      "fileSize": 1199123,
       "hashes": {
-        "sha1": "ef1b7a6318e1073a847efadcc30ced8a7190cdd3",
-        "sha512": "4f6fbf5c2c39047fa6db51030d4c6d69403893d404dfb64e81a08c2d4b86f9b88f23c33d2bd1093573916748dc78d0e8175cf612cd48c12248a99776d00b9fa2"
+        "sha1": "88f05e6969ad6070bf0769b9fe6b6353168c9688",
+        "sha512": "079f3fbf57f9d28ce1601fe17db99cc8f10b6a9ec7dd2234d6c2b8f6e01f72c98ad9d1e43b8687f0ebe29f3e8000dc09e7f5fd7c2836e8c030e8b0a215586602"
       },
-      "path": "mods/[NEOFORGE] [LIBRARY] Creative Core v2.13.11.jar"
+      "path": "mods/[NEOFORGE] [LIBRARY] Creative Core v2.13.12.jar"
     },
     {
       "downloads": [
@@ -1446,18 +1476,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ordsPcFz/versions/4qCjWixP/kotlinforforge-5.9.0-all.jar"
+        "https://cdn.modrinth.com/data/ordsPcFz/versions/pp2cY80Q/kotlinforforge-5.10.0-all.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 6451846,
+      "fileSize": 6730190,
       "hashes": {
-        "sha1": "8ad166a365c1917fceca3533cdcb74e5149f200c",
-        "sha512": "cfa784389e7d373b23d2c9d9cc0becc4e3b9ffd0c7bf75f23aeee1625f39bde44cbf15b28403c490f716b436a748fa7531c607673b5a85dd116008a6fc43236f"
+        "sha1": "a86a436cb7ffd0509750ba7b078fe88143da1ea6",
+        "sha512": "0c7a23c6b8017c9a24694bc6c0dbcb3d9b4ec630ae2ff965c0ee478ca881ad70f4755388678430b0175c3abe18c66fcbc25ed9be6f600bcdc083743eaecbfc35"
       },
-      "path": "mods/[NEOFORGE] [LIBRARY] Kotlin for Forge v5.9.0.jar"
+      "path": "mods/[NEOFORGE] [LIBRARY] Kotlin for Forge v5.10.0.jar"
     },
     {
       "downloads": [
@@ -1911,36 +1941,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/s86X568j/versions/Pj0tqKnE/ChunkyBorder-1.2.18.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 155772,
-      "hashes": {
-        "sha1": "b1c53d6e13100658d4dc2b2e33a650162748c4ea",
-        "sha512": "796fa11d0f481b0af9adea76ea2c494086d63adca4650571f94e610ead1af3ba5d88db1d7a177266588fd0647a34d607bf45a75ebbb9639e8d6888035723934d"
-      },
-      "path": "mods/[TECHNICAL] Chunky - Border v1.2.18.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 340572,
-      "hashes": {
-        "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
-        "sha512": "2db769dd723f243a21e1881e7c9f825e9c193da6f2bed454b70cb6fa9e51c57f63fdcf017c0657bbd26f7bba30815413e27c74d3c7be0783390a96ee9baa4bf7"
-      },
-      "path": "mods/[TECHNICAL] Chunky v1.4.23.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/SISoSFPP/versions/HJxTPhTM/ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar"
       ],
       "env": {
@@ -2016,6 +2016,36 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/s86X568j/versions/Pj0tqKnE/ChunkyBorder-1.2.18.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 155772,
+      "hashes": {
+        "sha1": "b1c53d6e13100658d4dc2b2e33a650162748c4ea",
+        "sha512": "796fa11d0f481b0af9adea76ea2c494086d63adca4650571f94e610ead1af3ba5d88db1d7a177266588fd0647a34d607bf45a75ebbb9639e8d6888035723934d"
+      },
+      "path": "mods/[WORLDGEN] Chunky - Border v1.2.18.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 340572,
+      "hashes": {
+        "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
+        "sha512": "2db769dd723f243a21e1881e7c9f825e9c193da6f2bed454b70cb6fa9e51c57f63fdcf017c0657bbd26f7bba30815413e27c74d3c7be0783390a96ee9baa4bf7"
+      },
+      "path": "mods/[WORLDGEN] Chunky v1.4.23.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/13uF4XO7/versions/WZaYyJ55/lukis-ancient-cities-1.1.jar"
       ],
       "env": {
@@ -2076,6 +2106,36 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/XVknWoiY/versions/UCIXM4M3/roadarchitect_encounters-1.1.0-neoforge%2B1.21.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 108131,
+      "hashes": {
+        "sha1": "6f04afc5dbe58a3e1cf02a765eb8ba94583c42ea",
+        "sha512": "07613f83937ce163fc18e5ed171143f27a289d0f285e5924a73512f2c3100ada2ed6325a8cfeed199a62d4a03a14e3cd0526bf63ef7f755ef23d9b7eb65d2a15"
+      },
+      "path": "mods/[WORLDGEN] Road Architect - Encounters v1.1.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/dLRvLyY3/versions/kaUBSsn2/roadarchitect-1.4.0-neoforge%2B1.21.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 245082,
+      "hashes": {
+        "sha1": "579b246bff3547a2d0a15113775c31602b86c886",
+        "sha512": "915b96e3456caaaa5817167298d3dc7eaafc24eafb09961266df7bd39162b2dc2503ed532affad4ef1501193568fe05f867dd5bf9fc37074c90524326adbf5c1"
+      },
+      "path": "mods/[WORLDGEN] Road Architect v1.4.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/yz7AM2zx/versions/Z1NVSjmI/structurify-neoforge-1.0.21%2Bmc1.21.1.jar"
       ],
       "env": {
@@ -2121,21 +2181,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/2YyNMled/versions/3kR3A2kE/Dramatic%20Skys%20Demo%201.5.3.35.zip"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 11383475,
-      "hashes": {
-        "sha1": "0e518401308ef634b0f552288f8f4d744228ba27",
-        "sha512": "9822eab8b327baae4d849d9d4593597759506aae8cac650e2267b49d97f361d584cb161a8d0c9885d17972544cd62f94c15bbfbf8440abd4d48d8d2995b5c76a"
-      },
-      "path": "resourcepacks/Dramatic Skys.zip"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/AdXxxPfs/versions/ygcCPdIc/Pixelated_v1.3.4_EnhancedVisuals%28nox_cgt%29.zip"
       ],
       "env": {
@@ -2151,21 +2196,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/5QsxmK1S/versions/e51T5DR4/Environmental%20Water%201.20.2-1.21.8.zip"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 55765,
-      "hashes": {
-        "sha1": "593545454f57e4c014509e8a13df6c4092844671",
-        "sha512": "8a7c27c5eb568e17c5203ba1b90126fa5d868e19c4c9cf07a12905bc5afe4af1ae4018dd97f296d2535a97b1cb1aa1767d67698882cb4ccf0cf2ec0589dbed42"
-      },
-      "path": "resourcepacks/Environmental Water.zip"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/USa5LfFr/versions/CaL8zt2J/Excalibur%20Curios%20%26%20Accessories%201.2.zip"
       ],
       "env": {
@@ -2177,7 +2207,7 @@
         "sha1": "75423be8cb55de5f084421d3fa689d190d0d2790",
         "sha512": "a80d056c41691f30ac1531b6b828fe5cfd5c4b9d81673e1ee715ad727068020730e76508c1d2ccab6fd4f8983ac1805d4410e9a79a9624f043e13326ebfa692d"
       },
-      "path": "resourcepacks/Excalibur - Accessories Compat.zip"
+      "path": "resourcepacks/Excalibur - Accessories & Curios Compat.zip"
     },
     {
       "downloads": [
@@ -2334,5 +2364,5 @@
   "game": "minecraft",
   "name": "The Legend of Excalibur",
   "summary": "Immerse yourself in a fantasy medieval world: magic, knights, dragons, and perilous adventures await!",
-  "versionId": "v1.1.0-rc.1"
+  "versionId": "v1.1.0-rc.2"
 }
