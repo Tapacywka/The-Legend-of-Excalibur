@@ -1,0 +1,86 @@
+- Version `v1.1.0` <font color="#1BD96A">**release**</font> is finally here! **٩(｡•́‿•̀｡)۶**
+- This release is based on:
+  - [**NeoForge Loader**](https://projects.neoforged.net/neoforged/neoforge) `v21.1.209`.
+  - [**Fabric Loader**](https://fabricmc.net/) `v0.16.0`.
+  - [**Fabric API**](https://modrinth.com/mod/fabric-api) `v0.115.6`.
+  ---
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**57**):
+  - [**FABRIC**] [**LIBRARY**] **Trinkets**.
+  - [**FABRIC**] **Asahi**.
+  - [**FABRIC**] **Atmosfera**.
+  - [**FABRIC**] **Fancy Toasts**.
+  - [**FABRIC**] **Lambda Better Grass**.
+  - [**FABRIC**] **No Hotbar Looping**.
+  - [**NEOFORGE**] [**LIBRARY**] **Accessories**.
+  - [**NEOFORGE**] [**LIBRARY**] **Bookshelf**.
+  - [**NEOFORGE**] [**LIBRARY**] **Collective**.
+  - [**NEOFORGE**] [**LIBRARY**] **Creative Core**.
+  - [**NEOFORGE**] [**LIBRARY**] **Cristel Lib**.
+  - [**NEOFORGE**] [**LIBRARY**] **Curios API**.
+  - [**NEOFORGE**] [**LIBRARY**] **Groovy Mod Loader**.
+  - [**NEOFORGE**] [**LIBRARY**] **oWo Lib**.
+  - [**NEOFORGE**] [**LIBRARY**] **Prickle**.
+  - [**NEOFORGE**] [**LIBRARY**] **Terra Blender**.
+  - [**NEOFORGE**] [**LIBRARY**] **Yung's API**.
+  - [**NEOFORGE**] **Advancements Reloaded**.
+  - [**NEOFORGE**] **Beltborne Lanterns**.
+  - [**NEOFORGE**] **Better Clouds**.
+  - [**NEOFORGE**] **Easy Anvils**.
+  - [**NEOFORGE**] **Easy Magic**.
+  - [**NEOFORGE**] **Effect Descriptions**.
+  - [**NEOFORGE**] **Effect Timer Plus**.
+  - [**NEOFORGE**] **Enchantment Descriptions**.
+  - [**NEOFORGE**] **Enhanced Visuals**.
+  - [**NEOFORGE**] **First-person Model**.
+  - [**NEOFORGE**] **Fog**.
+  - [**NEOFORGE**] **Hide Experimental Warning**.
+  - [**NEOFORGE**] **Leaves Be Gone**.
+  - [**NEOFORGE**] **Paper Doll**.
+  - [**NEOFORGE**] **Particle Interactions**.
+  - [**NEOFORGE**] **Pick Up Notifier**.
+  - [**NEOFORGE**] **Sound Attract**.
+  - [**NEOFORGE**] **Traveler's Titles**.
+  - [**NEOFORGE**] **Visual Workbench**.
+  - [**PATCHES**] **Accessories: Compat Layer**.
+  - [**PATCHES**] **Accessories: Beltborne Lanterns Layer**.
+  - [**PATCHES**] **Attribute Fix**.
+  - [**PATCHES**] **Max Health Fix**.
+  - [**QOL**] **Nature's Compass**.
+  - [**QOL**] **Explorer's Compass**.
+  - [**QOL**] **Xaero's World Map**.
+  - [**QOL**] **Xaero's Minimap**.
+  - [**WORLDGEN**] **Amplified Nether**.
+  - [**WORLDGEN**] **Biome Replacer**.
+  - [**WORLDGEN**] **Chunky**.
+  - [**WORLDGEN**] **Chunky: Border**.
+  - [**WORLDGEN**] **Luki's Grand Capitals**.
+  - [**WORLDGEN**] **Luki's Ancient Cities**.
+  - [**WORLDGEN**] **Luki's Crazy Chambers**.
+  - [**WORLDGEN**] **Nullscape**.
+  - [**WORLDGEN**] **Road Architect**.
+  - [**WORLDGEN**] **Road Architect: Encounters**.
+  - [**WORLDGEN**] **Structurify**.
+  - [**WORLDGEN**] **Terralith**.
+  - [**WORLDGEN**] **Terralith: Remove Intro Message**.
+- The following resourcepacks have been added (**1**):
+  - **The Legend of Excalibur**.
+- The following compatibility patches have been added (**7**):
+  - [**Enhanced Visuals**] **Pixelated**.
+  - [**Excalibur**] **Accessories & Curios Compat**.
+  - [**Excalibur**] **Easy Anvils Compat**.
+  - [**Excalibur**] **Nature's Compass Compat**.
+  - [**Excalibur**] **Explorer's Compass Compat**.
+  - [**Excalibur**] **Iris Compat**.
+  - [**Terralith**] **Unidentified Biomes**.
+---
+## <font color="#ff0000">Removed</font>
+- The following mods have been removed (**6**):
+  - **Alternate Current**.
+  - **Dynamic Surroundings**.
+  - **Flerovium**.
+  - **Kium Optimizer**.
+  - **Remove Reloading Screen**.
+  - **Spiffy HUD**.
+- The following resourcepacks have been removed (**1**):
+  - **Dramatic Sky's**.
