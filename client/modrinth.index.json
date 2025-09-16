@@ -145,7 +145,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 133580,
       "hashes": {
@@ -430,7 +430,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 64186,
       "hashes": {
@@ -918,6 +918,21 @@
         "sha512": "34c0250ab119e7d83eb069433315883a572cd197d025dcc043c5f7e399c1e350addd79aed756da0bda87cc76add1a8747c5f69293ec2b9278b0348a1c15cdb32"
       },
       "path": "mods/[NEOFORGE] Lithium v0.15.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/EltpO5cN/versions/QMRmPuOh/lootr-neoforge-1.21-1.10.35.91.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 560194,
+      "hashes": {
+        "sha1": "5cab9696c4e43e67334843ef0539738c9f4a49a0",
+        "sha512": "0bc76fd2bec843a357e2443b78c40c5811f73b068fead044bd619c50611a8d2eaf4b82e47c1f6894f7da6af2130992506c40d6c5fc334fe4d6ffaaabb4eaae06"
+      },
+      "path": "mods/[NEOFORGE] Lootr v1.10.35.91.jar"
     },
     {
       "downloads": [
@@ -1431,18 +1446,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/OsZiaDHq/versions/M0hcwEit/CreativeCore_NEOFORGE_v2.13.12_mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/OsZiaDHq/versions/V1tOX3OK/CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1199123,
+      "fileSize": 1199290,
       "hashes": {
-        "sha1": "88f05e6969ad6070bf0769b9fe6b6353168c9688",
-        "sha512": "079f3fbf57f9d28ce1601fe17db99cc8f10b6a9ec7dd2234d6c2b8f6e01f72c98ad9d1e43b8687f0ebe29f3e8000dc09e7f5fd7c2836e8c030e8b0a215586602"
+        "sha1": "8aa6b128a44e5a239e3878d55581e59fb7af6749",
+        "sha512": "7f7dc2cfd229c32761f9f62dda1274fc03ab5f8d631eedc0bafa7d70dd5cbf71c1d4fc0238b8c75ae94452d5bd160cf0f77e564364aff5bc2b23963c33cb6474"
       },
-      "path": "mods/[NEOFORGE] [LIBRARY] Creative Core v2.13.12.jar"
+      "path": "mods/[NEOFORGE] [LIBRARY] Creative Core v2.13.13.jar"
     },
     {
       "downloads": [
@@ -2346,6 +2361,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/dzo7g60I/versions/KyYDwuXI/Excalibur_Lootr_v1.1.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 77791,
+      "hashes": {
+        "sha1": "9a9b09afc6b3701bd8878336dad843fc4eaba25d",
+        "sha512": "1c5110a51426871d7cd5dff2fb2b6c78d6cb4183fb895f1c2a3bb5cb11e64b8b06ce3cf04e2fd798d782ee7311dd92cfaa14525dc7441c1c4b6906438efa948f"
+      },
+      "path": "resourcepacks/Excalibur - Lootr Compat.zip"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/diKCt1V1/versions/J4VO9SA7/Excalibur%20Modern%20World%20Creation%20v1.0.zip"
       ],
       "env": {
@@ -2454,5 +2484,5 @@
   "game": "minecraft",
   "name": "The Legend of Excalibur",
   "summary": "Immerse yourself in a fantasy medieval world: magic, knights, dragons, and perilous adventures await!",
-  "versionId": "v1.1.0-release"
+  "versionId": "v1.2.0-dev.1"
 }

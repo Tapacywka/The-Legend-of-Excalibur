@@ -16,6 +16,7 @@
     "file/Fresh Moves.zip",
     "file/Excalibur - Accessories & Curios Compat.zip",
     "file/Excalibur - Better ModList Compat.zip",
+    "file/Excalibur - Lootr Compat.zip",
     "file/Excalibur - Modern World Creation Compat.zip",
     "file/Excalibur - Overflowing Bars Compat.zip",
     "file/Excalibur - Raised Compat.zip",
@@ -42,6 +43,7 @@
     "left_side_disabled": [
       "programmer_art",
       "high_contrast",
+      "mod/lootr:resourcepacks/old_textures",
       "continuity:glass_pane_culling_fix"
     ],
     "right_side_disabled": [
@@ -59,6 +61,7 @@
       "file/Fresh Moves.zip",
       "file/Excalibur - Accessories & Curios Compat.zip",
       "file/Excalibur - Better ModList Compat.zip",
+      "file/Excalibur - Lootr Compat.zip",
       "file/Excalibur - Modern World Creation Compat.zip",
       "file/Excalibur - Overflowing Bars Compat.zip",
       "file/Excalibur - Raised Compat.zip",

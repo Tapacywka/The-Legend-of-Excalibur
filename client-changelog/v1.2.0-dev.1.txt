@@ -1,0 +1,10 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**1**):
+  - [**NEOFORGE**] **Lootr**.
+- The following compatibility patches have been added (**1**):
+  - [**Excalibur**] **Lootr Compat**.
+---
+## <font color="#ff9900">Changed</font>
+- The following mods have been updated (**1**):
+  - [**NEOFORGE**] [**LIBRARY**] **Creative Core**.
+- The approach to future modpack updates has been changed.
