@@ -1,6 +1,11 @@
 {
   "version": 1,
   "overrides": {
+    "fancytoasts": {
+      "depends": {
+        "fabricloader": "*"
+      }
+    },
     "lambdynlights": {
       "-recommends": {
         "modmenu": "*"

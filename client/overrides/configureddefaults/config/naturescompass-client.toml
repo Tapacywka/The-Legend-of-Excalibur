@@ -1,0 +1,4 @@
+[Client]
+	displayWithChatOpen = false
+	overlaySide = "RIGHT"
+	overlayLineOffset = 3
