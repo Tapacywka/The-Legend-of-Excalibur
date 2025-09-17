@@ -1,0 +1,10 @@
+{
+  "general": {
+    "enableAccessibilityPlugin": true,
+    "displayBosses": false,
+    "displayEntities": false
+  },
+  "overlay": {
+    "overlayPosY": 0.99351853
+  }
+}

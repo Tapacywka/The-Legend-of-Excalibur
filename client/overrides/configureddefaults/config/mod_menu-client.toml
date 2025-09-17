@@ -57,6 +57,7 @@ mod_badges = [
 	"emixx=!sinytra_neoforge, qol",
 	"emiprofessions=!sinytra_neoforge, qol",
 	"toomanyrecipeviewers=!sinytra_neoforge, qol",
+	"jade=!sinytra_neoforge, qol",
 	"naturescompass=!sinytra_neoforge, qol",
 	"explorerscompass=!sinytra_neoforge, qol",
 	"xaeroworldmap=!sinytra_neoforge, qol",

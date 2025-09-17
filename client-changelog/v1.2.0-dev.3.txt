@@ -1,0 +1,5 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**1**):
+  - [**QOL**] **Jade**.
+- The following compatibility patches have been added (**1**):
+  - [**Excalibur**] **Jade Compat**.
