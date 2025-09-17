@@ -1,0 +1,13 @@
+#ui {
+	recipe-book-action: toggle-visibility;
+	append-mod-id: false;
+	append-item-mod-id: false;
+	emi-config-button-visibility: hidden;
+	recipe-tree-button-visibility: hidden;
+	left-sidebar-pages: craftables, favorites;
+	left-sidebar-size: 8, 7;
+	left-sidebar-align: right, center;
+	left-sidebar-theme: vanilla;
+	right-sidebar-pages: index;
+	right-sidebar-theme: modern;
+}

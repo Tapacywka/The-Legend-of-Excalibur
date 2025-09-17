@@ -1,0 +1,26 @@
+{
+  "layers": {
+    "explorerscompass:explorers_compass": {
+      "displacement": {
+        "x": 95,
+        "y": 10
+      },
+      "direction": {
+        "x": "RIGHT",
+        "y": "DOWN"
+      },
+      "sync": "explorerscompass:explorers_compass"
+    },
+    "naturescompass:natures_compass": {
+      "displacement": {
+        "x": 95,
+        "y": 10
+      },
+      "direction": {
+        "x": "RIGHT",
+        "y": "DOWN"
+      },
+      "sync": "naturescompass:natures_compass"
+    }
+  }
+}

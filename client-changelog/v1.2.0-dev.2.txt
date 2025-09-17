@@ -1,0 +1,23 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**9**):
+  - [**QOL**] **EMI**.
+    - [**QOL**] **EMI: Effects**.
+    - [**QOL**] **EMI: Enchantings**.
+    - [**QOL**] **EMI: Extras**.
+    - [**QOL**] **EMI: Loots**.
+    - [**QOL**] **EMI: Ores**.
+    - [**QOL**] **EMI: Plus**.
+    - [**QOL**] **EMI: Professions**.
+    - [**QOL**] **EMI: Too Many Recipe Viewers**.
+- The following compatibility patches have been added (**1**):
+  - [**Excalibur**] **EMI Compat**.
+---
+## <font color="#ff9900">Changed</font>
+- The following mods have been updated (**1**):
+  - [**NEOFORGE**] **Enhanced Visuals**.
+- The **Recipe Book** was replaced with a cute sleeping fox.
+- Fixed the position of the **Nature's** and **Explorer's** compasses.
+---
+## <font color="#ff0000">Removed</font>
+- The following mods have been removed (**1**):
+  - **Paper Doll**.

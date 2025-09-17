@@ -666,18 +666,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/KjL0jE2w/versions/Urbj5ELr/EnhancedVisuals_NEOFORGE_v1.8.23_mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/KjL0jE2w/versions/Hmd633Bm/EnhancedVisuals_NEOFORGE_v1.8.25_mc1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 4728864,
+      "fileSize": 4728886,
       "hashes": {
-        "sha1": "3f5d8ae02f5a098c64436fe008afc6b9a8966625",
-        "sha512": "ba0d5dccab97b7616281be543b1ec642e48b3b14222ab1eb52e4e6c33b27344d1d8fa84d54f27239acc8718ce1dcd7223adb8edff2d3abfe9e33a6ac8da6e943"
+        "sha1": "0d5d5ea39036b8b1b8dd7ba4bf4aeeacf562f9fd",
+        "sha512": "62314f2b09ff82e4beca78a574275bd445bc229a6ebded4db38673b95f53ad4482da40a76c12a144f0010791146a34362d7852b2aedafe4d16a0b3e7f345121c"
       },
-      "path": "mods/[NEOFORGE] Enhanced Visuals v1.8.23.jar"
+      "path": "mods/[NEOFORGE] Enhanced Visuals v1.8.25.jar"
     },
     {
       "downloads": [
@@ -1053,21 +1053,6 @@
         "sha512": "2962a12664e24711096d9be98bfda2ae0b86c5050d0860a36b3567870d794767d308328060c6fbe4f4854b569d97ce465b8b250775f3ae7a5d0a563f342a4136"
       },
       "path": "mods/[NEOFORGE] Overflowing Bars v21.1.1.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/edwFXb9k/versions/QYUqwD9l/paperdoll-neoforge-1.3.1-mc1.21.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "fileSize": 631995,
-      "hashes": {
-        "sha1": "50c14264ae0571b04cbe830e8f529fd2ce695a0e",
-        "sha512": "5b84731db722e98387f573e01d7030c27ad54f970336baab2cdddfcbe5b131fcdc62f7d9a5da848ab9469c383d1b087da298a5ceefb86d6f45d3bc62ac117955"
-      },
-      "path": "mods/[NEOFORGE] Paper Doll v1.3.1.jar"
     },
     {
       "downloads": [
@@ -1986,6 +1971,141 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/705gWllI/versions/8t6Kpge9/emiffect-neoforge-2.1.5%2Bmc1.21.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 38569,
+      "hashes": {
+        "sha1": "4d48dec751310a0221254aca09d6325530e60731",
+        "sha512": "f5cc9936e0beccb578814cbb5fd343f1e49fd74d9f157a4314bf6643b4d5fd555dc28975daeb9013918a4ba20c1d50d9f0de779d72f26189599fce41f9202bc8"
+      },
+      "path": "mods/[QOL] EMI - Effects v2.1.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/wbWoo11W/versions/ZyJ6TKvh/emi_enchanting-0.1.2%2B1.21%2Bneoforge.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 15680,
+      "hashes": {
+        "sha1": "02ad74769ffcec259fd9bb14a1760593f6182b5c",
+        "sha512": "90944c8ff897fa98d0323fe94e4053fb89f43cbaf4fd28d6ad58134cea1469c9398e0c0edd4328a5530e1578ad2286ec5822292bf9c587182e5606dbfff218be"
+      },
+      "path": "mods/[QOL] EMI - Enchantings v0.1.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/bpRHnWUb/versions/bxgGyUjY/extra-mod-integrations-all-neoforge-1.0.3%2B1.21.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 316330,
+      "hashes": {
+        "sha1": "70429571ccf7faa4c1811092739fb7d645829eef",
+        "sha512": "9267359eefc56bdb1eca2992cba12363f54f974f27ca2031ecb0677ba4c3bcd1d563db94dd569bbdf085a8b890cd7aa681ae6f485859051565b6a2cf50adc4c8"
+      },
+      "path": "mods/[QOL] EMI - Extras v1.0.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/qbbO7Jns/versions/ZCSyd1co/emi_loot-0.7.6%2B1.21%2Bneoforge.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 447734,
+      "hashes": {
+        "sha1": "5429623ee1e27c6d4e820c0514233089140fd48c",
+        "sha512": "273dce3dc8746c664f95cd97f2afc8f32684dd107c69daacd40c514574207d856a9edf6133cb1529cf7c50d6fbc16f30028a9ecb8137162d29f52567cdc4c564"
+      },
+      "path": "mods/[QOL] EMI - Loots v0.7.6.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/sG4TqDb8/versions/1jY6MIrK/emi_ores-1.2%2B1.21.1%2Bneoforge.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 111317,
+      "hashes": {
+        "sha1": "2326620a11ad9ca463ef3a8cfa7d8f5ae169b756",
+        "sha512": "7b01dd29400802a18e3f23bcc2057e12070d28529bf358306758b462d69ab0532aa392a4b683cb0f5cf1a20f09e5f0d965f90923e72fb2fd6476f63a55a210a7"
+      },
+      "path": "mods/[QOL] EMI - Ores v1.2.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/AWMWYMwC/versions/sdRUQHCL/emixx-neoforge-1.2.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 207208,
+      "hashes": {
+        "sha1": "5bfd6ca144cd6cf72c6df9a9ab400403ca774e79",
+        "sha512": "15eb94d5c2be00f06a96a45a68fc2fe3171f60c87c26d2ebf4ef359271f8b0ee3995f281af17e2b228ab543770ec2d8b486c98f0fe4b511c168a4c0c0e30db40"
+      },
+      "path": "mods/[QOL] EMI - Plus v1.2.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/LGVihYcz/versions/wGOa5uxT/EMIProfessions-neoforge-1.21.1-1.0.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 23543,
+      "hashes": {
+        "sha1": "db869b08e5d86188a259b2dfeeece6f94ea17630",
+        "sha512": "f720f58590e3098459c27e3579f36a00b66443b7c089e3fa9ef1399ed17587d51b046c69e2f07f6e21089fc85d58881a5b224d94a1b2f4738a0c6cbb2dd9c798"
+      },
+      "path": "mods/[QOL] EMI - Professions v1.0.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/yFypjcfd/versions/fXV6MZxz/toomanyrecipeviewers-0.6.3%2Bmc.21.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 1133232,
+      "hashes": {
+        "sha1": "ffce967d811b0a9b3f247eb2f05b5b5305286094",
+        "sha512": "4fb15667939effbb77c9d0f19ba50f4ef6de90829bd4688494ff28da6cc9c9d53418107558c8433c6c527cca21ddec8e70b4c0292fcf09b831d45aedbca79ab5"
+      },
+      "path": "mods/[QOL] EMI - Too Many Recipe Viewers v0.6.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/fRiHVvU7/versions/ouSj7NfF/emi-1.1.22%2B1.21.1%2Bneoforge.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1038248,
+      "hashes": {
+        "sha1": "cbbd038194cd63249db185c53b1d50a1767f80a3",
+        "sha512": "6b4f2b93ccd40bbbf3d1f368a9d92b43777543c44243a76ed4010bd563a7f9658decdd58a3d79a3cdc04a288bf98e327a1cce93a5a9d2b8840306578fe633bca"
+      },
+      "path": "mods/[QOL] EMI v1.1.22.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/RV1qfVQ8/versions/EpWAw9bz/ExplorersCompass-1.21.1-3.0.3-neoforge.jar"
       ],
       "env": {
@@ -2391,16 +2511,16 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/9UR2ezCV/versions/Eyu4TwWU/Excalibur%20Overflowing%20Bars%20v1.1.zip"
+        "https://cdn.modrinth.com/data/9UR2ezCV/versions/HkkKj8y7/Excalibur%20Overflowing%20Bars%20v1.2.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 9169,
+      "fileSize": 9164,
       "hashes": {
-        "sha1": "191ad6afa38a1ad50bc103b1123e85958e908b43",
-        "sha512": "e50473405f9e41446be79b90479c8192c967a2e0917d7663706344318ab7d9d21f0883b2e0d9cea17b50bd5f0b2dc99581110ccf9ef3839022f4b95d89163cce"
+        "sha1": "79f99337ef6cb7d663cc16412830dc988a6b18a7",
+        "sha512": "1d88b1dcfb0a41bc1e9da2d7a79274f066f38fe9f3964debd246244dc7a05e13db319c5ac8a383bd1e024edf2ccde5c6c98d481c8654e9c6d60dde7574366da8"
       },
       "path": "resourcepacks/Excalibur - Overflowing Bars Compat.zip"
     },
@@ -2484,5 +2604,5 @@
   "game": "minecraft",
   "name": "The Legend of Excalibur",
   "summary": "Immerse yourself in a fantasy medieval world: magic, knights, dragons, and perilous adventures await!",
-  "versionId": "v1.2.0-dev.1"
+  "versionId": "v1.2.0-dev.2"
 }
