@@ -1,0 +1,36 @@
+[camera]
+	decoupled_camera = true
+
+	[camera.offset]
+		offset_x = 0.0
+
+			[camera.offset.modifiers.aiming]
+				modifier_offset_x = -1.0
+				modifier_offset_z = -1.75
+
+[perspective]
+	replace_default_perspective = true
+	third_person_front_enabled = false
+
+[player]
+	adjust_player_transparency = false
+	player_y_rot_follows_camera = true
+	player_y_rot_follow_angle_limit = 15.0
+
+	[player.turning]
+		when_using_item = "NEVER"
+		when_attacking = "NEVER"
+		when_interacting = "NEVER"
+		when_picking = "NEVER"
+		turning_lock_time = 20
+
+[object_picker]
+	[object_picker.pick_vector]
+		pick_vector = "PLAYER"
+
+[crosshair]
+	crosshair_type = "DYNAMIC"
+
+	[crosshair.visibility]
+		first_person = "WHEN_AIMING_OR_IN_RANGE"
+		shoulder_surfing = "WHEN_AIMING"

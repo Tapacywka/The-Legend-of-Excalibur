@@ -1,4 +1,9 @@
 {
+  "minecraft": {
+    "item_storage": false,
+    "energy_storage": false,
+    "fluid_storage": false
+  },
   "jade": {
     "mod_name": false
   }

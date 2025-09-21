@@ -1,0 +1,26 @@
+## <font color="#00ff00">Added</font>
+- The following mods have been added (**6**):
+  - [**NEOFORGE**] [**LIBRARY**] **Library Ferret**.
+  - [**NEOFORGE**] **Dynamic Crosshair**.
+  - [**NEOFORGE**] **Fancy Toasts**.
+  - [**NEOFORGE**] **Shoulder Surfing: Reloaded**.
+  - [**WORLDGEN**] **Awesome Dungeons**.
+  - [**WORLDGEN**] **Better Villages**.
+---
+## <font color="#ff9900">Changed</font>
+- The following mods have been updated (**7**):
+  - [**CORE**] **Forgified Fabric API**.
+  - [**FABRIC**] **Lamb Dynamic Lights**.
+  - [**NEOFORGE**] [**LIBRARY**] **Accessories**.
+  - [**NEOFORGE**] [**LIBRARY**] **Configurable**.
+  - [**NEOFORGE**] **Sound Physics: Remastered**.
+  - [**PATCHES**] **Accessories: Compat Layer**.
+  - [**WORLDGEN**] **Road Architect**.
+- The following resourcepacks have been updated (**1**):
+  - [**Excalibur**] **Clarent Edition**.
+---
+## <font color="#ff0000">Removed</font>
+- The following mods have been removed (**3**):
+  - **Luki's Ancient Cities**.
+  - **Luki's Crazy Chambers**.
+  - **Luki's Grand Capitals**.

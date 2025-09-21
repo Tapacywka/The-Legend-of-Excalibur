@@ -1,6 +1,5 @@
 {
   "general": {
-    "enableAccessibilityPlugin": true,
     "displayBosses": false,
     "displayEntities": false
   },
