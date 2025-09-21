@@ -17,35 +17,6 @@
 
 ---
 
-## 🎯 <font color="#ff9900">Planned Features:</font>
-
-- *(What do these icons mean? ✅ - Done | 🔄 - In progress | ⏳ - Will appear later)*
-
-- ⚙️ ~~**Basic stable core**~~ ✅ *(released in `v1.0.0-release`)*
-
-- 🏕️ ~~**Next-Gen World Generation**~~ ✅ *(released in `v1.1.0-release`)*
-  - `Amplified Nether` ✅
-  - `Luki's Structures` ✅
-  - `Nullscape`✅
-  - `Road Architect`✅
-  - `Terralith` ✅
-
-- 🏞️ **New Dimensions & Legendary Structures**
-  - `Deeper and Darker` ⏳
-  - `The Aether` 🔄
-  - `The Twilight Forest` ⏳
-
-- 🏹 **Combat & RPG Progression**
-  - `Better Combat` 🔄
-  - `Bosses' Rise` ⏳
-  - `More RPG Classes` 🔄
-  - `Pufferfish's Skills` ⏳
-  - `RPG Series Mods` 🔄
-
-- 🏰 **And much more! Stay tuned!**
-
----
-
 ## 💡 <font color="#ff9900">Additional Info</font>
 
 - 🛎️ This modpack is actively developed and will receive regular updates and new content mods.
