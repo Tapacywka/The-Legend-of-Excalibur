@@ -2,11 +2,12 @@
 	decoupled_camera = true
 
 	[camera.offset]
-		offset_x = 0.0
+		offset_x = -1.0
+		offset_y = 0.5
+		offset_z = 5.0
 
-			[camera.offset.modifiers.aiming]
-				modifier_offset_x = -1.0
-				modifier_offset_z = -1.75
+			[camera.offset.multiplier.climbing]
+				multiplier_offset_x = 1.0
 
 [perspective]
 	replace_default_perspective = true

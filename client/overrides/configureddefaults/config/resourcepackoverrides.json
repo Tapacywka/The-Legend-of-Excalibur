@@ -2,8 +2,9 @@
   "schema_version": 2,
   "failed_reloads_per_session": 5,
   "default_packs": [
-    "fabric",
+    "vanilla",
     "mod_resources",
+    "fabric",
     "continuity:default",
     "lambdabettergrass:default",
     "atmosfera:dungeons",
@@ -17,10 +18,15 @@
     "file/Excalibur - Accessories & Curios Compat.zip",
     "file/Excalibur - Better ModList Compat.zip",
     "file/Excalibur - Lootr Compat.zip",
+    "file/Excalibur - Minecraft Cursor Compat.zip",
     "file/Excalibur - Modern World Creation Compat.zip",
     "file/Excalibur - Overflowing Bars Compat.zip",
     "file/Excalibur - Raised Compat.zip",
-    "file/Enhanced Visuals - Pixelated.zip"
+    "file/Excalibur - Variants and Ventures Compat.zip",
+    "file/Enhanced Visuals - Pixelated.zip",
+    "file/Angels Font.zip",
+    "file/Angels Weather.zip",
+    "file/RPG Series - Icons.zip"
   ],
   "default_overrides": {},
   "pack_overrides": {
@@ -47,8 +53,8 @@
       "continuity:glass_pane_culling_fix"
     ],
     "right_side_disabled": [
-      "fabric",
       "mod_resources",
+      "fabric",
       "continuity:default",
       "lambdabettergrass:default",
       "atmosfera:dungeons",
@@ -62,10 +68,15 @@
       "file/Excalibur - Accessories & Curios Compat.zip",
       "file/Excalibur - Better ModList Compat.zip",
       "file/Excalibur - Lootr Compat.zip",
+      "file/Excalibur - Minecraft Cursor Compat.zip",
       "file/Excalibur - Modern World Creation Compat.zip",
       "file/Excalibur - Overflowing Bars Compat.zip",
       "file/Excalibur - Raised Compat.zip",
-      "file/Enhanced Visuals - Pixelated.zip"
+      "file/Excalibur - Variants and Ventures Compat.zip",
+      "file/Enhanced Visuals - Pixelated.zip",
+      "file/Angels Font.zip",
+      "file/Angels Weather.zip",
+      "file/RPG Series - Icons.zip"
     ],
     "$$left_side_disabled": {
       "force_compatible": true,

@@ -20,7 +20,7 @@ customization {
 
 element {
   interactable = false
-  source = Minecraft {"placeholder":"mcversion"}%n%{"placeholder":"loadername"} {"placeholder":"loaderver"}%n%Fabric Loader 0.16.0%n%Fabric API 0.115.6
+  source = Minecraft {"placeholder":"mcversion"}%n%{"placeholder":"loadername"} {"placeholder":"loaderver"}%n%Fabric Loader 0.17.2%n%Fabric API 0.115.6
   enable_scrolling = false
   element_type = text_v2
   anchor_point = bottom-left

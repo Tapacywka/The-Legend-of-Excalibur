@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_right": [
       {
-        "text": "The Legend of Excalibur (v1.2.0-dev.4)",
+        "text": "The Legend of Excalibur (v1.2.0 Development 5)",
         "clickEvent": {
           "action": "open_url",
           "value": "https://modrinth.com/modpack/The-Legend-of-Excalibur"

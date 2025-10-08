@@ -1,3 +1,7 @@
+#general {
+	enabled: false;
+}
+
 #ui {
 	recipe-book-action: toggle-visibility;
 	append-mod-id: false;
