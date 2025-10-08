@@ -1,0 +1,19 @@
+## <font color="#00ff00">Added</font>
+- Added **Better Combat** and **Combat Roll** mods.
+- Added **Spell Engine** and all **RPG Series** mods.
+- Added **Puffish Skills** and **Skill Tree** mods.
+- Added **Gazebos** and **Village Taverns** mods.
+- Added support for **Excalibur**-style cursors.
+- Added new beautiful fantasy medieval **Angel's Font**.
+  - *(including support for **English** and **Russian**)*
+---
+## <font color="#ff9900">Changed</font>
+- **Enhanced Tooltips** mod has been replaced.
+  - *(with **Tooltip Overhaul**)*
+- **More Cursors** mod has been replaced.
+  - *(with **Minecraft Cursor**)*
+- Thanks to **Angel's Weather**, visual effects have been given a new lease of life: rain, snow, realistic rain sounds, realistic thunder sounds, rain splash sounds, ambient sounds, animated rain splashes, hand-designed clouds, redesigned biome vegetation color palettes, biome fog colors, biome sky colors, cloud shading, water colors, rain particle system, wind system, and space-aware fog.
+---
+## <font color="#ff0000">Removed</font>
+- Removed **Fog** and **Particle Rain** mods.
+  - *(**Angel's Weather** completely replaces them)*
