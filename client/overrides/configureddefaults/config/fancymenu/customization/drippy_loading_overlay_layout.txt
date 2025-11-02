@@ -24,8 +24,8 @@ menu_background {
 }
 
 element {
-  bar_texture = [source:local]/config/fancymenu/assets/loading_bar_progress.png
-  background_texture = [source:local]/config/fancymenu/assets/loading_bar_empty.png
+  bar_texture = [source:local]/config/fancymenu/assets/loading_progress.png
+  background_texture = [source:local]/config/fancymenu/assets/loading_empty.png
   progress_source = {"placeholder":"game_loading_progress"}
   element_type = progress_bar
   x = -200

@@ -1,0 +1,10 @@
+## <font color="#00ff00">Added</font>
+- Added **Clavis** and **Ixeris** mods.
+- When cutting down a tree from the **Terralith** mod, custom tree saplings will drop instead of vanilla ones.
+---
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.213`.
+- Many different config files have been changed.
+---
+## <font color="#ff0000">Removed</font>
+- Removed **Asahi**, **Biome Replacer**, **Biome Spawn Point**, **Chunks Fade In**, **Dynamic Crosshair**, **Hold My Items**, **Road Architect**, **Structurify** and **Village Spawn Point** mods.

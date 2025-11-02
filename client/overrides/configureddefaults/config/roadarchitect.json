@@ -1,7 +1,0 @@
-{
-  "initScanRadius": 20,
-  "chunkGenerateScanRadius": 10,
-  "terrainAnalyzer": {
-    "enabled": true
-  }
-}

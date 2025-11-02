@@ -1,29 +1,5 @@
 {
   "mapVanillaElements": {
-    "minecraft:experience_bar": {
-      "enabled": {
-        "value": "OFF"
-      },
-      "pass": 2
-    },
-    "minecraft:jump_meter": {
-      "enabled": {
-        "value": "OFF"
-      },
-      "pass": 2
-    },
-    "minecraft:hotbar": {
-      "enabled": {
-        "value": "OFF"
-      },
-      "pass": 1
-    },
-    "minecraft:title": {
-      "enabled": {
-        "value": "OFF"
-      },
-      "pass": 3
-    },
     "shouldersurfing:pre_crosshair": {
       "enabled": {
         "value": "OFF"
@@ -31,24 +7,6 @@
       "pass": 1
     },
     "shouldersurfing:post_crosshair": {
-      "enabled": {
-        "value": "OFF"
-      },
-      "pass": 1
-    },
-    "spell_engine:spell_hud": {
-      "enabled": {
-        "value": "OFF"
-      },
-      "pass": 3
-    },
-    "travelerstitles:overlay": {
-      "enabled": {
-        "value": "OFF"
-      },
-      "pass": 4
-    },
-    "xaerohud:hud": {
       "enabled": {
         "value": "OFF"
       },

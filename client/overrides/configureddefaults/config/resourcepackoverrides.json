@@ -24,9 +24,9 @@
     "file/Excalibur - Raised Compat.zip",
     "file/Excalibur - Variants and Ventures Compat.zip",
     "file/Enhanced Visuals - Pixelated.zip",
-    "file/Angels Font.zip",
+    "file/RPG Series - Icons.zip",
     "file/Angels Weather.zip",
-    "file/RPG Series - Icons.zip"
+    "file/Angels Font.zip"
   ],
   "default_overrides": {},
   "pack_overrides": {
@@ -50,6 +50,7 @@
       "programmer_art",
       "high_contrast",
       "mod/lootr:resourcepacks/old_textures",
+      "mod/minecraft_cursor:resourcepacks/cursors_extended",
       "continuity:glass_pane_culling_fix"
     ],
     "right_side_disabled": [
@@ -74,9 +75,9 @@
       "file/Excalibur - Raised Compat.zip",
       "file/Excalibur - Variants and Ventures Compat.zip",
       "file/Enhanced Visuals - Pixelated.zip",
-      "file/Angels Font.zip",
+      "file/RPG Series - Icons.zip",
       "file/Angels Weather.zip",
-      "file/RPG Series - Icons.zip"
+      "file/Angels Font.zip"
     ],
     "$$left_side_disabled": {
       "force_compatible": true,

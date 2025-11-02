@@ -1,9 +1,7 @@
 {
-  "xOffset": 16,
-  "sneakXOffset": 16,
-  "sitXOffset": 16,
+  "xOffset": 12,
+  "sneakXOffset": 12,
+  "sitXOffset": 12,
   "renderStuckFeatures": false,
-  "vanillaHandsMode": "ALL",
-  "dynamicMode": false,
-  "vanillaHandsSkipSwimming": false
+  "vanillaHandsMode": "ITEMS"
 }
