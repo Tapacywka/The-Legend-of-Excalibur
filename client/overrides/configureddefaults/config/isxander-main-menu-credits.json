@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_right": [
       {
-        "text": "The Legend of Excalibur (v1.2.0 Development 6)",
+        "text": "The Legend of Excalibur (v1.2.0 Development 7)",
         "clickEvent": {
           "action": "open_url",
           "value": "https://modrinth.com/modpack/The-Legend-of-Excalibur"
@@ -14,14 +14,12 @@
     "bottom_left": [
       {
         "translate": "tloe.pause_menu.bottom_left",
-        "fallback": "This is under development and is not indicative of the final product.",
         "color": "gray"
       }
     ],
     "bottom_right": [
       {
-        "translate": "tloe.pause_menu.bottom_right",
-        "fallback": "The Legend of Excalibur (v1.2.0 Development 6)",
+        "translate": "The Legend of Excalibur (v1.2.0 Development 7)",
         "color": "gray"
       }
     ]

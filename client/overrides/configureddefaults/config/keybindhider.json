@@ -1,7 +1,6 @@
 {
   "hiddenCategories": [],
   "hiddenKeybinds": [
-    "chunksfadein.keybinds.toggleMod",
     "gnetum.config.keyMapping",
     "gui.xaero_alternative_list_players",
     "gui.xaero_display_all_sets",
@@ -63,7 +62,6 @@
     "key.presencefootsteps.settings",
     "key.presencefootsteps.toggle",
     "key.raised.options",
-    "key.roadarchitect.debug",
     "key.saveToolbarActivator",
     "key.shouldersurfing.adjust_camera_down",
     "key.shouldersurfing.adjust_camera_in",
