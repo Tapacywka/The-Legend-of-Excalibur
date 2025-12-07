@@ -40,6 +40,7 @@
     "key.dynamic_fps.toggle_disabled",
     "key.dynamic_fps.toggle_forced",
     "key.entityculling.toggle",
+    "key.fancytoasts.config_menu",
     "key.fbp.add_to_blacklist",
     "key.fbp.freeze_particles",
     "key.fbp.kill_particles",

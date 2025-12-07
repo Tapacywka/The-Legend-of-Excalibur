@@ -5,4 +5,4 @@ defaultGlobalExecutorParallelismExpression = "max(1,min(if(is_client,(cpus/2.66+
 		maxViewDistance = 256
 
 [noTickViewDistance]
-	maxConcurrentChunkLoads = 12
+	maxConcurrentChunkLoads = 128

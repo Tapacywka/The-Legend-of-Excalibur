@@ -17,7 +17,7 @@
         "sha1": "32437ed295f63b25fe7d974c875c267436c75637",
         "sha512": "eb035404a0ab03bc05483af96d7fbe24c08eaefce5c80932a52a0c73b8155b5227b2953c229b78e8c6d8b527d808d34699267b789dddbb8107bd971263b18a6d"
       },
-      "path": "mods/[ADDITIONS] Accessories - Beltborne Lanterns Layer v1.0.4.jar"
+      "path": "mods/[ADDITION] Accessories - Beltborne Lanterns Layer v1.0.4.jar"
     },
     {
       "downloads": [
@@ -32,7 +32,7 @@
         "sha1": "81075dd9ba87a5e2814548e9e3ab20001f0a06de",
         "sha512": "d53e77c2650c74beb90c242eae85413d6607a4253ef55cddb4e98565786f3591c4d27f5316ecf6b9d9f1878368e0c132f670f95d7e9a9a6eb0967be297b4b5e5"
       },
-      "path": "mods/[ADDITIONS] Accessories - Compat Layer v0.1.10.jar"
+      "path": "mods/[ADDITION] Accessories - Compat Layer v0.1.10.jar"
     },
     {
       "downloads": [
@@ -47,7 +47,7 @@
         "sha1": "f96d1e3a794b3caf1b2210686bef7519d82cfe39",
         "sha512": "8b977c0ec294b0403ddff1b99ce914701e917d5c627623a53496deb26aa57f19b23612512fb16f5592880ed45e3d7159bc36dc0ff27220c45235916fa358b01f"
       },
-      "path": "mods/[ADDITIONS] Archers - Expansion v1.4.2.jar"
+      "path": "mods/[ADDITION] Archers - Expansion v1.4.2.jar"
     },
     {
       "downloads": [
@@ -62,7 +62,7 @@
         "sha1": "95cc2087f3326a9a455eab5bdd0fde56a0401e80",
         "sha512": "c91c4fd29382ca4caccfc311d360646eef1787206170fa5434ef52dda9c2abe59c2960ecee4084f1e2bda59a97f242b03a306d9fcf2a51dae042a93d383e90b1"
       },
-      "path": "mods/[ADDITIONS] Better Combat - Extension v2.9.0.jar"
+      "path": "mods/[ADDITION] Better Combat - Extension v2.9.0.jar"
     },
     {
       "downloads": [
@@ -77,7 +77,7 @@
         "sha1": "1a67aaa8c93a5b01f8514386f24e6acf1baf0409",
         "sha512": "d9db4cdb9377e2c2c6f458370f414d26958ae6f7bc2559de44cf436d0484688b60516d9f88576b23862b2df12a3fb9599ee4b40dea11046c6adf537b3ba867c4"
       },
-      "path": "mods/[ADDITIONS] Better Combat - Particles v0.0.2.jar"
+      "path": "mods/[ADDITION] Better Combat - Particles v0.0.2.jar"
     },
     {
       "downloads": [
@@ -92,7 +92,7 @@
         "sha1": "4342bfcecf3397ff15c5315a4254459c4b2553c7",
         "sha512": "4e13521ae4d01f36e90ddfafe944d791b144696dab606fd42f1fdf5da5f7fe141e8538b6bad2b57fc0bfce4c0a28619d5c2cb2093396086b66505fac7bf32a67"
       },
-      "path": "mods/[ADDITIONS] CIT Resewn - NeoPatcher v1.1.0.jar"
+      "path": "mods/[ADDITION] CIT Resewn - NeoPatcher v1.1.0.jar"
     },
     {
       "downloads": [
@@ -107,7 +107,7 @@
         "sha1": "b1c53d6e13100658d4dc2b2e33a650162748c4ea",
         "sha512": "796fa11d0f481b0af9adea76ea2c494086d63adca4650571f94e610ead1af3ba5d88db1d7a177266588fd0647a34d607bf45a75ebbb9639e8d6888035723934d"
       },
-      "path": "mods/[ADDITIONS] Chunky - Borders v1.2.18.jar"
+      "path": "mods/[ADDITION] Chunky - Borders v1.2.18.jar"
     },
     {
       "downloads": [
@@ -122,7 +122,7 @@
         "sha1": "8ea07df55b26c8343d06df77936505a23e0d2140",
         "sha512": "ff9fc5d48a81e820c8c26b8a045e0ab7a3b0e9b5eaee7369b2eadb3f93d7eb423255073dfc327d131cb667df93be066560f3704b4cc8a12b07486b98a12bad1d"
       },
-      "path": "mods/[ADDITIONS] Connector - Extras v1.12.1.jar"
+      "path": "mods/[ADDITION] Connector - Extras v1.12.1.jar"
     },
     {
       "downloads": [
@@ -137,7 +137,7 @@
         "sha1": "0afecce68c1fa9e13ef46d4b20a67f65b19c9d8c",
         "sha512": "60db5a6c2649d58de5514f851cda63c3bef9eb46a827f1f587cca1fa935fe9f8ef8d0fdf3ed71adb4b58193a72f9ce7ea2e9d4d83e274ee70faa6265b4c80dd6"
       },
-      "path": "mods/[ADDITIONS] EMI - Effects v2.1.6.jar"
+      "path": "mods/[ADDITION] EMI - Effects v2.1.6.jar"
     },
     {
       "downloads": [
@@ -152,7 +152,7 @@
         "sha1": "02ad74769ffcec259fd9bb14a1760593f6182b5c",
         "sha512": "90944c8ff897fa98d0323fe94e4053fb89f43cbaf4fd28d6ad58134cea1469c9398e0c0edd4328a5530e1578ad2286ec5822292bf9c587182e5606dbfff218be"
       },
-      "path": "mods/[ADDITIONS] EMI - Enchantings v0.1.2.jar"
+      "path": "mods/[ADDITION] EMI - Enchantings v0.1.2.jar"
     },
     {
       "downloads": [
@@ -167,7 +167,7 @@
         "sha1": "70429571ccf7faa4c1811092739fb7d645829eef",
         "sha512": "9267359eefc56bdb1eca2992cba12363f54f974f27ca2031ecb0677ba4c3bcd1d563db94dd569bbdf085a8b890cd7aa681ae6f485859051565b6a2cf50adc4c8"
       },
-      "path": "mods/[ADDITIONS] EMI - Extras v1.0.3.jar"
+      "path": "mods/[ADDITION] EMI - Extras v1.0.3.jar"
     },
     {
       "downloads": [
@@ -182,7 +182,7 @@
         "sha1": "5429623ee1e27c6d4e820c0514233089140fd48c",
         "sha512": "273dce3dc8746c664f95cd97f2afc8f32684dd107c69daacd40c514574207d856a9edf6133cb1529cf7c50d6fbc16f30028a9ecb8137162d29f52567cdc4c564"
       },
-      "path": "mods/[ADDITIONS] EMI - Loots v0.7.6.jar"
+      "path": "mods/[ADDITION] EMI - Loots v0.7.6.jar"
     },
     {
       "downloads": [
@@ -197,7 +197,7 @@
         "sha1": "2326620a11ad9ca463ef3a8cfa7d8f5ae169b756",
         "sha512": "7b01dd29400802a18e3f23bcc2057e12070d28529bf358306758b462d69ab0532aa392a4b683cb0f5cf1a20f09e5f0d965f90923e72fb2fd6476f63a55a210a7"
       },
-      "path": "mods/[ADDITIONS] EMI - Ores v1.2.0.jar"
+      "path": "mods/[ADDITION] EMI - Ores v1.2.0.jar"
     },
     {
       "downloads": [
@@ -212,7 +212,7 @@
         "sha1": "5bfd6ca144cd6cf72c6df9a9ab400403ca774e79",
         "sha512": "15eb94d5c2be00f06a96a45a68fc2fe3171f60c87c26d2ebf4ef359271f8b0ee3995f281af17e2b228ab543770ec2d8b486c98f0fe4b511c168a4c0c0e30db40"
       },
-      "path": "mods/[ADDITIONS] EMI - Plus v1.2.3.jar"
+      "path": "mods/[ADDITION] EMI - Plus v1.2.3.jar"
     },
     {
       "downloads": [
@@ -227,7 +227,7 @@
         "sha1": "db869b08e5d86188a259b2dfeeece6f94ea17630",
         "sha512": "f720f58590e3098459c27e3579f36a00b66443b7c089e3fa9ef1399ed17587d51b046c69e2f07f6e21089fc85d58881a5b224d94a1b2f4738a0c6cbb2dd9c798"
       },
-      "path": "mods/[ADDITIONS] EMI - Professions v1.0.3.jar"
+      "path": "mods/[ADDITION] EMI - Professions v1.0.3.jar"
     },
     {
       "downloads": [
@@ -242,7 +242,7 @@
         "sha1": "baac1e5551a66f8030117b92fb1721f019dc071f",
         "sha512": "fa475923322f93172ae5b7e1c3dc24d1d74afc22fd61aada9ffb23450480e87e29d3cc3263073778de722bf0bcc2c27fcd9888de2c35ea73c04536b5988155f5"
       },
-      "path": "mods/[ADDITIONS] Jewelry - Expansion v2.2.2.jar"
+      "path": "mods/[ADDITION] Jewelry - Expansion v2.2.2.jar"
     },
     {
       "downloads": [
@@ -257,7 +257,7 @@
         "sha1": "38498449df8cd185796057f9ba1e27228470a9ce",
         "sha512": "7ae543ad4315f512469988c281313036e2f84a069117bceb924f441c2d2899d045b28692ff56c4c1b0c83e31947b43ab5a5f56a7d2f33d358da6d928ed249af7"
       },
-      "path": "mods/[ADDITIONS] Loot and Explore - Archers v1.0.8.jar"
+      "path": "mods/[ADDITION] Loot and Explore - Archers v1.0.8.jar"
     },
     {
       "downloads": [
@@ -272,22 +272,22 @@
         "sha1": "edf37b01deadb66cfdba31baac987e31dca06a27",
         "sha512": "c5f2979442c35f115adebb4685d9d34f6568c5f40e607489ea49197237a1aaeb1fa2f23cf98911c85470f89e42fd6bb862292217a2e92acbb4ee8ab11ecc9fd8"
       },
-      "path": "mods/[ADDITIONS] Loot and Explore - Paladins and Priests v1.0.7.jar"
+      "path": "mods/[ADDITION] Loot and Explore - Paladins and Priests v1.0.7.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/JEvQhsp7/versions/QgZgIoxt/lne_rogues-1.0.3-1.21.1.jar"
+        "https://cdn.modrinth.com/data/JEvQhsp7/versions/34Kz24mR/lne_rogues-neoforge-1.0.4%2B1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 514902,
+      "fileSize": 321419,
       "hashes": {
-        "sha1": "c3cfed40e1e0a64a388851dc0287a9f28d17bc4d",
-        "sha512": "4ce848fa58adecf5e9df4b5cf1eed295be6ac80cb6881306a98cb88897b215706a19d2b613fb8b375053b894899b6827b4f9713d8a564b12cfb333dbeac29ea0"
+        "sha1": "4c046621e32c4d3eaffe354db04fd6ff765ae654",
+        "sha512": "1d388619a2c31cb5d9b326a0fbf078abfcc55a9d6df8bd2f44e777ad30b5b36470ffc0b2624fa34332d97fdd69d8cbbb113b00b9e6ded287ace33f106e4af90d"
       },
-      "path": "mods/[ADDITIONS] Loot and Explore - Rogues and Warriors v1.0.3.jar"
+      "path": "mods/[ADDITION] Loot and Explore - Rogues and Warriors v1.0.4.jar"
     },
     {
       "downloads": [
@@ -302,7 +302,7 @@
         "sha1": "cecb96ce7bbb7cf7ad2a8833fed746f1af5cefd0",
         "sha512": "1b139ff24688c4b5b594e4f53d4922ebcad7637b0900a01c88f7a854e4adb3d42abc0eb6b0c31da272a8f2fef96b04aea0929c275c5376cab0ecdf987c98bd75"
       },
-      "path": "mods/[ADDITIONS] Loot and Explore - Wizards v1.0.7.jar"
+      "path": "mods/[ADDITION] Loot and Explore - Wizards v1.0.7.jar"
     },
     {
       "downloads": [
@@ -317,7 +317,7 @@
         "sha1": "f41110384d86a9cc3e9aa435cef47eca6546cff9",
         "sha512": "3a410f983c84d224b0793d1cefd6b1366f18d7b09cc94f2c5ac2ee188d73846ea685587cb4f1be753b63141cc8319ee83e382b6ffad9a65d6ac7447a44fa79c2"
       },
-      "path": "mods/[ADDITIONS] Relics - Expansion v1.1.0.jar"
+      "path": "mods/[ADDITION] Relics - Expansion v1.1.0.jar"
     },
     {
       "downloads": [
@@ -332,7 +332,7 @@
         "sha1": "fbc21959542f1c47510dbf173abe485f7ee9d354",
         "sha512": "532dd0c2cfe16776d01210cdfeac7d60de2ff08dff998ce86a0a76b0ec294ddd5544da507cd7c10729d7098b9100827b9180c08d5197317cf3d54e39f66cdba6"
       },
-      "path": "mods/[ADDITIONS] Skill Tree - Expansion v1.0.4.jar"
+      "path": "mods/[ADDITION] Skill Tree - Expansion v1.0.4.jar"
     },
     {
       "downloads": [
@@ -347,7 +347,7 @@
         "sha1": "7473bb42753902c639294821af13e9cd9ee735da",
         "sha512": "6f7383ef3f4b572c76d3371a7441bc3d625db9d404cf61b249fab018bc3ffd1fa82e735ec21916df3f4072f0927dad3673efbc40bf8d11846c3d6fecc9329bb7"
       },
-      "path": "mods/[ADDITIONS] Sodium - Extras v0.6.0.jar"
+      "path": "mods/[ADDITION] Sodium - Extras v0.6.0.jar"
     },
     {
       "downloads": [
@@ -362,7 +362,7 @@
         "sha1": "b03d05495be28d8cef7a34872941bb8d703d60e6",
         "sha512": "d66b5d30e1bb8316cb75d52ba8485c6c1cfb0d03624288f39c1826b92de9da9c3d79351be9d7303ca3226176255921f35063139da118c755cf9a709186129744"
       },
-      "path": "mods/[ADDITIONS] Sodium - Options v1.8.3.jar"
+      "path": "mods/[ADDITION] Sodium - Options v1.8.3.jar"
     },
     {
       "downloads": [
@@ -377,7 +377,7 @@
         "sha1": "ed64908bdd221f4beb067cc13b74824f85021de8",
         "sha512": "b505def6b1b560130a902018d717ec84a09ae7e0c94991bf6480c7a6809ad3cab9e1d91b94808399354b1f41a4ff65ca952370fb4ca0f26ac459459ff5c2e52c"
       },
-      "path": "mods/[ADDITIONS] Sodium - Shadowy Path Blocks v4.0.0.jar"
+      "path": "mods/[ADDITION] Sodium - Shadowy Path Blocks v4.0.0.jar"
     },
     {
       "downloads": [
@@ -392,7 +392,7 @@
         "sha1": "913700e38b12d595b16ade1c4da1b10ab595303d",
         "sha512": "de02c13a92cb7b7ce0aee73b40b48f9410e8dccf9fc57f25c2846c315d2a3d4e995eeb29ce7fc2b79746f215d2f3e1cfe03fd1bc5607a2c2e1e87bfa322c78d4"
       },
-      "path": "mods/[ADDITIONS] Sounds - Extras v0.1.1.jar"
+      "path": "mods/[ADDITION] Sounds - Extras v0.1.1.jar"
     },
     {
       "downloads": [
@@ -407,7 +407,7 @@
         "sha1": "e64015de95eb6d17ca4c72ae61389cb1679bd426",
         "sha512": "948b1e4ced7ea15a21bc7af78feebc32e31a23d5619bfff8c4efa6b9560e402c11e11bb5ba238d8a2940b20cad5d32adb5cc733c2c51b2949f6b5c962295a524"
       },
-      "path": "mods/[ADDITIONS] Terralith - Biome Saplings v1.1.6.jar"
+      "path": "mods/[ADDITION] Terralith - Biome Saplings v1.1.6.jar"
     },
     {
       "downloads": [
@@ -422,7 +422,7 @@
         "sha1": "709d1300b4b35bf6a8c6bfc0d5c9d918484ba462",
         "sha512": "62391dc2948f14ea0bebab89bdd88bf768bacf458a1832dcd53f95b709c1caf3dde3470cb5b12f3efe5d6904c72410452c56fce952b03f474d9d7a5dc932dfbb"
       },
-      "path": "mods/[ADDITIONS] Terralith - Remove Intro Message v1.1.0.jar"
+      "path": "mods/[ADDITION] Terralith - Remove Intro Message v1.1.0.jar"
     },
     {
       "downloads": [
@@ -437,7 +437,7 @@
         "sha1": "65dece2a3c9495eb697b73a9c48b1ce2a5830c60",
         "sha512": "d2060fcab1779b9ac7dc6ddfdf27f0bf69bcebf9bad9dc2319bf67fdcc94190b75647105c989f2d4bbab4597d3c672365025224583bdbccc1ebdd7a6f9949f29"
       },
-      "path": "mods/[ADDITIONS] Wizards - Expansion v2.5.3.jar"
+      "path": "mods/[ADDITION] Wizards - Expansion v2.5.3.jar"
     },
     {
       "downloads": [
@@ -1041,18 +1041,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/v3CYg2V9/versions/EPNdj6T1/drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar"
+        "https://cdn.modrinth.com/data/v3CYg2V9/versions/2BfDBRBV/drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 78125,
+      "fileSize": 172759,
       "hashes": {
-        "sha1": "d54a81ceeb1df321dbb0cbc22fc8c9fa96f9be55",
-        "sha512": "909504e2aa65b7040292f6ee358ffdfdbdb8ce16fc6dce2adb0905750546fabc307180cf4438336588da3039dc2206da3ecb113c5e0dd2031a3198cba5d72dcf"
+        "sha1": "907f43294b63cd845bf2fdad1ea5fe5c52552508",
+        "sha512": "2c4deb6ccef676b4e676370bf0d984f18774ad6fc229e4f048ab2bfa848334731d04669f0d2873b08a1e02cc868d95735f47fb79a01a28433b1cdd45d523c727"
       },
-      "path": "mods/[NEOFORGE] Drippy Loading Screen v3.0.12.jar"
+      "path": "mods/[NEOFORGE] Drippy Loading Screen v3.1.0.jar"
     },
     {
       "downloads": [
@@ -1296,18 +1296,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/f5YVr9M0/fancymenu_neoforge_3.7.0_MC_1.21.1.jar"
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/gVwxHWqa/fancymenu_neoforge_3.8.0_MC_1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 3432729,
+      "fileSize": 4297562,
       "hashes": {
-        "sha1": "a7f7feeb0273ebfa0eafacc2ed3169d7abec8ef1",
-        "sha512": "d0bc62f71faf92ece7adf38eeeb698e8d3b512810eaaf8e71b5dcb558bfc8e731291f9131f8f5af6fb90d2c148aef1e14a9f927e8155ba436040d765ee622cde"
+        "sha1": "33430fb346d86e74fc07667c8f1e5da72a0a6f26",
+        "sha512": "8ee60a3fe6365440949317fd2e3ad588bf43395f26a5a7f75ac9576073dbcb5a3eea166b9ddf6a79e5289ad537bc090c2432a81668b9e3467bc366a0ce9b388c"
       },
-      "path": "mods/[NEOFORGE] Fancy Menu v3.7.0.jar"
+      "path": "mods/[NEOFORGE] Fancy Menu v3.8.0.jar"
     },
     {
       "downloads": [
@@ -1536,33 +1536,33 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xYxpXTIt/lithium-neoforge-0.15.0%2Bmc1.21.1.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/G5SDYehn/lithium-neoforge-0.15.1%2Bmc1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 747405,
+      "fileSize": 749987,
       "hashes": {
-        "sha1": "584c5a8186938dd58e43ecde316253e8e38f6650",
-        "sha512": "34c0250ab119e7d83eb069433315883a572cd197d025dcc043c5f7e399c1e350addd79aed756da0bda87cc76add1a8747c5f69293ec2b9278b0348a1c15cdb32"
+        "sha1": "38295e15a600899697a5dbd29b1e9c15060e5760",
+        "sha512": "1975e74294798fe173d944d3e0b174b39dc8b7fa177340acb71c8a85772932b82c9406099c854d45fa4f71b80dbbb73602fd7cc36d1374dfc8402e4a30ccfe3b"
       },
-      "path": "mods/[NEOFORGE] Lithium v0.15.0.jar"
+      "path": "mods/[NEOFORGE] Lithium v0.15.1.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/EltpO5cN/versions/QMRmPuOh/lootr-neoforge-1.21-1.10.35.91.jar"
+        "https://cdn.modrinth.com/data/EltpO5cN/versions/CbEHS4bM/lootr-neoforge-1.21-1.10.35.92.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 560194,
+      "fileSize": 565364,
       "hashes": {
-        "sha1": "5cab9696c4e43e67334843ef0539738c9f4a49a0",
-        "sha512": "0bc76fd2bec843a357e2443b78c40c5811f73b068fead044bd619c50611a8d2eaf4b82e47c1f6894f7da6af2130992506c40d6c5fc334fe4d6ffaaabb4eaae06"
+        "sha1": "9833842c5faff0467f97fa3842c334f415ab8f81",
+        "sha512": "994344bd44e9655b213315a9a09349acf120cc9ffe8597881b0ea8f4ce821812d0876229cd7f2cdc0fcc9ea5f096d8d828aa6aa2d6c50f44cc4a87e96ae95712"
       },
-      "path": "mods/[NEOFORGE] Lootr v1.10.35.91.jar"
+      "path": "mods/[NEOFORGE] Lootr v1.10.35.92.jar"
     },
     {
       "downloads": [
@@ -1881,18 +1881,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/kepjj2sy/versions/6x5NJgJr/ShoulderSurfing-NeoForge-1.21.1-4.15.1.jar"
+        "https://cdn.modrinth.com/data/kepjj2sy/versions/qtske3qb/ShoulderSurfing-NeoForge-1.21.1-4.16.0.jar"
       ],
       "env": {
         "client": "required",
         "server": "unsupported"
       },
-      "fileSize": 243278,
+      "fileSize": 245762,
       "hashes": {
-        "sha1": "9119d196ec38b41f3f5581db2b50a46581f55060",
-        "sha512": "8f692b61061d33b1457f401033b6f142dd06579fe00785254d5d596a9314ddd7c76f29f9161d695019fe6dfb25019c1fa2d1ccac78bb6f10dd8c0d45079cfbeb"
+        "sha1": "bda84ae1c0ccc39a78a0ceedc7c30cffb9f4a5c3",
+        "sha512": "5d93f5761f6ec05735d947819ec25b2c4d585896a8c107602183c976965f7db0d7614100d56d8c5168dc79aec4372609cf12d1859d9e9598f60c1c15047a81ba"
       },
-      "path": "mods/[NEOFORGE] Shoulder Surfing - Reloaded v4.15.1.jar"
+      "path": "mods/[NEOFORGE] Shoulder Surfing - Reloaded v4.16.0.jar"
     },
     {
       "downloads": [
@@ -2133,6 +2133,21 @@
         "sha512": "1753332e797230f81865607e8e90ddb97c8093154974de02f0b3dc00e7a4bc62ff268314260bc6b215aaea17c0cef3f78ea9e8c66f5c97179496b8bc42cf0ebd"
       },
       "path": "mods/[NEOFORGE] Xaeros World Map v1.39.12.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/zO7tsTJN/versions/A6bCvCiA/yyzsbackpack-neoforge-21.1.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 180793,
+      "hashes": {
+        "sha1": "ea212874f781087bf9dc51b7fd5286b669914627",
+        "sha512": "096181f8402add8485df091ba53b4716f9d840f4a2d02599fb2d5b2f944d22ef44893ac8a4f02a774f4168b42b1b8ccc03761358ab20a173cb6bb4ae7873940d"
+      },
+      "path": "mods/[NEOFORGE] Yyzs Backpack v21.1.2.jar"
     },
     {
       "downloads": [
@@ -2556,18 +2571,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/8hqOZzxM/versions/QKkAduMo/berserker_rpg-neoforge-2.5.2%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/8hqOZzxM/versions/baIS65TP/berserker_rpg-neoforge-2.5.3%2B1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 469321,
+      "fileSize": 486597,
       "hashes": {
-        "sha1": "5e5f5c0ab9f7755f946baff4b1c88a7bb0beca53",
-        "sha512": "fc646f4bc9f37ab47f6b4b8839fa7416c1d693e0cdb7da156f60554b743175310ef7b91b2cc2edd02c795e264b8b4370675a4346277bb3b299b8353f8e6332c7"
+        "sha1": "1f0670ddc7641c137d4c71f33c92867827dccf41",
+        "sha512": "c927272943513d01b9f3bc5d998d1b5cd960709b3aa846f37c1e188e563821fbdb45585b74163769c1f29fdbed6df8e106935b9b98e8e72e46a2d5cd74737173"
       },
-      "path": "mods/[RPG SERIES] Berserker v2.5.2.jar"
+      "path": "mods/[RPG SERIES] Berserker v2.5.3.jar"
     },
     {
       "downloads": [
@@ -2826,18 +2841,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Wkc3lwHo/versions/3DgA8uHi/more_rpg_library-neoforge-2.5.4%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/Wkc3lwHo/versions/MWUr7naI/more_rpg_library-neoforge-2.5.6%2B1.21.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1213665,
+      "fileSize": 1228151,
       "hashes": {
-        "sha1": "d622d179b085d9ffdb9c2a6b0fa34eb3b1456ca5",
-        "sha512": "f0010b248142bdc7e16104f9ea523897843d07fbcaa58300388666dc946cd96bbd2118ef9dd193354a8e762ded1ef6aa07ac6014a3c16893bbdb1bfad5cda89f"
+        "sha1": "fe11febacb94022c47197b1092f9148e211b6b7d",
+        "sha512": "897ddce19b482d72617608db1ea66642de4f47d4789441ce01e762dc28d14647faf3656de2394f67c27c81fadfbe096d0164e1e817d170da8ed4c3f7ca0f72dc"
       },
-      "path": "mods/[RPG SERIES] [LIBRARY] More RPG Library v2.5.4.jar"
+      "path": "mods/[RPG SERIES] [LIBRARY] More RPG Library v2.5.6.jar"
     },
     {
       "downloads": [
@@ -3354,5 +3369,5 @@
   "game": "minecraft",
   "name": "The Legend of Excalibur",
   "summary": "Immerse yourself in a fantasy medieval world: magic, knights, dragons, and perilous adventures await!",
-  "versionId": "v1.2.0-dev.8"
+  "versionId": "v1.2.0-dev.9"
 }

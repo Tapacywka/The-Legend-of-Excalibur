@@ -1,7 +1,7 @@
 version = 1
 enableSodiumMenu = false
 itemFrameLODRange = 12
-itemFrame3FaceCullingRange = 4
+itemFrame3FaceCullingRange = 2
 leavesCullingMode = "CHECK"
 includeMangroveRoots = true
 endGatewayCulling = true

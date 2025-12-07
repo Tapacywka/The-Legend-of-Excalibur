@@ -3,7 +3,7 @@
 	[camera.offset]
 		offset_x = -0.5
 		offset_y = 0.25
-		offset_z = 4.0
+		offset_z = 5.0
 
 [perspective]
 	replace_default_perspective = true
