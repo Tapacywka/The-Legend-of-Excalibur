@@ -1,13 +1,9 @@
 [camera]
-	decoupled_camera = true
 
 	[camera.offset]
-		offset_x = -1.0
-		offset_y = 0.5
-		offset_z = 5.0
-
-			[camera.offset.multiplier.climbing]
-				multiplier_offset_x = 1.0
+		offset_x = -0.5
+		offset_y = 0.25
+		offset_z = 4.0
 
 [perspective]
 	replace_default_perspective = true
@@ -23,11 +19,7 @@
 		when_attacking = "NEVER"
 		when_interacting = "NEVER"
 		when_picking = "NEVER"
-		turning_lock_time = 20
-
-[object_picker]
-	[object_picker.pick_vector]
-		pick_vector = "PLAYER"
+		turning_lock_time = 10
 
 [crosshair]
 	crosshair_type = "DYNAMIC"
@@ -35,3 +27,8 @@
 	[crosshair.visibility]
 		first_person = "WHEN_AIMING_OR_IN_RANGE"
 		shoulder_surfing = "WHEN_AIMING"
+
+[object_picker]
+
+	[object_picker.pick_vector]
+		pick_vector = "PLAYER"
