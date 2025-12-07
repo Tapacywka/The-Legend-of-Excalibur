@@ -1,6 +1,7 @@
 {
   "hiddenCategories": [],
   "hiddenKeybinds": [
+    "chunksfadein.keybinds.toggleMod",
     "gnetum.config.keyMapping",
     "gui.xaero_alternative_list_players",
     "gui.xaero_display_all_sets",
@@ -35,8 +36,6 @@
     "key.beltborne_lanterns.open_debug",
     "key.beltborne_lanterns.toggle_debug",
     "key.beltborne_lanterns.toggle_lantern",
-    "key.better_tooltips.horizontal_scroll_key",
-    "key.better_tooltips.scroll_key",
     "key.dynamic_fps.toggle_disabled",
     "key.dynamic_fps.toggle_forced",
     "key.entityculling.toggle",

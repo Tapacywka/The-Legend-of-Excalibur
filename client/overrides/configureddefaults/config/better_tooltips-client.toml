@@ -1,8 +1,0 @@
-[content_manipulation]
-	wrapText = "REMAINING_WIDTH"
-	overwriteVanillaWrapping = true
-
-[positioning]
-	preventVanillaClamping = false
-	onlyRepositionHoverTooltips = false
-	useYACLTooltipPositioner = true

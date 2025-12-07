@@ -3,6 +3,3 @@ defaultGlobalExecutorParallelismExpression = "max(1,min(if(is_client,(cpus/2.66+
 
 	[clientSideConfig.modifyMaxVDConfig]
 		maxViewDistance = 256
-
-[noTickViewDistance]
-	maxConcurrentChunkLoads = 128

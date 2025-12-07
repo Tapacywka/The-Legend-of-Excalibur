@@ -1,0 +1,11 @@
+## <font color="#00ff00">Added</font>
+- Added **Copper Age Backport** and **Vanilla Backport** mods.
+- Added **Dungeons and Taverns** mod with all additions.
+- Added **Failte Skill Tree** addition for the **Puffish Skills** mod.
+---
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.216`.
+- Updated datapacks, mods and resourcepacks.
+---
+## <font color="#ff0000">Removed</font>
+- Removed **Better Combat: Particles**, **Better Tooltips**, **Tooltip Overhaul** and **Yyz's Backpack** mods.

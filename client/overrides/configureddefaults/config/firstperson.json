@@ -4,5 +4,5 @@
   "sitXOffset": 16,
   "renderStuckFeatures": false,
   "vanillaHandsMode": "ALL",
-  "vanillaHandsSkipSwimming": false
+  "vanillaHandsSkipSwimming": true
 }

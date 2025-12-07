@@ -1,6 +1,11 @@
 {
   "version": 1,
   "overrides": {
+    "bettercombatextension": {
+      "depends": {
+        "bettercombat": "*"
+      }
+    },
     "lambdabettergrass": {
       "-recommends": {
         "modmenu": "*"
