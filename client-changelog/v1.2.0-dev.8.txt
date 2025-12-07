@@ -1,0 +1,11 @@
+## <font color="#00ff00">Added</font>
+- Added **More RPG Library**, **More RPG Classes: Skill Tree** mods.
+- Added **More Relics** and **Additional Jewelry** mods.
+- Added **Archers Expansion** and **Elemental Wizards** mods.
+- Added **Berserker**, **Forcemaster** and **Witcher** mods.
+- Added **Paxi** and **Loot & Explore** mods with all additions.
+- Added **Loot & Explore: RPG Series Loot Compat** datapack.
+- Added **Witcher: RPG Series Loot Compat** datapack.
+---
+## <font color="#ff9900">Changed</font>
+- Updated mods and resourcepacks.
