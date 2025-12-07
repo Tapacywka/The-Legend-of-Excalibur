@@ -1,0 +1,6 @@
+## <font color="#00ff00">Added</font>
+- Added **Better Combat: Particles** and **Critical Strike** mods.
+---
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.215`.
+- Updated mods and resourcepacks.
